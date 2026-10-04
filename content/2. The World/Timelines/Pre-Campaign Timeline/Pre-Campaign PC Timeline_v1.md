@@ -1,5 +1,3 @@
-
----
 # Before the Campaign
 
 NOTE: "DAY 1" is stated as happening "somewhere in the year 614 AGK."
@@ -9,7 +7,7 @@ NOTE: "DAY 1" is stated as happening "somewhere in the year 614 AGK."
 
 - Prince Kronar Stormrage fucks a dragon
 - Duke Kaelen Stormrage is born.
----
+
 ## Kyrra's Kidnapping
 *(~22 years before Day 1)*
 
