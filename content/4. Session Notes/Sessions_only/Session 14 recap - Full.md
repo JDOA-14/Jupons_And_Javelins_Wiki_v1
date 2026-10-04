@@ -3,74 +3,74 @@ aliases:
   - Session 14
 ---
 
-- [[The Gang|The gang]] wakes up in houses - not sure where they are
-	- [[Detective Cole Le Fev|Cole]] wakes up alone in a basement
-	- [[Cryos Frostjaw|Cryos]] and [[Kaelen Stormrage|Kaelen]] wake up tied up in a kitchen
+- The gang wakes up in houses - not sure where they are
+	- Cole wakes up alone in a basement
+	- Cryos and Kaelen wake up tied up in a kitchen
 	- Mae wakes up in a room on the ground level with blood nearby - not hers
-	- [[Gronk Shadowfang|Gronk]] wakes up in a pile of bandit bodies
+	- Gronk wakes up in a pile of bandit bodies
 -  They are missing weapons but have their gear and arcane focuses
-	- [[Detective Cole Le Fev|Cole]] is able to escape the basement and notices the cultists moving around, and they are in [[Pinetide]]
-	- [[Cryos Frostjaw|Cryos]] and Kaelin scare off a guard, but a giant beetle returns - Kaelin firebreaths it, and [[Cryos Frostjaw|Cryos]] smacks his head with a stoen pillar, sealing them safely in the kitchen
-		- they make their way to a barn and fine [[Gronk Shadowfang|Gronk]]
+	- Cole is able to escape the basement and notices the cultists moving around, and they are in Pinetide
+	- Cryos and Kaelin scare off a guard, but a giant beetle returns - Kaelin firebreaths it, and Cryos smacks his head with a stoen pillar, sealing them safely in the kitchen
+		- they make their way to a barn and fine Gronk
 		- Kaelin uses gaseous form and escapes to the roof -- unnoticed
 			- He recognises a goliath that was meant to have been sacrificed a few years ago.
 	- Mae waits until someone approaches the door -- and uses her WIND FAN to blow a bookshelf -- knocking back a guard and sealing off the room.
 - Eventually, they all meet in the middle house roof (besides Mae)
-	- [[Cryos Frostjaw|Cryos]] throws [[Gronk Shadowfang|Gronk]] up there, and then echo-ports up there himself
-- [[The Gang|The gang]] all finally group up (besides animals and [[Leif LúmëLóke|Leif]] and [[Jeremy]]) on another house roof near the tree line
+	- Cryos throws Gronk up there, and then echo-ports up there himself
+- The gang all finally group up (besides animals and Leif and Jeremy) on another house roof near the tree line
 - They get their gear, and overhear the paladin being interrogated downstairs
-- He is being interrogated by a couple of cultists and a clear leader cultist, [[Petra]]. An older woman in her 50s with black hair and two grey streaks in it.
-- [[Cryos Frostjaw|Cryos]] makes his echo downstairs to completely distract the guards.
+- He is being interrogated by a couple of cultists and a clear leader cultist, Petra. An older woman in her 50s with black hair and two grey streaks in it.
+- Cryos makes his echo downstairs to completely distract the guards.
 - Kaelin invises and is able to hide the paladin away upstairs.
 - Once out, the person May knocked over enters the room downstairs, 
-	- [[Leif LúmëLóke|LEIF]]
-- [[The Gang|The gang]] overhear [[Leif LúmëLóke|Leif]] arguing with [[Petra]], asking to give him a chance to talk to [[The Gang|the gang]], but [[Petra]] saying they'll need to kill them if they run.
-- May and Kaelin wait until [[Leif LúmëLóke|Leif]] is alone and they approach him in the tree line behind the house (Kaelin still invis)
-	- May convinces [[Leif LúmëLóke|Leif]] that she's by herself
-- [[Detective Cole Le Fev|Cole]] and [[Gronk Shadowfang|Gronk]] search for the others and find [[Jeremy]], [[Little Shitty]], and [[Cuddleclaw]] locked in a barn.
-- [[Cryos Frostjaw|Cryos]] stays with the paladin to keep him stealthed and safe, and to keep the attic door locked.
-- May questions [[Leif LúmëLóke|Leif]]
-	- [[Leif LúmëLóke|Leif]] admits that he is the leader of this "cult" but they are against [[Aethercrysts|the Aethercrysts]] for a reason.
-	- He claims they are hiding something, and that he found out the sacrifices weren't working - yet [[Aethercrysts|the Aethercrysts]] were killing them anyway to keep up appearances
-	- He and some other "rebels" - started by him and [[Petra]], started rescuing the sacrifices
+	- LEIF
+- The gang overhear Leif arguing with Petra, asking to give him a chance to talk to the gang, but Petra saying they'll need to kill them if they run.
+- May and Kaelin wait until Leif is alone and they approach him in the tree line behind the house (Kaelin still invis)
+	- May convinces Leif that she's by herself
+- Cole and Gronk search for the others and find Jeremy, Little Shitty, and Cuddleclaw locked in a barn.
+- Cryos stays with the paladin to keep him stealthed and safe, and to keep the attic door locked.
+- May questions Leif
+	- Leif admits that he is the leader of this "cult" but they are against the Aethercrysts for a reason.
+	- He claims they are hiding something, and that he found out the sacrifices weren't working - yet the Aethercrysts were killing them anyway to keep up appearances
+	- He and some other "rebels" - started by him and Petra, started rescuing the sacrifices
 	- They formed this band of rebels 
 	- Hints that he felt something was off for a while.
-	- May asks if this whole time she's been on the hunt for [[Black Rain|the black rain]] and such, if he's been part of these "rebels". He says yes.
-	- May and maybe others don't like that [[Petra]] wanted to kill them, and also don't trust [[Leif LúmëLóke|Leif]] fully. However she has a long history with [[Leif LúmëLóke|Leif]] so is inclined to hear them out. 
-	- [[Leif LúmëLóke|Leif]] and [[The Rebels|the rebels]] know the paladin is hiding the location of the Aeris Idagator -- a powerful device that can locate magic items. They want it to find the real accords.
+	- May asks if this whole time she's been on the hunt for the black rain and such, if he's been part of these "rebels". He says yes.
+	- May and maybe others don't like that Petra wanted to kill them, and also don't trust Leif fully. However she has a long history with Leif so is inclined to hear them out. 
+	- Leif and the rebels know the paladin is hiding the location of the Aeris Idagator -- a powerful device that can locate magic items. They want it to find the real accords.
 	- She suggests questioning the paladin instead of trying to interrogate him.
-- [[Leif LúmëLóke|Leif]] goes to calm [[Petra]] while [[The Gang|the gang]] meets with the Paladin. 
-- [[Leif LúmëLóke|Leif]] and [[Petra]] arrive, and the talks begin.
-- [[The Gang|The gang]] explain [[Black Rain|the black rain]] and the sacrifices being not really killed
-- With some persuasion checks, they convince the paladin to talk about where the [[Aeris Indagator]] is.
-- He breaks down and says he'll help find it, so they can find [[The Accords|the accords]] and the truth will be revealed.
+- Leif goes to calm Petra while the gang meets with the Paladin. 
+- Leif and Petra arrive, and the talks begin.
+- The gang explain the black rain and the sacrifices being not really killed
+- With some persuasion checks, they convince the paladin to talk about where the Aeris Indagator is.
+- He breaks down and says he'll help find it, so they can find the accords and the truth will be revealed.
 - They venture together to where the [[Aeris Indagator]] is being held
 - [[Fort NatureGuard]]
 - On way they read letters:
 	- no news on King Doran
-	- [[Gronk Shadowfang|Gronk]]'s parents are warning about an uprising in the Elf Kingdom and are going to check it out
-	- [[Kua-Toa|Kua Toa]] [[Kaelen Stormrage|Kaelen]] Religion is on it's way and has its first members
+	- Gronk's parents are warning about an uprising in the Elf Kingdom and are going to check it out
+	- Kua Toa Kaelen Religion is on it's way and has its first members
 		- 2 silver pieces donated
 		- But also the combination of the fishing works has netted 10 gold
-			- [[Kaelen Stormrage|Kaelen]] invests 50 gold to get them up and running!!
-- They arrive at a small forrest fort in the mountains north of [[Glenvaris]]
+			- Kaelen invests 50 gold to get them up and running!!
+- They arrive at a small forrest fort in the mountains north of Glenvaris
 - They find two guards -- who have massive ears.
-- they sneak in and [[Little Shitty|Little shitty]] tries to destroy the alarm bell
+- they sneak in and Little shitty tries to destroy the alarm bell
 	- he fails, ringing it
 	- but that just distracts the guards enough.
-- [[The Gang|The gang]] fight through a series of [[Golden Guards of Eryndor|golden guards]] who have been severely mutated. Most likely by experimentation with [[Black Rain|the black rain]].
+- The gang fight through a series of golden guards who have been severely mutated. Most likely by experimentation with the black rain.
 	- they fight some mutated things that act like hook horrors and displacer beasts
 - They make it to the final room -- and fight 14 foot tall mutated guardian. 
 - Every time the cut off one of his limbs it grows back and he glows with radiant light - getting stronger
 - they defeat him but his radiant form comes back even strongerer
 - he wants to get his body back - from another helmet.
-- [[The Gang|The gang]] destroy the helmet and he explodes -- and dissipates.
-- They find the door to the Aeris locked -- needing 3 [[Aethercrysts|Aethercryst]] smites to unlock.
-- The Paladin does, [[Detective Cole Le Fev|Cole]] does, and [[Gronk Shadowfang|Gronk]] - who had absorbed radiant damage does.
+- The gang destroy the helmet and he explodes -- and dissipates.
+- They find the door to the Aeris locked -- needing 3 Aethercryst smites to unlock.
+- The Paladin does, Cole does, and Gronk - who had absorbed radiant damage does.
 - They retrieve the [[Aeris Indagator]] and use it to determine some locations of things.
 	- - accords in the Middle Island ([[Traminer Isle]])
-	- Pearl of [[Thundermarch]] headed towards [[Arlewyn]]
-	- Amulet of Ancestors - [[Skaldgrym]]
-	- Necrolexicum Aeternum in [[Arlewyn]]
-	- Pearl of power in [[Skaldgrym]]
-- [[The Gang|The gang]] received some magic items and levelled up to level 5
+	- Pearl of Thundermarch headed towards Arlewyn
+	- Amulet of Ancestors - Skaldgrym
+	- Necrolexicum Aeternum in Arlewyn
+	- Pearl of power in Skaldgrym
+- The gang received some magic items and levelled up to level 5

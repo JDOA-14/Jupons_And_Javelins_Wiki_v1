@@ -60,5 +60,5 @@ Upon recovering, Tekka revealed that they had been actively pursuing Anti-[[Aara
 
 ## 🤝 Relationships & Loyalties
 
-- **Allies:** [[Detective Cole Le Fev|Cole]], [[Cryos Frostjaw|Cryos]], May
+- **Allies:** Cole, Cryos, May
 - **Enemies:** [[The Reclaimers]], Anti-[[Aarakocra]] cultists

@@ -12,7 +12,7 @@ tags:
 aliases:
   - Consecrators
 ---
-The paladin sect of [[Golden Guards of Eryndor|the Golden Guards]] / [[Aethercrysts]]
+The paladin sect of [[Golden Guards of Eryndor]] / [[Aethercrysts]]
 
 The Consecrators
 

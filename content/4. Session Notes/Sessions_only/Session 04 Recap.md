@@ -4,8 +4,8 @@
 # Session 4 Recap – Present
 
 ## Session Overview
-- **Players present:** Thomas ([[Detective Cole Le Fev|Cole]]), Rhys ([[Kaelen Stormrage|Kaelen]]), Ethan ([[Cryos Frostjaw|Cryos]]).  
-- **[[PCs]] present:** [[Detective Cole Le Fev|Cole Le Fev]], [[Kaelen Stormrage]], [[Cryos Frostjaw]].  
+- **Players present:** Thomas (Cole), Rhys (Kaelen), Ethan (Cryos).  
+- **PCs present:** [[Detective Cole Le Fev|Cole Le Fev]], [[Kaelen Stormrage]], [[Cryos Frostjaw]].  
 - **Absent PC:** [[Sally the Smasher]] (missing without a trace).  
 - **Mercenaries present:** [[Ol Derek Yeller]] (cleric/fighter), [[Johnny Smallerm]] (paladin).  
 
@@ -20,7 +20,7 @@
 ## The Orc Brothers Bounty
 - Target: two Orc brothers with **two worgs** raiding farmlands.  
 - Victims: local farm north of [[Thundermarch]], sheep and pigs stolen.  
-- [[The Gang|The gang]] spend the night at the farm before pursuing.  
+- The gang spend the night at the farm before pursuing.  
 
 ---
 
@@ -40,19 +40,19 @@
   - Stolen livestock alive in a gated pen.  
 
 ### First Orc Brother
-- Worg charges [[The Gang|the gang]] → defeated.  
+- Worg charges the gang → defeated.  
 - Orc Brother #1 spotted hurling javelins from tower window.  
 - [[Turbo]] scouts tower interior.  
-- [[Detective Cole Le Fev|Cole]] (with astral arms) flies up, tries to pull orc out, but he clings to window frame.  
-- [[Cryos Frostjaw|Cryos]] freezes the frame, enabling [[Detective Cole Le Fev|Cole]] to rip him free.  
-- Orc survives fall but is finished by [[Kaelen Stormrage|Kaelen]], skeletons, and [[Cryos Frostjaw|Cryos]].  
+- Cole (with astral arms) flies up, tries to pull orc out, but he clings to window frame.  
+- Cryos freezes the frame, enabling Cole to rip him free.  
+- Orc survives fall but is finished by Kaelen, skeletons, and Cryos.  
 
 ### Second Orc Brother
-- [[Turbo]] locates him on top floor.  
+- Turbo locates him on top floor.  
 - Team combo:  
-  - [[Kaelen Stormrage|Kaelen]] casts *Enlarge* on [[Detective Cole Le Fev|Cole]].  
-  - Giant [[Detective Cole Le Fev|Cole]] flies up and hurls the orc skyward.  
-  - [[Cryos Frostjaw|Cryos]] spikes ground with icy icicles.  
+  - Kaelen casts *Enlarge* on Cole.  
+  - Giant Cole flies up and hurls the orc skyward.  
+  - Cryos spikes ground with icy icicles.  
   - Orc lands on icicles → becomes “sponge full of holes” → explodes into pieces.  
 
 ---

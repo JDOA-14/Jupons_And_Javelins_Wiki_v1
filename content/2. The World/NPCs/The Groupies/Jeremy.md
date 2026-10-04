@@ -56,11 +56,11 @@ Jeremy is a dedicated student of necromancy who serves as a loyal companion to t
 
 ## 📜 Biography
 
-Jeremy’s journey with the party began in secrecy, as he initially hid within a new wagon alongside [[Detective Cole Le Fev|Cole]], May, and [[Leif LúmëLóke|Leif]]. He quickly proved his worth as an ally, joining forces with [[Leif LúmëLóke|Leif]], [[Little Shitty]], and a group of new fighters to hunt down and eliminate a remaining pack of bears.
+Jeremy’s journey with the party began in secrecy, as he initially hid within a new wagon alongside Cole, May, and [[Leif LúmëLóke]]. He quickly proved his worth as an ally, joining forces with [[Leif LúmëLóke]], [[Little Shitty]], and a group of new fighters to hunt down and eliminate a remaining pack of bears.
 
-The group's cohesion was briefly tested when Jeremy separated from the main party to position himself on a house roof near the tree line. This period of solitude ended when [[Detective Cole Le Fev|Cole]] and [[Gronk Shadowfang|Gronk]] discovered him, along with [[Little Shitty]] and [[Cuddleclaw]], locked inside a barn. During this ordeal, Jeremy suffered a grievous injury when a rock crushed his leg; however, he was saved by the intervention of [[Detective Cole Le Fev|Cole]]. Most recently, Jeremy has been seen associating with [[Cryos Frostjaw|Cryos]] and [[Turbo]].
+The group's cohesion was briefly tested when Jeremy separated from the main party to position himself on a house roof near the tree line. This period of solitude ended when Cole and Gronk discovered him, along with [[Little Shitty]] and Cuddleclaw, locked inside a barn. During this ordeal, Jeremy suffered a grievous injury when a rock crushed his leg; however, he was saved by the intervention of Cole. Most recently, Jeremy has been seen associating with Cryos and [[Turbo]].
 
 ## 🤝 Relationships & Loyalties
 
-- **Allies:** [[Detective Cole Le Fev|Cole]], May, [[Leif LúmëLóke|Leif]], [[Little Shitty]], [[Gronk Shadowfang|Gronk]]
+- **Allies:** Cole, May, [[Leif LúmëLóke]], [[Little Shitty]], Gronk
 - **Enemies:** Remaining bears

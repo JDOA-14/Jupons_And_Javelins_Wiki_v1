@@ -1,7 +1,7 @@
-# [[Session 01 Recap - FULL|Session 01]] Recap
+# Session 01 Recap
 
 **Players Present:** Alex, Thomas, Rhys, Sam  
-**[[PCs]] Present:** [[Sally the Smasher]], [[Detective Cole Le Fev|Cole Le Fev]], [[Kaelen Stormrage|Kaelen Stormrage]], [[Gronk Shadowfang]]
+**PCs Present:** [[Sally the Smasher]], [[Detective Cole Le Fev|Cole Le Fev]], [[Kaelen Stormrage|Kaelen Stormrage]], [[Gronk Shadowfang]]
 
 ---
 
@@ -35,9 +35,9 @@
   - Visited by eccentric halfling [[Tiffle Tattle]], ex-salesman turned seeker of a new life.  
   - He gifted two healing potions (nat 20 luck check).  
 - At the abandoned house:  
-  - [[Sally Syndicate|Sally]] disguised herself again and infiltrated with [[Turbo]] (Kaelin’s grotesque familiar).  
+  - Sally disguised herself again and infiltrated with [[Turbo]] (Kaelin’s grotesque familiar).  
   - Chest with valuables guarded inside.  
-  - [[Sally Syndicate|Sally]] lured guards away with convincing orders → but leader rolled well, resulting in *all* bandits leaving on false mission.  
+  - Sally lured guards away with convincing orders → but leader rolled well, resulting in *all* bandits leaving on false mission.  
   - Party ambushed the remaining forces and won.  
 - Opening the chest triggered a magical wave.  
   - All failed Constitution saves → paralysed.  
@@ -49,10 +49,10 @@
 ### After Freezing
 - Found bandit mission letter signed cryptically: *“the rain will silence, drip drip.”*  
 
-### [[Black Rain]] in [[Ashdawn]]
-- Returned stolen goods to [[Ashdawn]], including the crooked tusk.  
+### Black Rain in Ashdawn
+- Returned stolen goods to Ashdawn, including the crooked tusk.  
   - Barkeep revealed it belonged to his goblin son.  
-- **[[Black Rain]] event:**  
-  - Oozy [[Black Rain|black rain]] fell on [[Ashdawn]].  
-  - Goblins danced in it → transformed into [[Black Rain Mutation|mutants]].  
+- **Black Rain event:**  
+  - Oozy black rain fell on Ashdawn.  
+  - Goblins danced in it → transformed into mutants.  
   - The party defended the town successfully, with minimal structural loss but civilian casualties.  

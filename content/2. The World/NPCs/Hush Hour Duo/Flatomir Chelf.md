@@ -54,9 +54,9 @@ Flatomir Chelf is an elf distinguished by his unique physical appearance, specif
 
 ## 📜 Biography
 
-The history of Flatomir Chelf is revealed through both memory and direct observation. In a flashback experienced by [[Gronk Shadowfang|Gronk]], Flatomir is seen alongside [[Borun Root]], where the two were involved in an event where [[Cuddleclaw]] was shot with a cannon.
+The history of Flatomir Chelf is revealed through both memory and direct observation. In a flashback experienced by Gronk, Flatomir is seen alongside [[Borun Root]], where the two were involved in an event where Cuddleclaw was shot with a cannon.
 
-More recently, Flatomir was present at a meeting held aboard a train departing from [[Highwatch]]. His participation in these proceedings was cut short when he was suddenly teleported away by [[Dragon-Aura-Faced Man|the Dragon-Aura-Faced Man]].
+More recently, Flatomir was present at a meeting held aboard a train departing from [[Highwatch]]. His participation in these proceedings was cut short when he was suddenly teleported away by [[Dragon-Aura-Faced Man]].
 
 ## 🤝 Relationships & Loyalties
 

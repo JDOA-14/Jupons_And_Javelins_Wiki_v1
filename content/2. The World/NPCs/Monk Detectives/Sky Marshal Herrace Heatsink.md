@@ -53,11 +53,11 @@ aliases:
 
 > *"Insert a memorable quote by or about the character here."*
 
-Sky Marshal Herrace Heatsink serves as the voice of [[Aeryndor]] within [[The High Council of Eryndor|the High Council of Eryndor]]. A seasoned veteran of 67 years, she is a figure of remarkable resilience, having survived a staggering record of 451 assassination attempts.
+Sky Marshal Herrace Heatsink serves as the voice of [[Aeryndor]] within [[The High Council of Eryndor]] of [[1. Eryndor]]. A seasoned veteran of 67 years, she is a figure of remarkable resilience, having survived a staggering record of 451 assassination attempts.
 
 ## 📜 Biography
 
-The party’s involvement with [[The High Council of Eryndor|the High Council]] began when [[Detective Cole Le Fev|Cole]] successfully cleared their names for [[The High Council of Eryndor|the High Council]] seat representing [[Aeryndor]].
+The party’s involvement with [[The High Council of Eryndor]] began when Cole successfully cleared their names for [[The High Council of Eryndor]] seat representing [[Aeryndor]].
 
 ### Day 17
 Following the clearance of their names, the party established their formal connection with the Sky Marshal.

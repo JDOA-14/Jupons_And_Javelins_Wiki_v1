@@ -9,6 +9,6 @@ pre-campaign: false
 tags:
   - lore
 aliases:
-  "-"
+  -
 ---
-An [[Aethercrysts|Aethercryst]] project which involves keeping a very close eye on, and potentially re-homing, children born of incredibly powerful parents.
+An [[Aethercrysts]] project which involves keeping a very close eye on, and potentially re-homing, children born of incredibly powerful parents.

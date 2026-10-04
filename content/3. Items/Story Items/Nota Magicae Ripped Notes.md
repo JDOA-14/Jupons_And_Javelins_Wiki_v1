@@ -15,7 +15,7 @@ tags:
   - story-item
 aliases:
 ---
-After viewing [[Tome of Nota Magicae|the Tome of Nota Magicae]] in [[1. Nyserith|Nyserith]], they noticed some unsolved formula for some new spells.
+After viewing the Tome of Nota Magicae in Nyserith, they noticed some unsolved formula for some new spells.
 
 - A)
 	- Labelled 1 week

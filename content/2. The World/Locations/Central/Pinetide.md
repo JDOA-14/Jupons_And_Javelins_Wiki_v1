@@ -11,5 +11,5 @@ tags:
   - location
 aliases:
 ---
-Small village where ex-paladin [[Shorun Forsh]] was hiding ([[Session 13 Recap - FULL|session 13]])
+Small village where ex-paladin [[Shorun Forsh]] was hiding (session 13)
 

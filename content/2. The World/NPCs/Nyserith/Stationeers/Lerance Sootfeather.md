@@ -53,7 +53,7 @@ Lerance Sootfeather is an [[Aarakocra]] Monk-Detective stationed in the city of 
 
 ## 📜 Biography
 
-While much of Sootfeather’s personal history remains unrecorded, he is recognized as a member of the [[Monk-Detectives of Aeryndor]]. He serves as a representative of this order while maintaining the peace of his station.
+While much of Sootfeather’s personal history remains unrecorded, he is recognized as a member of the [[Monk-Detectives of Aeryndor]] of [[Aeryndor]]. He serves as a representative of this order while maintaining the peace of his station.
 
 ## 🤝 Relationships & Loyalties
 

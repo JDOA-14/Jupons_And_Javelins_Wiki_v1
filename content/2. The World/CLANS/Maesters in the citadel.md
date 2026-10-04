@@ -13,5 +13,5 @@ aliases:
 ---
 [[Duke Vizier Aldren Thorne]]
 
-Maesters we know of in [[Shardhold Citadel|the Citadel]].
+Maesters we know of in [[Shardhold Citadel]].
 

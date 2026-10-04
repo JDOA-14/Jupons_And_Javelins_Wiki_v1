@@ -50,13 +50,13 @@ aliases:
 
 > *"Insert a memorable quote by or about the character here."*
 
-Petra is a wise and stealthy assassin who serves as a co-leader of [[The Rebels]]. A "hard as nails" woman in her 50s, she is distinguished by her black hair marked with two grey streaks and her mastery of the pike. She is fiercely dedicated to her mission of dismantling [[Aethercrysts|the Aethercrysts]].
+[[Thalara Stonefist]] is a wise and stealthy assassin who serves as a co-leader of [[The Rebels]]. A "hard as nails" woman in her 50s, she is distinguished by her black hair marked with two grey streaks and her mastery of the pike. She is fiercely dedicated to her mission of dismantling [[Aethercrysts]].
 
 ## 📜 Biography
 
-As a co-leader of [[The Rebels]] alongside [[Leif LúmëLóke|Leif]], Petra leads a group of former sacrifices who discovered that the [[Aethercrysts|Aethercryst]] sacrifices were faked for a decade. This revelation fueled their suspicion of [[Aethercrysts|the Aethercrysts]] and drove their rebellion. During the events in [[Pinetide]] (**Day 20**), she played a key role in the interrogation of the [[Shorun Forsh|paladin Shorun Forsh]].
+As a co-leader of [[The Rebels]] alongside [[Leif LúmëLóke]], [[Thalara Stonefist]] leads a group of former sacrifices who discovered that the [[Aethercrysts]] sacrifices were faked for a decade. This revelation fueled their suspicion of [[Aethercrysts]] and drove their rebellion. During the events in [[Pinetide]] (**Day 20**), she played a key role in the interrogation of the [[Shorun Forsh]].
 
-Petra's personal history is rooted in a hidden life in [[Skaldgrym]]. While traveling toward the [[Aarakocra]] Tower (**Day 29**), she revealed herself to be the mother of [[Sally Syndicate|Sally]] (Kyrra). Records from **[[session 17 recap - FULL|Session 17]]** further indicate she was a "[[Sally Syndicate|Sally]]" who left her order to start a new life in [[Skaldgrym]] under the name [[Thalara Stonefist]], where she gave birth to [[Kyrra Stonefist]] (also known as [[Sally the Smasher]]). 
+[[Thalara Stonefist]]'s personal history is rooted in a hidden life in [[Skaldgrym]]. While traveling toward the [[Aarakocra]] Tower (**Day 29**), she revealed herself to be the mother of [[Sally Syndicate]] (Kyrra). Records from **Session 17** further indicate she was a "[[Sally Syndicate]]" who left her order to start a new life in [[Skaldgrym]] under the name [[Thalara Stonefist]], where she gave birth to [[Kyrra Stonefist]] (also known as [[Sally the Smasher]]). 
 
 ## 🤝 Relationships & Loyalties
 

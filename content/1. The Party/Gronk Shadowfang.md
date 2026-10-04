@@ -9,14 +9,14 @@ aliases: Gronk
 
 
 
-[[Session 10 Recap - FULL|Session 10]] Q's
+Session 10 Q's
 
 As for your other questions 
 1) 22 yr old
 2) im gonna say maybe either some magical club +1 or some magical medium armor that doesn't have a stealth disadvantage. 
 3) 3)don't know with this one just trying to be frontliner with the wolf. So anything that enhances that. 
 4) 4)not really kind of like the way you've told it yourself. 
-5) 5)no idea what [[1. Eryndor|eryndor]] is but gronk has mostly stuck to the wilds so I'm gonna say probably not a lot. 
+5) 5)no idea what eryndor is but gronk has mostly stuck to the wilds so I'm gonna say probably not a lot. 
 6) 6)can't think of one, I've liked everything you've done really.
 
 ---

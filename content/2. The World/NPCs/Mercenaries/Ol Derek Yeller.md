@@ -53,9 +53,9 @@ Ol Derek Yeller is a versatile mercenary who serves as both a seasoned fighter a
 
 ## 📜 Biography
 
-Yeller first proved his mettle during a perilous tower ascent where he displayed remarkable courage by rushing up the stairs while his companion, [[Kaelen Stormrage|Kaelen]], engaged the final worg. His swift actions were instrumental in the survival of the group and the successful defense of a local hamlet. During the defense of the settlement, Yeller held the line against a wave of enemies, striking down four to five bears or orcs to ensure the safety of the residents.
+Yeller first proved his mettle during a perilous tower ascent where he displayed remarkable courage by rushing up the stairs while his companion, Kaelen, engaged the final worg. His swift actions were instrumental in the survival of the group and the successful defense of a local hamlet. During the defense of the settlement, Yeller held the line against a wave of enemies, striking down four to five bears or orcs to ensure the safety of the residents.
 
 ## 🤝 Relationships & Loyalties
 
-- **Allies:** Jonny Smallerm, [[Kaelen Stormrage|Kaelen]]
+- **Allies:** Jonny Smallerm, Kaelen
 - **Enemies:** Worgs, bears, orcs

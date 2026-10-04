@@ -26,7 +26,7 @@ aliases:
 
 **Former Owners:**  
 - [[Cloud Monk Arvid Browbinder]] (used to commune with the dead).  
-- Stolen by [[Dragon-Aura-Faced Man]] during the murders of [[Detective Cole Le Fev|Cole]]’s mentors.  
+- Stolen by [[Dragon-Aura-Faced Man]] during the murders of Cole’s mentors.  
 
 **Description:**  
 A legendary tome enabling communication with the dead at crime scenes.  
@@ -34,8 +34,8 @@ A legendary tome enabling communication with the dead at crime scenes.
 - Dark necromantic origins.
 
 **Appearances:**  
-- Session 1: Introduced in [[Detective Cole Le Fev|Cole]]’s flashback when Arvid was killed.  
+- Session 1: Introduced in Cole’s flashback when Arvid was killed.  
 
 The [[Aeris Indagator]] located it in:
-- [[Arlewyn]] ([[Session 14 recap - Full|Session 14]])
-- [[Sylvarael]] ([[Session 16 recap - FULL|Session 16]])
+- [[Arlewyn]] (Session 14)
+- [[Sylvarael]] (Session 16)

@@ -51,12 +51,12 @@ aliases:
 
 > *"Insert a memorable quote by or about the character here."*
 
-[[Sally Syndicate|Sally]] the Speaker serves as the second-in-command of [[Sally Syndicate|the Sally Syndicate]]. As a high-ranking member of the organization, she holds a position of significant authority within the group's hierarchy.
+[[Sally Syndicate]] the Speaker serves as the second-in-command of [[Sally Syndicate]]. As a high-ranking member of the organization, she holds a position of significant authority within the group's hierarchy.
 
 ## 📜 Biography
 
-### [[Session 15 Recap|Session 15]]
-[[Sally Syndicate|Sally]] first appeared in the narrative during [[Session 15 Recap|Session 15]], where she attended the [[Sally Syndicate|Sally]] Meeting.
+### Session 15
+[[Sally Syndicate]] first appeared in the narrative during Session 15, where she attended the [[Sally Syndicate]] Meeting.
 
 ## 🤝 Relationships & Loyalties
 

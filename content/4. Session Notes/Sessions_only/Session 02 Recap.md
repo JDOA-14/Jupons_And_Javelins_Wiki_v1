@@ -1,7 +1,7 @@
-# [[Session 02 Recap - FULL|Session 02]] Recap
+# Session 02 Recap
 
 **Players Present:** Alex, Thomas, Rhys, Sam  
-**[[PCs]] Present:** [[Sally the Smasher]], [[Detective Cole Le Fev|Cole Le Fev]], [[Kaelen Stormrage|Kaelen Stormrage]], [[Gronk Shadowfang]]  
+**PCs Present:** [[Sally the Smasher]], [[Detective Cole Le Fev|Cole Le Fev]], [[Kaelen Stormrage|Kaelen Stormrage]], [[Gronk Shadowfang]]  
 **Level:** 2  
 
 ---
@@ -54,25 +54,25 @@
 ---
 
 ## The Fishing Village
-- Barret took them by cart to his workplace — a small [[Kuo-Toa Fishing Village]] south of [[Ashdawn]].  
+- Barret took them by cart to his workplace — a small [[Kuo-Toa Fishing Village]] south of Ashdawn.  
   - Layout: cluster of houses → tavern → 3 fishing docks/warehouses.  
 - Barret departed to repair his house.  
 
 ### At the Tavern
 - Majority of population: [[Kua-Toa]] (fish folk).  
-- [[Sally Syndicate|Sally]] shapeshifted into a bulky [[Kua-Toa|kua-toa]], attracting mass infatuation.  
+- Sally shapeshifted into a bulky kua-toa, attracting mass infatuation.  
 - Learned pearl (they don't know it yet, but it's Cryoss' [[Everfrost Pearl]] was found by [[Shisha]] and [[Shorsh]], who lived in town.  
 
 ### At the Houses
-- Five [[Kua-Toa|kua-toa]] followed [[Sally Syndicate|Sally]] in admiration.  
+- Five kua-toa followed Sally in admiration.  
 - At the house, met rude [[Shyle]] but allowed them to search.  
-- Found [[Shisha]] and [[Shorsh]] never came home — belongings left behind.  
+- Found Shisha and Shorsh never came home — belongings left behind.  
 
 ### At the Worksite
 - Three rival fishing companies operated side by side.  
 - Encountered worker [[Shoawan]], convinced by Kaelin’s divine bluff to support him.  
-- At the [[Dried Fish]] docks, discovered dying workers outside and one inside.  
-- Suddenly, **[[Black Rain]]** fell.  
+- At the Dried Fish docks, discovered dying workers outside and one inside.  
+- Suddenly, **Black Rain** fell.  
 
 ---
 
@@ -101,6 +101,6 @@
 - Survivors: [[Shisha]] and [[Shola]].  
   - Report: hooded man stole the pearl and sliced up workers, but did not kill them.  
 - [[Kaelen Stormrage|Kaelen Stormrage]] made a business deal:  
-  - Gave [[Shisha]] 20 gold.  
+  - Gave Shisha 20 gold.  
   - Convinced to join with three businesses, securing “10% from each.”  
-- [[Shola]] also agreed to join the arrangement.  
+- Shola also agreed to join the arrangement.  

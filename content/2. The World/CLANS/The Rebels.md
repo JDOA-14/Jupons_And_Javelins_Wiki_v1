@@ -11,9 +11,9 @@ tags:
   - faction
 aliases:
 ---
-Anti-[[Aethercrysts|Aethercryst]] group led by [[Leif LúmëLóke]] and [[Petra]]
+Anti-[[Aethercrysts]] group led by [[Leif LúmëLóke]] and [[Petra]]
 
-Originated after [[Leif LúmëLóke|Leif]] found out [[Aethercrysts|the Aethercrysts]] were faking the great sacrifices.
+Originated after [[Leif LúmëLóke]] found out [[Aethercrysts]] were faking the great sacrifices.
 
 Big mission was to find the [[Aeris Indagator]] to locate [[The Accords]]
 

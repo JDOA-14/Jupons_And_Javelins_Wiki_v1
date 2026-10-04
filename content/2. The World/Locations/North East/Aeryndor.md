@@ -12,10 +12,10 @@ tags:
 aliases:
 ---
 ## Aeryndor & the Monastic Schism
-During **The [[Age of the Wing]]**, an [[Aarakocra]] monk rejected [[1. Eryndor|Eryndor]]’s aggressive, conquest-driven ideology.
+During **The [[Age of the Wing]]**, an [[Aarakocra]] monk rejected [[1. Eryndor]]’s aggressive, conquest-driven ideology.
 
-- He left [[1. Eryndor|Eryndor]] and founded **[[Aeryndor]]**, a city-monastery built on restraint, balance, and service
+- He left [[1. Eryndor]] and founded **[[Aeryndor]]**, a city-monastery built on restraint, balance, and service
 - This monastery became the birthplace of the [[2. The World/CLANS/Monk-Detectives of Aeryndor|Monk Detectives]]
-- Aeryndor was explicitly founded to be *what [[1. Eryndor|Eryndor]] was failing to be*
+- Aeryndor was explicitly founded to be *what [[1. Eryndor]] was failing to be*
 
-The ideological divide between [[1. Eryndor|Eryndor]] (power/order) and Aeryndor (truth/balance) persists to this day.
+The ideological divide between [[1. Eryndor]] (power/order) and Aeryndor (truth/balance) persists to this day.

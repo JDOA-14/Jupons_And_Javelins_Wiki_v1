@@ -11,11 +11,11 @@ The Farm Freak was once all the animals in the farm town of [[Everviewed]] befor
 ---
 
 ## Campaign Mentions  
-- **[[Session 01 Recap - Present]]**: During the farmhouse encounter, the party faced off against goblins and human bandits. [[Black Rain|The Black Rain]] created the Farm Freak in the middle of the fight, forcing the heroes to contend with a suddenly mutated horror.  
+- **[[Session 01 Recap - Present]]**: During the farmhouse encounter, the party faced off against goblins and human bandits. The Black Rain created the Farm Freak in the middle of the fight, forcing the heroes to contend with a suddenly mutated horror.  
 
 ---
 
 ## Known Traits  
 - Tumorous body, unpredictable attacks.  
 - Instinctively violent and unstable.  
-- A tragic sign of [[Black Rain|the Black Rain]]’s corruption of ordinary folk.  
+- A tragic sign of the Black Rain’s corruption of ordinary folk.  

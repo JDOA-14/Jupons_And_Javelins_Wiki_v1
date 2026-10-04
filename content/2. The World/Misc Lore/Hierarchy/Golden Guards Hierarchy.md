@@ -14,6 +14,6 @@
 - Supreme General
 - High Commander
 - Grand Marshal
-	- [[Golden Guards of Eryndor|Golden Guards]] Second in command
+	- [[Golden Guards of Eryndor]] Second in command
 - Lord-Protector
-	- Leader of [[Golden Guards of Eryndor|the Golden Guards]], full control over military
+	- Leader of [[Golden Guards of Eryndor]], full control over military

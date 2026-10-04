@@ -11,5 +11,5 @@ tags:
   - location
 aliases:
 ---
-A village between [[1. Eryndor|Eryndor]] and [[Aeryndor]]
-Loyal to [[1. Eryndor|Eryndor]]
+A village between [[1. Eryndor]] and [[Aeryndor]]
+Loyal to [[1. Eryndor]]

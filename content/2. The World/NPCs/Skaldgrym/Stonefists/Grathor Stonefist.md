@@ -53,7 +53,7 @@ Grathor Stonefist is a resident of the lands surrounding [[Skaldgrym]]. He is pr
 
 ## 📜 Biography
 
-Grathor Stonefist established his home in the region near [[Skaldgrym]], where he lived alongside his partner, [[Petra|Thalara Stonefist]]. Together, they raised their daughter, [[Kyrra Stonefist]], who was born to them in the surrounding area.
+Grathor Stonefist established his home in the region near [[Skaldgrym]], where he lived alongside his partner, [[Petra]]. Together, they raised their daughter, [[Kyrra Stonefist]], who was born to them in the surrounding area.
 
 ## 🤝 Relationships & Loyalties
 

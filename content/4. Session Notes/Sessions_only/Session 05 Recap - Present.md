@@ -3,10 +3,10 @@
 # Session 5 Recap – Present
 
 ## Session Overview
-- **Players present:** Thomas ([[Detective Cole Le Fev|Cole]]), Rhys ([[Kaelen Stormrage|Kaelen]]), Toby (Mae).  
-- **[[PCs]] present:** [[Detective Cole Le Fev|Cole Le Fev]], [[Kaelen Stormrage]], [[May Mistbrooke]].  
+- **Players present:** Thomas (Cole), Rhys (Kaelen), Toby (Mae).  
+- **PCs present:** [[Detective Cole Le Fev|Cole Le Fev]], [[Kaelen Stormrage]], [[May Mistbrooke]].  
 - **Mercenaries:** [[Johnny Smallerm]] (paladin), [[Ol Derek Yeller]] (cleric/fighter).  
-- **Driver:** [[Sheosh]] ([[Kua-Toa]]).  
+- **Driver:** [[Sheosh]] (Kua-Toa).  
 
 ---
 
@@ -52,6 +52,6 @@
 ## New Lead
 - From overhearing or interrogation:  
   - Orcs captured bearfolk prisoners.  
-  - Among them: a **[[Kodan]] prisoner — [[Cryos Frostjaw]]**.  
+  - Among them: a **Kodan prisoner — [[Cryos Frostjaw]]**.  
 
 ---

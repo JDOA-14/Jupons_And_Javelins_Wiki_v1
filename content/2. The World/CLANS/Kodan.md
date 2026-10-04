@@ -43,8 +43,8 @@ The Kodan clans often stand apart from other bearfolk, holding positions of resp
 
 ## Known Members  
 - **[[Cryos Frostjaw]]** — current PC; young Kodan sorcerer.  
-- **[[Bralgor Frostjaw]]** — [[Cryos Frostjaw|Cryos]]’ father; respected Kodan elder.  
-- **[[Sivara Frostjaw]]** — [[Cryos Frostjaw|Cryos]]’ mother; previous bearer of the [[Everfrost Pearl]].  
-- **[[Rurik FrostJaw]]** — [[Cryos Frostjaw|Cryos]]’ brother; younger Kodan.  
+- **[[Bralgor Frostjaw]]** — Cryos’ father; respected Kodan elder.  
+- **[[Sivara Frostjaw]]** — Cryos’ mother; previous bearer of the [[Everfrost Pearl]].  
+- **[[Rurik FrostJaw]]** — Cryos’ brother; younger Kodan.  
 - **[[King Osvrik]]** — current Kodan king of [[Nyvaldra]].  
 - **[[Gundrik Ashclaw]]** — Greybear chieftain; current holder of the [[Crown of Thundermarch]].  

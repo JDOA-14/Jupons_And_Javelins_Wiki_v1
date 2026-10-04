@@ -18,7 +18,7 @@ aliases:
 # Sally Syndicate  
 
 **Type:** Criminal Syndicate  
-**Region:** Widespread across [[Valhyria]]  
+**Region:** Widespread across Valhyria  
 
 ---
 
@@ -39,6 +39,6 @@ Sallies are never declared dead, they are always "M.I.A"
 ---
 
 ## Campaign Mentions  
-- [[Sally the Smasher]] received mission orders from the syndicate.  
-- [[Helga Brightrun|Sally the Sniper]] defected from [[Stebonheath]], siding with the party.  
+- Sally the Smasher received mission orders from the syndicate.  
+- [[Helga Brightrun]] defected from [[Stebonheath]], siding with the party.  
 - Multiple Sallys have appeared as adversaries, allies, or disguised agents.  

@@ -56,9 +56,9 @@ Lester Saffron serves as the Head of Evocation, a position of significant academ
 While there is little information regarding his life prior to the current campaign, Lester Saffron’s reputation was forged during his time as a high-ranking academic.
 
 ### Day 13
-During the events of Day 13, Lester Saffron was lured into a calculated trap orchestrated by the leader of the CotLC, who was posing as acting headmaster [[Sylak AppleTree|Sylak Appletree]]. The trap proved insurmountable, resulting in Lester's defeat on Floor 1 of the [[Challenge Room]] alongside [[Wrench Bot 4000|Wrenchbot 4000]].
+During the events of Day 13, Lester Saffron was lured into a calculated trap orchestrated by the leader of the CotLC, who was posing as acting headmaster [[Sylak AppleTree]]. The trap proved insurmountable, resulting in Lester's defeat on Floor 1 of the [[Challenge Room]] alongside [[Wrench Bot 4000]].
 
 ## 🤝 Relationships & Loyalties
 
 - **Allies:** None listed
-- **Enemies:** Leader of the CotLC (acting headmaster [[Sylak AppleTree|Sylak Appletree]])
+- **Enemies:** Leader of the CotLC (acting headmaster [[Sylak AppleTree]])

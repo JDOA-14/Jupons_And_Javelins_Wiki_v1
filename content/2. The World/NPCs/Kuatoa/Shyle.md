@@ -49,11 +49,11 @@ aliases:
 
 > *"Insert a memorable quote by or about the character here."*
 
-Shyle is a curt and abrasive [[Kua-Toa|Kua-toa]] who resides alongside his roommates, [[Shisha]] and [[Shorsh]]. Known for his rude demeanor, he serves as a notable resident within the party's immediate surroundings.
+Shyle is a curt and abrasive [[Kua-Toa]] who resides alongside his roommates, [[Shisha]] and [[Shorsh]]. Known for his rude demeanor, he serves as a notable resident within the party's immediate surroundings.
 
 ## 📜 Biography
 
-### [[Session 02 Recap - FULL|Session 02]]
+### Session 02
 The party first meets Shyle at his residence. During this encounter, Shyle permits the party to search the premises, providing them with access to the property for their investigation.
 
 ## 🤝 Relationships & Loyalties

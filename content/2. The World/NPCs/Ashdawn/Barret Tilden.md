@@ -54,16 +54,16 @@ He owns/operates a farmhouse in a clearing surrounded by a dense treeline -- loc
 ## 📜 Biography
 
 ### [[Session 02 Recap - FULL]]
-Barret Tilden arrives home and is rightfully worried by the sight of several orc and goblin dead bodies -- and the top floor of his home exploded. Maeve convinces him [[The Gang|the gang]] saved her, and he is able to accept it.
+Barret Tilden arrives home and is rightfully worried by the sight of several orc and goblin dead bodies -- and the top floor of his home exploded. Maeve convinces him the gang saved her, and he is able to accept it.
 
-He mentions to [[The Gang]], that two of his co-workers ([[Shisha_U1]] and [[Shorsh_U1]]) claimed to have stolen a magical pearl from an unconscious [[Kodan]].
+He mentions to The Gang, that two of his co-workers ([[Shisha_U1]] and [[Shorsh_U1]]) claimed to have stolen a magical pearl from an unconscious Kodan.
 
-The next day, he agrees to take [[The Gang]] to see those coworkers. He takes them there, then departs to go fix his house.
+The next day, he agrees to take The Gang to see those coworkers. He takes them there, then departs to go fix his house.
 
 ## 🤝 Relationships & Loyalties
-- **Allies:** [[Maeve Tilden]], The [[Kua-Toa]] of [[1. Drippledown|Drippledown]]
+- **Allies:** [[Maeve Tilden]], The Kua-Toa of [[1. Drippledown|Drippledown]]
 
 ## ⏳ Current Status & The Ledger
-- **Where Are They Now?** Back to work in [[1. Drippledown|Drippledown]].
+- **Where Are They Now?** Back to work in Drippledown.
 
 --- 

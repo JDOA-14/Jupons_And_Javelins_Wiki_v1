@@ -16,12 +16,12 @@ aliases:
 ---
 
 King of [[Skaldgrym]] 
-[[Kaelen Stormrage|Kaelen]]'s Uncle
+Kaelen's Uncle
 Father of [[Brynnor Stormpeak]]
 
-Now apparently deceased (as of [[session 12 Recap - FULL|session 12]])
+Now apparently deceased (as of session 12)
 
 ### DEATH
-In [[session 12 Recap - FULL|Session 12]], [[The Gang]] discovers through a news report that [[King Donan Stormpeak_U1|King Donan]] has been killed in a freak ship wreck.
+In Session 12, [[The Gang]] discovers through a news report that [[King Donan Stormpeak_U1]] has been killed in a freak ship wreck.
 
 [[Brynnor Stormpeak]] is now ruling as [[The King of Skaldgrym]].

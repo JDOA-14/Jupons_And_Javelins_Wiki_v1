@@ -11,7 +11,7 @@ Made up of:
 
 
 Aided by many npc's along the way.
-As of [[session 17 recap - FULL|session 17]], they are followed by:
+As of session 17, they are followed by:
 
 - [[Leif LúmëLóke]]
 - [[Petra]]

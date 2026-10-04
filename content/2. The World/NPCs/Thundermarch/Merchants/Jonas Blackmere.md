@@ -53,7 +53,7 @@ Jonas Blackmere is a sturdy Bearfolk shopkeeper who operates a local storefront 
 
 ## 📜 Biography
 
-### [[Session 03 Recap - FULL|Session 03]]
+### Session 03
 Jonas Blackmere serves as a Bearfolk shopkeeper, managing a shop that stocks a wide array of general goods for the surrounding community.
 
 ## 🤝 Relationships & Loyalties

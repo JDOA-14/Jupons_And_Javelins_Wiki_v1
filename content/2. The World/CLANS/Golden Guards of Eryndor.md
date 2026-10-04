@@ -16,7 +16,7 @@ aliases:
   - Golden Guards
 ---
 
-# Golden Guards of [[1. Eryndor|Eryndor]]  
+# Golden Guards of Eryndor  
 
 **Type:** Military Order / Elite Guard  
 **Region:** [[Eryndor]]  
@@ -30,7 +30,7 @@ The Golden Guards are the elite protectors of [[Eryndor]], the capital city of V
 
 ## Origin & History  
 - Established during the [[Age of the First Greed]] when wars over the [[The Shard|Shard]] intensified.  
-- Became the official guard force after [[Eryndor]] was founded around [[The Shard|the shard]].  
+- Became the official guard force after [[Eryndor]] was founded around the shard.  
 - Strongly tied to the [[God King]]’s accords, ensuring stability across the continent.  
 - They remain a central power during the [[Age of Thankfulness]], helping uphold peace alongside the [[Aethercrysts]].  
 

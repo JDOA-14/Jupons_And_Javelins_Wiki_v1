@@ -9,11 +9,11 @@ pre-campaign: false
 tags:
   - lore
 aliases:
-  "-"
+  -
 ---
 The "chosen one" of [[Aeryndor]]
 
-A great monk who is born with the ability to harness [[The Shard]]'s magic in ways that elicit aura and astral powers.
+A great monk who is born with the ability to harness The Shard's magic in ways that elicit aura and astral powers.
 
 They have Astral powers - which can come in the form of other extremities, or other shapes / auras. 
 

@@ -65,7 +65,7 @@ A brief 1–2 paragraph overview describing who this character is, what they loo
 ## 🤝 Relationships & Loyalties
 - **Allies:** *(Factions, family, or friends)*
 - **Enemies:** *(Hostile forces or rivals)*
-- **Party Standing:** *(Current attitude toward the [[PCs]] and any table nicknames)*
+- **Party Standing:** *(Current attitude toward the PCs and any table nicknames)*
 
 ## ⏳ Current Status & The Ledger
 - **Where Are They Now?** *(Immediate location and ongoing activities)*
@@ -80,12 +80,12 @@ A brief 1–2 paragraph overview describing who this character is, what they loo
 > *This section contains the original unformatted notes. Move relevant data into the wiki template above, then delete this section.*
 
 King of [[Skaldgrym]] 
-[[Kaelen Stormrage|Kaelen]]'s Uncle
+Kaelen's Uncle
 Father of [[Brynnor Stormpeak]]
 
-Now apparently deceased (as of [[session 12 Recap - FULL|session 12]])
+Now apparently deceased (as of session 12)
 
 ### DEATH
-In [[session 12 Recap - FULL|Session 12]], [[The Gang]] discovers through a news report that King Donan has been killed in a freak ship wreck.
+In Session 12, [[The Gang]] discovers through a news report that [[2. The World/NPCs/Skaldgrym/Royal Family/Stormpeaks/King Donan Stormpeak|King Donan Stormpeak]] has been killed in a freak ship wreck.
 
 [[Brynnor Stormpeak]] is now ruling as [[The King of Skaldgrym]].

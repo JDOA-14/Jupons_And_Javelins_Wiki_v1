@@ -102,7 +102,7 @@ Kaelin's Cousin
 
 Son of [[King Donan Stormpeak]].
 
-As of [[session 12 Recap - FULL|Session 12]], is now the new king of [[Skaldgrym]]
+As of Session 12, is now the new king of [[Skaldgrym]]
 
 Accused by Kaelin of framing him in an attempt to get rid of him.
 

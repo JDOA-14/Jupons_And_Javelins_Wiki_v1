@@ -14,7 +14,7 @@ aliases:
   - Monk Detectives
 ---
 
-# Monk-Detectives of [[Aeryndor]]  
+# Monk-Detectives of Aeryndor  
 
 **Type:** Clan / Order  
 **Region:** [[Aeryndor]]  
@@ -27,8 +27,8 @@ The Monk-Detectives of Aeryndor are a renowned order that blends monastic traini
 ---
 
 ## Origin & History  
-- During the [[Age of the Wing]] (623–250 BGK), the [[Aarakocra]] ruled much of [[Valhyria]].  
-- One monk among them disagreed with the [[Aarakocra]]’s forceful conquests and left the capital of [[Eryndor]] to create a monastery.  
+- During the [[Age of the Wing]] (623–250 BGK), the [[Aarakocra]] ruled much of Valhyria.  
+- One monk among them disagreed with the Aarakocra’s forceful conquests and left the capital of [[Eryndor]] to create a monastery.  
 - This monastery in [[Aeryndor]] grew into a place of learning, blending martial arts and philosophy.  
 - After the [[God King]]’s accords, the monastery became the foundation of the Monk-Detective order.  
 
@@ -48,14 +48,14 @@ The Monk-Detectives of Aeryndor are a renowned order that blends monastic traini
 - [[Captain Verrik]] — commander and mentor figure in the order.  
 - [[Tekka Glyde-Eye]] — a Hollow-Eye monk encountered near [[Wrethwood]].  
 - [[Cloud Monk Arvid Browbinder]] — once custodian of the [[Necrolexicon Aeternum]].  
-- [[Detective Darvok Duskrunner]] — From [[Detective Cole Le Fev|Cole]]'s Flashback. His partner who was murdered.  
+- [[Detective Darvok Duskrunner]] — From Cole's Flashback. His partner who was murdered.  
 - [[Brother Halem]] — I don't know who the fuck this is. 
 
 ---
 
 ## Campaign Mentions  
-- [[Session 02 Recap]]: [[Detective Cole Le Fev|Cole]] sends a letter to [[Captain Verrik]].  
+- [[Session 02 Recap]]: Cole sends a letter to [[Captain Verrik]].  
 - [[Session 04 Recap]]: Party finds mortally wounded [[Tekka Glyde-Eye]], a Hollow-Eye monk.  
-- [[Session 08 Recap]]: [[Detective Cole Le Fev|Cole]] communicates with monk-detectives about transporting the mutated blood sample via [[Cryos Frostjaw|Cryos]].  
+- [[Session 08 Recap]]: Cole communicates with monk-detectives about transporting the mutated blood sample via [[Cryos Frostjaw|Cryos]].  
 current leader: 
 [[GrandWuseng-Cosmonk Tasheak MountainFeather]]

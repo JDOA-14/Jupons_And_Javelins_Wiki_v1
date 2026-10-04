@@ -1,4 +1,4 @@
-# [[Session 09 Recap - FULL|Session 09]] Recap
+# Session 09 Recap
 
 ---
 
@@ -14,13 +14,13 @@
 
 ## The Train Aftermath
 
-- On the train, [[The Gang|the gang]] search the wreckage and finds two maps similar to earlier orc and Bearfolk raider maps:
+- On the train, the gang search the wreckage and finds two maps similar to earlier orc and Bearfolk raider maps:
   - One from the mutated **Goliath General**, showing a route from [[Skaldgrym]] → [[Taurakhan]]
   - One from the mutated **Kobold Governor**, showing a route from [[Drassith Cairn]] → [[Wyrmshatter]]
 - They find the train driver still operating what remains of the train.
 - When he realises what happened to the rest of the carriages, he panics.
-- [[The Gang|The gang]] promise to divert responsibility once they reach [[Nyserith]].
-- They acknowledge that they’ve accidentally released multiple carriages of [[Black Rain Mutation|mutants]] along the tracks.
+- The gang promise to divert responsibility once they reach [[Nyserith]].
+- They acknowledge that they’ve accidentally released multiple carriages of mutants along the tracks.
 - They decide to return and clean up the danger themselves.
 
 ---
@@ -56,12 +56,12 @@
 
 ---
 
-## Arrival of [[1. Nyserith|Nyserith]] Wizards
+## Arrival of Nyserith Wizards
 
 - Thunder rolls as **four student wizards** arrive from [[Nyserith]].
-- They confirm they were sent to investigate [[The Train Incident|the train incident]].
+- They confirm they were sent to investigate the train incident.
 - Seeing the situation handled, they remain behind to mop up stragglers.
-- They inform [[The Gang|the gang]] that [[1. Nyserith|Nyserith]] is expecting the train.
+- They inform the gang that Nyserith is expecting the train.
 
 ---
 
@@ -80,11 +80,11 @@
 
 ## Meeting the Guild Representatives
 
-- The party meets representatives of [[1. Eryndor|Eryndor]]-wide organisations:
+- The party meets representatives of Eryndor-wide organisations:
   - [[Aaron Balfurs]] — [[Golden Guards of Eryndor]]
   - [[Michonne Flessle]] — [[Aethercrysts]]
   - [[Lerance Sootfeather]] — [[Monk-Detectives of Aeryndor]]
-- Both Aaron and Lerance are noted as complacent, due to [[1. Nyserith|Nyserith]]’s overwhelming magical security.
+- Both Aaron and Lerance are noted as complacent, due to Nyserith’s overwhelming magical security.
 - [[Leif LúmëLóke]] is also present, having arrived on assignment.
 
 ---
@@ -116,16 +116,16 @@
 
 ## The Rave
 
-- [[The Gang|The gang]] attend the rave near the [[Challenge Room]].
-- [[Sally the Smasher]] disguises herself as a muscular [[Gungus Bungus]].
+- The gang attend the rave near the [[Challenge Room]].
+- [[Sally the Smasher]] disguises herself as a muscular Gungus Bungus.
 - She learns:
   - Students are hiding evidence from the train
   - They plan to move the train that night
-- [[Detective Cole Le Fev|Cole]] guards the exits.
-- A cultist flees — [[Detective Cole Le Fev|Cole]] chases and knocks him unconscious.
+- Cole guards the exits.
+- A cultist flees — Cole chases and knocks him unconscious.
 - Combat breaks out when counter-spell systems deactivate.
 - [[Twiggy Marshdust]], Head of Transmutation, arrives and kills the unconscious student with a giant, pink, spectral cat.
-- [[The Gang|The gang]] defeats Twiggy and his summon, keeping two students alive.
+- The gang defeats Twiggy and his summon, keeping two students alive.
 - Sylak arrives and asks for help concealing the bodies.
 
 ---
@@ -144,9 +144,9 @@
 
 ---
 
-## [[Challenge Room]] — Floor 1
+## Challenge Room — Floor 1
 
-- [[The Gang|The gang]] appears in a hoard-filled castle chamber.
+- The gang appears in a hoard-filled castle chamber.
 - Two arcane focuses sit in cressets before a large mirror.
 - Enemies revealed:
   - [[Lester Saffron]] — Head of Evocation
@@ -155,7 +155,7 @@
 - During the fight:
   - Destroyed Wrenchbot parts fly to Lester
   - Lester dons Wrenchbot as an exo-suit
-- [[Detective Cole Le Fev|Cole]] investigates the bomb, and [[The Gang|the gang]] identifies three bomb wires:
+- Cole investigates the bomb, and the gang identifies three bomb wires:
   - Red — a curtain (destroyed)
   - Blue — Wrenchbot’s familiar (destroyed)
   - Green — Lester’s necklace

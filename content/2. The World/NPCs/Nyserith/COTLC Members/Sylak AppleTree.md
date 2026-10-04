@@ -55,7 +55,7 @@ Sylak AppleTree is a formidable Minotaur wizard who currently serves as the acti
 
 Sylak AppleTree rose to the position of acting Headmaster during a period of administrative confusion when the elder wizards found themselves baffled by the academy's current challenges. Taking command of the institution, he began overseeing the academic sectors, including the area known as [[Darkle Charkle]].
 
-During the events of Day 13, Sylak coordinated with various Guild stationeers to guide the party through the academic sectors. However, his involvement took a more treacherous turn when he led the party into a deliberate trap within the [[Challenge Room]]. This calculated maneuver ultimately led to the party's successful completion of Floor 1 and the defeat of both [[Lester Saffron]] and [[Wrench Bot 4000|Wrenchbot 4000]].
+During the events of Day 13, Sylak coordinated with various Guild stationeers to guide the party through the academic sectors. However, his involvement took a more treacherous turn when he led the party into a deliberate trap within the [[Challenge Room]]. This calculated maneuver ultimately led to the party's successful completion of Floor 1 and the defeat of both [[Lester Saffron]] and [[Wrench Bot 4000]].
 
 ## 🤝 Relationships & Loyalties
 

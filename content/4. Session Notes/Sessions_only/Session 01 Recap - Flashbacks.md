@@ -5,7 +5,7 @@ aliases:
 ---
 
 **Players Present:** Alex, Thomas, Rhys, Sam  
-**[[PCs]] Present:** [[Sally the Smasher]], [[Detective Cole Le Fev|Cole Le Fev]], [[Kaelen Stormrage|Kaelen Stormrage]], [[Gronk Shadowfang]]
+**PCs Present:** [[Sally the Smasher]], [[Detective Cole Le Fev|Cole Le Fev]], [[Kaelen Stormrage|Kaelen Stormrage]], [[Gronk Shadowfang]]
 
 ---
 
@@ -26,7 +26,7 @@ aliases:
 
 ---
 
-### [[Gronk Shadowfang]]
+### Gronk Shadowfang
 - Grew up near [[Rylvarn Forest]] with parents [[Grivella Shadowfang]] and [[Grotch Shadowfang]].  
 - Found and raised a wolf companion: [[Cuddleclaw]].  
 - Given the [[Amulet of the Ancestors]] by his father.  
@@ -54,13 +54,13 @@ aliases:
 
 ---
 
-### [[Detective Cole Le Fev]]
+### Detective Cole Le Fev
 - Detective monk of [[Aeryndor]], partnered with [[Darvok Duskrunner]].  
-- The [[Monk-Detectives of Aeryndor|monk-detectives]] operate beyond regular [[Golden Guards of Eryndor]].  
+- The monk-detectives operate beyond regular [[Golden Guards of Eryndor]].  
 - Investigated murder case (two throats slit).  
 - Senior monks arrived: [[CloudMonk Arvid Browbinder]] brought the [[Necrolexicon Aeternum]].  
 - During ritual, **Dragon-Aura Faced Man** appeared.  
   - Froze time, killed Arvid and Duskrunner.  
-  - [[Detective Cole Le Fev|Cole]]’s aura briefly separated from his body, allowing him to perceive movement.  
+  - Cole’s aura briefly separated from his body, allowing him to perceive movement.  
   - Dragon-Aura Faced Man struck him, forcing aura back into body.  
   - Stole the Necrolexicon and vanished.  

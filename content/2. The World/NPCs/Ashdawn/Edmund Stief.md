@@ -60,11 +60,11 @@ After being followed by several un-teamed-up-yet members of [[The Gang]], he eng
 
 When [[Sally the Smasher]], disguised as a bandit, almost convinced the rest of the surviving bandits that she was to take the chest under the guise of new movement orders, Edmund was cautious (They both rolled very well).
 
-He escorts [[Sally Syndicate|Sally]] and the items out of the hideout, and is unceremoniously killed by sneak attacks from the rest of [[The Gang]].
+He escorts Sally and the items out of the hideout, and is unceremoniously killed by sneak attacks from the rest of The Gang.
 
 ### [[Session 07]]
 Edmund is mentioned in the [[The Kenku Tome of Relics]]
-	"Chain of [[Monk-Detectives of Aeryndor|monk detectives]] → [[Cloud Monk Arvid Browbinder_U1|CloudMonk Arvid Browbinder]]→ _stolen by undetermined_ → [[Molus Mouthbreaker]] → [[Eyeches Writhal]] → [[Kaelen Stormrage]] → stolen by [[Edmund Stief]] → _stolen by undetermined."
+	"Chain of monk detectives → [[Cloud Monk Arvid Browbinder_U1|CloudMonk Arvid Browbinder]]→ _stolen by undetermined_ → [[Molus Mouthbreaker]] → [[Eyeches Writhal]] → [[Kaelen Stormrage]] → stolen by [[Edmund Stief]] → _stolen by undetermined."
 
 ## 🤝 Relationships & Loyalties
 - **Allies:** [[Bandits of Ashdawn]], [[Dragon-Aura-Faced Man_U1|The Dragon-Aura-Faced Man]]

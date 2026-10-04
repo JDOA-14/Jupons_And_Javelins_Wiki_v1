@@ -15,13 +15,13 @@ tags:
   - story-item
 aliases:
 ---
-A book summoned by wizards of [[1. Nyserith|Nyserith]] to help cheat in their studies.
+A book summoned by wizards of Nyserith to help cheat in their studies.
 
 This book helps give low-level knowledge to students and is said to be a myth. 
 
 If found by the players, they'll gain the choice of the following:
 
-(note: final choices by players not available in this file. But all [[PCs|pcs]] did read the book)
+(note: final choices by players not available in this file. But all pcs did read the book)
 ---
 ---
 # Gronk

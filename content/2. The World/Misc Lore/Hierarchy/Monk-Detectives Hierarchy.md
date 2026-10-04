@@ -34,10 +34,10 @@ Focussed on both monk and detective work evenly. Likewise, they generally study 
 - **Roostenant**
 	- A well trained and highly sought after Monk-Detective, able to lead sections of both Detective and Monastic teams.
 - **Soarrior Monk**
-	- Expert [[Monk-Detectives of Aeryndor|Monk-Detectives]] who show prowess in both detective work, and one or more forms of monk practices (fighting styles, mystical arts, mystical knowledge, etc.)
+	- Expert [[Monk-Detectives of Aeryndor]] who show prowess in both detective work, and one or more forms of monk practices (fighting styles, mystical arts, mystical knowledge, etc.)
 	- Generally used for incredibly dangerous detective work, or for protecting areas of interest for the order.
 - **Flew-Seng**
-	- [[Monk-Detectives of Aeryndor|Monk-Detectives]] recognised for teaching ability, physical stamina, criminal insight, and mastery of multiple traditional forms and weapons.
+	- [[Monk-Detectives of Aeryndor]] recognised for teaching ability, physical stamina, criminal insight, and mastery of multiple traditional forms and weapons.
 - **Sky Marshal**
 	- High-ranking disciple of the order with incredible amounts of knowledge in both detective work and monastic disciplines.
 - **Auraguard**
@@ -45,10 +45,10 @@ Focussed on both monk and detective work evenly. Likewise, they generally study 
 	- They act as a second in command to the Grand Flew-Seng Cos-monk
 	- Like the Cos-Monks, they are responsible for preserving the complete historical, spiritual, and martial heritage of the temple. Those known and un-known to lower ranks. However, do so with much more force.
 - **Grand Flew-Seng Cos-monk**
-	- Leader of [[Aeryndor]], and of all [[Monk-Detectives of Aeryndor|Monk-Detectives]] -- only possible through working both paths.
+	- Leader of [[Aeryndor]], and of all [[Monk-Detectives of Aeryndor]] -- only possible through working both paths.
 
 ## The Outer Talon
-Focussed mostly on Detective stuff. Unlike the Inner Talon, these are the majority of [[Monk-Detectives of Aeryndor|Monk-Detectives]] that are spread across [[Valhyria]] working cases.
+Focussed mostly on Detective stuff. Unlike the Inner Talon, these are the majority of [[Monk-Detectives of Aeryndor]] that are spread across [[Valhyria]] working cases.
 
 - **Detective Nest Sergeant**
 	- Supervisor who manages a team of detectives on a shift or within a local branch.

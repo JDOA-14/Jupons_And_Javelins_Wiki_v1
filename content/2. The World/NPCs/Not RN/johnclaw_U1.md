@@ -63,7 +63,7 @@ A brief 1–2 paragraph overview describing who this character is, what they loo
 ## 🤝 Relationships & Loyalties
 - **Allies:** *(Factions, family, or friends)*
 - **Enemies:** *(Hostile forces or rivals)*
-- **Party Standing:** *(Current attitude toward the [[PCs]] and any table nicknames)*
+- **Party Standing:** *(Current attitude toward the PCs and any table nicknames)*
 
 ## ⏳ Current Status & The Ledger
 - **Where Are They Now?** *(Immediate location and ongoing activities)*
@@ -77,6 +77,6 @@ A brief 1–2 paragraph overview describing who this character is, what they loo
 > [!WARNING] Legacy Notes Below
 > *This section contains the original unformatted notes. Move relevant data into the wiki template above, then delete this section.*
 
-One of the greatest warriors [[Valhyria]] has ever seen. [[johnclaw|Johnclaw]] is a wolf-werewolf. That means a wolf, bitten by a werewolf. So he's a wolf that turns into a wolf/wolf hybrid during a full moon.
+One of the greatest warriors [[Valhyria]] has ever seen. [[johnclaw]] is a wolf-werewolf. That means a wolf, bitten by a werewolf. So he's a wolf that turns into a wolf/wolf hybrid during a full moon.
 
 ([[johnclaw]] doesn't exist and is a test file. Above background was added later).

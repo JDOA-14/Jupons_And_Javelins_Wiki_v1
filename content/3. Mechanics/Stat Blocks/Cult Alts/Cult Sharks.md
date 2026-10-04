@@ -97,7 +97,7 @@ If target is **Medium or smaller**, it must succeed **STR save DC 13** or be **p
 
 ## 🦈 QUICK RUN TACTICS (Sharks)
 
-- **Target wounded [[PCs]]** for **Blood Frenzy advantage**
+- **Target wounded PCs** for **Blood Frenzy advantage**
     
 - Use **Harpoon pull** to drag squishies into melee
     

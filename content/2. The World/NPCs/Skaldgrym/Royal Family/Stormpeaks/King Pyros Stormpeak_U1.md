@@ -63,7 +63,7 @@ A brief 1–2 paragraph overview describing who this character is, what they loo
 ## 🤝 Relationships & Loyalties
 - **Allies:** *(Factions, family, or friends)*
 - **Enemies:** *(Hostile forces or rivals)*
-- **Party Standing:** *(Current attitude toward the [[PCs]] and any table nicknames)*
+- **Party Standing:** *(Current attitude toward the PCs and any table nicknames)*
 
 ## ⏳ Current Status & The Ledger
 - **Where Are They Now?** *(Immediate location and ongoing activities)*
@@ -77,8 +77,8 @@ A brief 1–2 paragraph overview describing who this character is, what they loo
 > [!WARNING] Legacy Notes Below
 > *This section contains the original unformatted notes. Move relevant data into the wiki template above, then delete this section.*
 
-[[The King of Skaldgrym|The king of Skaldgrym]] at 74 AGK. 
+[[The King of Skaldgrym]] at 74 AGK. 
 
-Noted in [[The God King|the God King]]'s accords as the authoritative figure in the North, and requested to protect the North and guard the Northern Mountains.
+Noted in [[The God King]]'s accords as the authoritative figure in the North, and requested to protect the North and guard the Northern Mountains.
 
 Ancestor to [[Kaelen Stormrage]], [[Kronar Stormrage]], [[King Donan Stormpeak]], [[Brynnor Stormpeak]]

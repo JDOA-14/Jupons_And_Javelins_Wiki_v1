@@ -50,12 +50,12 @@ aliases:
 
 > *"Insert a memorable quote by or about the character here."*
 
-[[Sally Syndicate|Sally]] the Strategist is an NPC who makes her appearance during the events of [[Session 15 Recap|Session 15]]. She is a key participant in a significant meeting, establishing her presence within the campaign narrative as a notable figure for the party to interact with.
+[[Sally Syndicate]] the Strategist is an NPC who makes her appearance during the events of Session 15. She is a key participant in a significant meeting, establishing her presence within the campaign narrative as a notable figure for the party to interact with.
 
 ## 📜 Biography
 
-### [[Session 15 Recap|Session 15]]
-[[Sally Syndicate|Sally]] is involved in the **[[Sally Syndicate|Sally]] Meeting**.
+### Session 15
+[[Sally Syndicate]] is involved in the **[[Sally Syndicate]] Meeting**.
 
 ## 🤝 Relationships & Loyalties
 

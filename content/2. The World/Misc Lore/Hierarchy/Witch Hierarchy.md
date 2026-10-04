@@ -8,18 +8,18 @@ pre-campaign: false
 tags:
   - lore
 aliases:
-  "-"
+  -
 ---
 # Covens
 
 As we know it, there are many different groups of witche across [[Valhyria]], each with their own motives and outlooks. 
 
-Due to them being so seperate, there isn't traditional ranks like [[Aethercrysts|the Aethercrysts]] or the [[Monk-Detectives of Aeryndor|Monk Detectives]], that the people of [[Valhyria]] could easily identify no matter where they are from.
+Due to them being so seperate, there isn't traditional ranks like [[Aethercrysts]] or the [[Monk-Detectives of Aeryndor]], that the people of [[Valhyria]] could easily identify no matter where they are from.
 
 That being said, each coven may have their own rankings.
 
 
-## [[Skaldgrym]]
+## Skaldgrym
 
 The Witches of [[Skaldgrym]] are highly respected and are utilised by the crown for information, healing, and even tactics. There is generally two rankings for the Witches in [[Skaldgrym]]. One for those in the inner most circle, and one for the rest.
 

@@ -3,7 +3,7 @@
 
 # Session 6 Recap
 
-**Players Present:** Thomas ([[Detective Cole Le Fev|Cole]]), Rhys ([[Kaelen Stormrage|Kaelen]]), Alex ([[Sally the Smasher|Sally The Smasher]]), Sam ([[Gronk Shadowfang|Gronk]]), Ethan ([[Cryos Frostjaw]]), Toby (Mae)  
+**Players Present:** Thomas (Cole), Rhys (Kaelen), Alex (Sally The Smasher), Sam (Gronk), Ethan (Cryos Frostjaw), Toby (Mae)  
 **Player Characters:** [[Detective Cole Le Fev|Cole Le Fev]], [[Kaelen Stormrage]], [[Sally the Smasher]], [[Gronk Shadowfang]], [[Cryos Frostjaw]], [[May Mistbrooke]]
 
 ---
@@ -131,15 +131,15 @@
 
 ## Character Highlights
 
-- **[[Gronk Shadowfang|Gronk]]** — Reunited with [[Cryos Frostjaw|Cryos]] in prison; Met his ancestor Gor’ulthrak.
+- **Gronk** — Reunited with Cryos in prison; Met his ancestor Gor’ulthrak.
     
-- **[[Sally the Smasher|Sally The Smasher]]** — Infiltration mission; remembers [[Sally Syndicate|Sally]]-Speak; frontline powerhouse vs [[Black Rain Mutation|mutants]] and [[Farm Freak]].
+- **Sally The Smasher** — Infiltration mission; remembers Sally-Speak; frontline powerhouse vs mutants and Farm Freak.
     
-- **[[Detective Cole Le Fev|Cole]]** — Reckless pursuit of [[Stebonheath]]; nearly overwhelmed but secures capture.
+- **Cole** — Reckless pursuit of Stebonheath; nearly overwhelmed but secures capture.
     
-- **[[Kaelen Stormrage|Kaelen]]** — Skeleton tactics, [[Turbo]] distractions, illusion detection.
+- **Kaelen** — Skeleton tactics, Turbo distractions, illusion detection.
     
-- **[[Cryos Frostjaw|Cryos]]** — Rescued focus; ice magic reinforcements in battles.
+- **Cryos** — Rescued focus; ice magic reinforcements in battles.
     
 - **Mae** — Supportive healer and spectral weapon summoner; involved in mutant thinning.
     
@@ -148,14 +148,14 @@
 
 ## Plot Developments
 
-- Orcs and bearfolk both influenced by [[Stebonheath]], but his orders come from a higher master.
+- Orcs and bearfolk both influenced by Stebonheath, but his orders come from a higher master.
     
 - [[Everviewed]] revealed as peaceful village that was overtaken but the powerful and desperate [[Stebonheath]] Basically doing a "Scartlet Witch" to the village.
     
-- [[Black Rain|Black rain]] confirmed as being causable by magic means.
+- Black rain confirmed as being causable by magic means.
     
-- The [[Crown of Thundermarch]] is a key objective for [[Stebonheath]]’s employer.
+- The [[Crown of Thundermarch]] is a key objective for Stebonheath’s employer.
     
-- [[Sally Syndicate|Sally]]’s secret [[Sally Syndicate|Sally]]-Speak network hints at deeper infiltration missions.
+- Sally’s secret Sally-Speak network hints at deeper infiltration missions.
     
-- The Umbrazhul family and their strange ancestor suggest [[Gronk Shadowfang|Gronk]]’s lineage has cosmic weight.
+- The Umbrazhul family and their strange ancestor suggest Gronk’s lineage has cosmic weight.

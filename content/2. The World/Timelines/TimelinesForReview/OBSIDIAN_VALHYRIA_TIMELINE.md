@@ -1,4 +1,4 @@
-# 📜 Pre-Campaign [[Valhyria]] World Timeline
+# 📜 Pre-Campaign Valhyria World Timeline
 
 ```timeline-labeled
 date: Roughly ~65,000,000 BGK → 50,000,000 BGK

@@ -20,4 +20,4 @@ aliases:
 	- 1d6 
 		- Recharges on a 5 or 6
 
-Owner: [[Detective Cole Le Fev|Cole Le Fev]]
+Owner: Cole Le Fev

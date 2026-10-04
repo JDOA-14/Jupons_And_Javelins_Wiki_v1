@@ -50,7 +50,7 @@ aliases:
 
 > *"Insert a memorable quote by or about the character here."*
 
-Duke Vizier Wystan Everbell is a halfling maester at [[Shardhold Citadel|the Shardhold Citadel]] who worked on secret projects. He is specifically associated with [[Project Keen-Eye]] and [[Project Divinatus Revivica]].
+Duke Vizier Wystan Everbell is a halfling maester at [[Shardhold Citadel]] who worked on secret projects. He is specifically associated with [[Project Keen-Eye]] and [[Project Divinatus Revivica]].
 
 ## 📜 Biography
 
@@ -58,7 +58,7 @@ Duke Vizier Wystan Everbell is a halfling maester at [[Shardhold Citadel|the Sha
   - [[Duke Vizier Wystan Everbell]] is the name given to [[May Mistbrooke]] and [[Leif LúmëLóke]] during their visit with [[Maester Isen Kestrel_F1]]. The Maester mentioned someone working on things that even they didn't have access to.
 
 ### [[session 17 recap - FULL]]
-  - [[The Gang]] infiltrated Duke Vizier Wystan Everbell's secret laboratory in [[Shardhold Citadel|the Shardhold Citadel]]. The party interrogated him, and seized research on [[Project Keen-Eye]] and [[Project Divinatus Revivica]]. 
+  - [[The Gang]] infiltrated Duke Vizier Wystan Everbell's secret laboratory in [[Shardhold Citadel]]. The party interrogated him, and seized research on [[Project Keen-Eye]] and [[Project Divinatus Revivica]]. 
   - The Duke Vizier tries to sound any of his 12 under-table-alarms, but fails.
   - He is escorted out of [[Shardhold Citadel|The Shardhold Citadel]] as a hostage -- and is given to [[The Rebels]] for questioning.
 

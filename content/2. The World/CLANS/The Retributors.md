@@ -15,7 +15,7 @@ aliases:
   - Shardbound Penitents
   - Retributors
 ---
-- Paladins/Clerics who have committed crimes against [[The Shard|the Shard]], who are paying penance by doing very dangerous missions.
+- Paladins/Clerics who have committed crimes against the Shard, who are paying penance by doing very dangerous missions.
 
 Also known as [[Shardbound Penitent]]s. 
 

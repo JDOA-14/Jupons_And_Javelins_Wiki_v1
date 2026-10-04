@@ -49,11 +49,11 @@ aliases:
 
 > *"Insert a memorable quote by or about the character here."*
 
-[[Sally Syndicate|Sally]] The Supreme serves as the commanding leader of the organization known as The [[Sally Syndicate|Sally]]'s. Holding a position of significant authority, she oversees the group's operations and directs the collective actions of her members.
+[[Sally Syndicate]] The Supreme serves as the commanding leader of the organization known as The [[Sally Syndicate]]'s. Holding a position of significant authority, she oversees the group's operations and directs the collective actions of her members.
 
 ## 📜 Biography
 
-No historical records or biographical data are currently available for [[Sally Syndicate|Sally]] The Supreme.
+No historical records or biographical data are currently available for [[Sally Syndicate]] The Supreme.
 
 ## 🤝 Relationships & Loyalties
 

@@ -2,7 +2,7 @@
 
 # Session 7 Recap
 
-**Players Present:** Thomas ([[Detective Cole Le Fev|Cole]]), Ethan ([[Cryos Frostjaw]]), Toby (Mae)  
+**Players Present:** Thomas (Cole), Ethan (Cryos Frostjaw), Toby (Mae)  
 **Player Characters:** [[Detective Cole Le Fev|Cole Le Fev]], [[Cryos Frostjaw]], [[May Mistbrooke]]
 
 ---
@@ -124,15 +124,15 @@
 
 ## Character Highlights
 
-- **[[Detective Cole Le Fev|Cole]]** — Mistaken for [[Gronk Shadowfang|Gronk]]; meat-shields cultists; relentless in every fight.
+- **Cole** — Mistaken for Gronk; meat-shields cultists; relentless in every fight.
     
-- **[[Cryos Frostjaw|Cryos]]** — Ice traps and mist tactics were pivotal against raiders and cultists.
+- **Cryos** — Ice traps and mist tactics were pivotal against raiders and cultists.
     
 - **Mae** — Suffers a cryptic giant-arakokra/ mountain POV vision.
     
-- **[[Botswana]]** — Durable skeletal llama, comic yet crucial; his mistaking of identities sets much of the chaos.
+- **Botswana** — Durable skeletal llama, comic yet crucial; his mistaking of identities sets much of the chaos.
     
-- **[[Tekka Glyde-Eye]]** — Hollow-Eye monk, cult investigator, introduces [[Kenku]]/[[Mallardfolk|Mallard]]/[[Aarakocra]] conflict thread.
+- **Tekka Glyde-Eye** — Hollow-Eye monk, cult investigator, introduces [[Kenku]]/[[Mallardfolk|Mallard]]/[[Aarakocra]] conflict thread.
     
 
 ---
@@ -141,13 +141,13 @@
 
 - Cult revealed to be **[[Mallardfolk]] supremacists** aiming to overthrow Arakokra monk dominance.
     
-- The **[[Kenku]] Tome of Relics** confirms links between [[PCs]], their lost items, and new villains:
+- The **Kenku Tome of Relics** confirms links between PCs, their lost items, and new villains:
     
-    - [[Cryos Frostjaw|Cryos]]’ family pearl stolen multiple times.
+    - Cryos’ family pearl stolen multiple times.
         
-    - [[Kaelen Stormrage|Kaelen]]’s/[[Detective Cole Le Fev|Cole]]'s Necrolexicon in a dangerous chain of theft.
+    - Kaelen’s/Cole's Necrolexicon in a dangerous chain of theft.
         
-    - [[Gundrik Ashclaw]] now wields the [[Crown of Thundermarch]].
+    - Gundrik Ashclaw now wields the Crown of Thundermarch.
         
     
 - Mae’s vision shows massive beings and arakokra prominence. Unclear whether past, present, or future.

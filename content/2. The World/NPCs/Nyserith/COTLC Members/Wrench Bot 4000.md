@@ -55,7 +55,7 @@ Wrench Bot 4000 is a Medium-sized humanoid robot that holds the esteemed positio
 
 ## 📜 Biography
 
-Wrench Bot 4000 serves as the Head of Artificery, a role of significant mechanical authority. Its history is marked by a notable confrontation with the leader of the CotLC, acting headmaster [[Sylak AppleTree|Sylak Appletree]]. During a progression through the [[Challenge Room]], Wrench Bot 4000 was lured into a trap while navigating Floor 1, where it was ultimately defeated.
+Wrench Bot 4000 serves as the Head of Artificery, a role of significant mechanical authority. Its history is marked by a notable confrontation with the leader of the CotLC, acting headmaster [[Sylak AppleTree]]. During a progression through the [[Challenge Room]], Wrench Bot 4000 was lured into a trap while navigating Floor 1, where it was ultimately defeated.
 
 ## 🤝 Relationships & Loyalties
 

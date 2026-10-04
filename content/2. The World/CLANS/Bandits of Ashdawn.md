@@ -11,7 +11,7 @@ tags:
   - faction
 aliases:
 ---
-# Bandits of [[Ashdawn]]  
+# Bandits of Ashdawn  
 
 **Type:** Bandit Group  
 **Region:** [[Ashdawn]] and surrounding farmlands  

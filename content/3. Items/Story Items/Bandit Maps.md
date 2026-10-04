@@ -27,7 +27,7 @@ Maps found on bandits, showing trajectories of certain bands.
 - [[Greybear Trajectory]]
 - [[Orc Bandit Trajectory]]
 
-### From [[Session 06 Recap - FULL|Session 06]]
+### From Session 06
 
 [[Session 06 Recap]]
 
@@ -37,10 +37,10 @@ Maps found on bandits, showing trajectories of certain bands.
 - Both maps mark [[Nerton]], (cause of the [[Nerton Incident]]). 
 - Orc map has a fresh mark at [[Everviewed]], site of a planned truce.
 
-### From [[Session 09 Recap - FULL|Session 09]]
+### From Session 09
 
 
-- On the train, [[The Gang|the gang]] search the wreckage and finds two maps similar to earlier orc and Bearfolk raider maps:
+- On the train, the gang search the wreckage and finds two maps similar to earlier orc and Bearfolk raider maps:
   - One from the mutated **Goliath General**, showing a route from [[Skaldgrym]] → [[Taurakhan]]
   - One from the mutated **Kobold Governor**, showing a route from [[Drassith Cairn]] → [[Wyrmshatter]] 
 

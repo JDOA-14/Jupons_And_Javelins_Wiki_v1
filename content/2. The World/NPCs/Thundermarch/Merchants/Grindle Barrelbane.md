@@ -53,7 +53,7 @@ Grindle Barrelbane is a notable figure in [[Thundermarch]] who operates within t
 
 ## 📜 Biography
 
-### [[Session 03 Recap - FULL|Session 03]]
+### Session 03
 The party visited Grindle Barrelbane in [[Thundermarch]] to arrange for additional hired help, during which time they successfully recruited the mercenaries [[Fior]] and [[Silch]]. While Grindle currently appears as an octopusfolk, it remains unknown whether he was of this form when the party first encountered him.
 
 ## 🤝 Relationships & Loyalties

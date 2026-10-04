@@ -53,8 +53,8 @@ Yibba Fizzwhistle is a goblin alchemist who specializes in the creation of volat
 
 ## 📜 Biography
 
-### [[Session 03 Recap - FULL|Session 03]]
-The party first encountered Yibba Fizzwhistle during the events of [[Session 03 Recap - FULL|Session 03]]. During this interaction, Yibba acted as a merchant, purchasing loot from the party. Furthermore, the party commissioned her to brew a specialized bomb using [[Freaktopus]] oil, for which she was paid.
+### Session 03
+The party first encountered Yibba Fizzwhistle during the events of Session 03. During this interaction, Yibba acted as a merchant, purchasing loot from the party. Furthermore, the party commissioned her to brew a specialized bomb using Freaktopus oil, for which she was paid.
 
 ## 🤝 Relationships & Loyalties
 

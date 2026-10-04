@@ -49,7 +49,7 @@ aliases:
 
 > *"Insert a memorable quote by or about the character here."*
 
-Bralgor Frostjaw is a figure defined by his lineage and familial ties. He is known as the father of [[Cryos Frostjaw]] and holds the notable title of "Spouse of a previous Frostodian," a distinction that anchors his identity within the history of the Frostodian bloodline.
+Bralgor Frostjaw is a figure defined by his lineage and familial ties. He is known as the father of Cryos Frostjaw and holds the notable title of "Spouse of a previous Frostodian," a distinction that anchors his identity within the history of the Frostodian bloodline.
 
 ## 📜 Biography
 

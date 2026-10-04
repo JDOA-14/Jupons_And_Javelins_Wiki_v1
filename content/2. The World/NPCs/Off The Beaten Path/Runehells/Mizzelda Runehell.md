@@ -56,9 +56,9 @@ Mizzelda Runehell is the biological mother of May Mistbroke, though her identity
 Mizzelda Runehell was the true mother of May Mistbroke, but she was replaced by a [[Sally the Still]] shortly after May's birth—an act potentially orchestrated as part of [[Project Keen-Eye]].
 
 ### Day 42
-The full scope of this replacement was uncovered when the party arrived at the [[Runehell Lumbermill]]. They discovered that Mizzelda, her husband Garus, and the entire thorp had been replaced by [[Sally Syndicate|Sallies]]. [[The Gang]] engaged in a violent combat encounter against the [[Sally Syndicate|Sally]]-impostors; they survived the skirmish and kept the imposter-mum reposed.
+The full scope of this replacement was uncovered when the party arrived at the [[Runehell Lumbermill]]. They discovered that Mizzelda, her husband Garus, and the entire thorp had been replaced by [[Sally Syndicate]]. The Gang engaged in a violent combat encounter against the [[Sally Syndicate]]-impostors; they survived the skirmish and kept the imposter-mum reposed.
 
 ## 🤝 Relationships & Loyalties
 
 - **Allies:** [[Garus Runehell]]
-- **Enemies:** [[Sally Syndicate|Sally]]-impostors
+- **Enemies:** [[Sally Syndicate]]-impostors

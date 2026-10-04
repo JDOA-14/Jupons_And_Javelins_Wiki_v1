@@ -50,12 +50,12 @@ aliases:
 
 > *"Insert a memorable quote by or about the character here."*
 
-[[Sally Syndicate|Sally]] the Signaller is an NPC who appears during the events of [[Session 15 Recap|Session 15]]. She is primarily recognized for her involvement in a specific gathering known as the [[Sally Syndicate|Sally]] Meeting.
+[[Sally Syndicate]] the Signaller is an NPC who appears during the events of Session 15. She is primarily recognized for her involvement in a specific gathering known as the [[Sally Syndicate]] Meeting.
 
 ## 📜 Biography
 
-### [[Session 15 Recap|Session 15]]
-[[Sally Syndicate|Sally]] is present during the [[Sally Syndicate|Sally]] Meeting held in [[Session 15 Recap|Session 15]].
+### Session 15
+[[Sally Syndicate]] is present during the [[Sally Syndicate]] Meeting held in Session 15.
 
 ## 🤝 Relationships & Loyalties
 

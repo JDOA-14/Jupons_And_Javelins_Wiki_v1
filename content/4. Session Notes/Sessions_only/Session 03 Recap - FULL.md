@@ -5,74 +5,74 @@ aliases:
 
 POST SESSION NOTES
 
-- Players present: Thomas ([[Detective Cole Le Fev|Cole]]), Rhys ([[Kaelen Stormrage|Kaelen]] - Pronounced “Kaylin”) and Alex ([[Sally the Smasher|Sally The Smasher]]). 
-- Player Characters present (otherwise referred to as, “[[The Gang|The gang]]”): [[Detective Cole Le Fev|Cole]], [[Kaelen Stormrage|Kaelen]] - Pronounced “Kaylin”, [[Sally the Smasher|Sally The Smasher]], [[Gronk Shadowfang|Gronk]] (although he leaves quickly as you will read about soon).
-- We pick back off where we ended the last session, at the [[Dried Fish]] (a fishing company building with docks/warf) – right after the [[Black Rain Mutation|mutants]] have all been “peacefully” ended. 
-- [[Kaelen Stormrage|Kaelen]] confirms his recently made deals with his new [[Kua-Toa|Kua Toa]] followers/business partners.
-- [[The Gang|The gang]] decide the best place to get more information on [[Black Rain|the black rain]] and the missing magic items is [[Thundermarch]] — a castled city to the east.
-- [[Thundermarch]] is still located in the southwest of the continent of [[Valhyria]], but it has a larger scientific community and more arcane equipment than the other southwestern cities. It is also where [[Captain Verrik]], the Skywarden of the South West (Police commissioner of the south west regions) resides.
-- Before [[The Gang|the gang]] takes off — a ten-foot-tall, aqua-coloured, flaming ghostly goblin, with pointy Sauron-like armour riding a same coloured ghost horse appears out of nowhere in front of Sam’s (who was not present for the session) Goblin character, [[Gronk Shadowfang|Gronk]].
-- The giant ghost goblin booms in a ghostly voice “[[Gronk Shadowfang|Gronk]]!”--  then suddenly he and [[Gronk Shadowfang|Gronk]] (and [[Gronk Shadowfang|Gronk]]’s Wolf, [[Cuddleclaw|CuddleClaw]]) are ripped from this dimension.
-- The astral warp triggers something latent in [[Detective Cole Le Fev|Cole]] — causing muscular astral arms to sprout from his back. They dissipate eventually, but [[Detective Cole Le Fev|Cole]] thinks he can summon them whenever needed.
-- He and the remaining gang aren’t sure if they can do anything to help [[Gronk Shadowfang|Gronk]], so they continue on their quest for [[Thundermarch]]. Virka (the goblin woman who travelled with [[The Gang|the gang]] from [[Ashdawn]] (the starting town) must return home, but says she’ll keep an eye on [[Kaelen Stormrage|Kaelen]]’s deals here in [[1. Drippledown|Drippledown]] (the fishing village).
-- [[The Gang|The gang]] intimidates a [[Kua-Toa|Kua Toa]] named [[Sheosh]], to take them in his wagon to [[Thundermarch]].
-- They arrive in [[Thundermarch]] - very quickly — because they told [[Sheosh]] to book it and he does so — driving the wagon full-throttle right past the guards — only drifting to a stop when they reach the market area of the Town.
-- They calm down the guards who ask wtf is going on. Ultimately no one is barred entry and [[The Gang|the gang]] continue to look for [[Captain Verrik]].
-- Detective [[Detective Cole Le Fev|Cole]] is easily able to network his way to [[Captain Verrik]] as they are both detective monks working for the same order.
-- Verrick is an old, gruff Arakokra detective monk who watches over the people and manages the other detectives of the South West regions. He was described as a bit taller than [[Detective Cole Le Fev|Cole]], has a square head, white feathers, and his wings have healed/scarred holes in them, likely from being struck by many arrows from his many years-long tenure on duty.
-- [[Captain Verrik|Verrik]] tells [[The Gang|the gang]] that they’ve experienced [[Black Rain|the black rain]] too, and that the Prince of [[Thundermarch]] has got their scientists working on it.
-- [[Captain Verrik|Verrik]] takes [[The Gang|the gang]] to the throne room where they first see the King of [[Thundermarch]], the hulking thunder/air/lightning genasi, [[King Selos SkySplitter|King Selos Skysplitter]]. He has a mighty crown on his head. He is a genasi so he is an elemental person - he looks humanoid, but instead of skin, bones and muscle; he has whirling clouds and crackling lightning.
+- Players present: Thomas (Cole), Rhys (Kaelen - Pronounced “Kaylin”) and Alex (Sally The Smasher). 
+- Player Characters present (otherwise referred to as, “The gang”): Cole, Kaelen - Pronounced “Kaylin”, Sally The Smasher, Gronk (although he leaves quickly as you will read about soon).
+- We pick back off where we ended the last session, at the Dried Fish (a fishing company building with docks/warf) – right after the mutants have all been “peacefully” ended. 
+- Kaelen confirms his recently made deals with his new Kua Toa followers/business partners.
+- The gang decide the best place to get more information on the black rain and the missing magic items is Thundermarch — a castled city to the east.
+- Thundermarch is still located in the southwest of the continent of Valhyria, but it has a larger scientific community and more arcane equipment than the other southwestern cities. It is also where Captain Verrik, the Skywarden of the South West (Police commissioner of the south west regions) resides.
+- Before the gang takes off — a ten-foot-tall, aqua-coloured, flaming ghostly goblin, with pointy Sauron-like armour riding a same coloured ghost horse appears out of nowhere in front of Sam’s (who was not present for the session) Goblin character, Gronk.
+- The giant ghost goblin booms in a ghostly voice “Gronk!”--  then suddenly he and Gronk (and Gronk’s Wolf, CuddleClaw) are ripped from this dimension.
+- The astral warp triggers something latent in Cole — causing muscular astral arms to sprout from his back. They dissipate eventually, but Cole thinks he can summon them whenever needed.
+- He and the remaining gang aren’t sure if they can do anything to help Gronk, so they continue on their quest for Thundermarch. Virka (the goblin woman who travelled with the gang from Ashdawn (the starting town) must return home, but says she’ll keep an eye on Kaelen’s deals here in Drippledown (the fishing village).
+- The gang intimidates a Kua Toa named Sheosh, to take them in his wagon to Thundermarch.
+- They arrive in Thundermarch - very quickly — because they told Sheosh to book it and he does so — driving the wagon full-throttle right past the guards — only drifting to a stop when they reach the market area of the Town.
+- They calm down the guards who ask wtf is going on. Ultimately no one is barred entry and the gang continue to look for Captain Verrik.
+- Detective Cole is easily able to network his way to Captain Verrik as they are both detective monks working for the same order.
+- Verrick is an old, gruff Arakokra detective monk who watches over the people and manages the other detectives of the South West regions. He was described as a bit taller than Cole, has a square head, white feathers, and his wings have healed/scarred holes in them, likely from being struck by many arrows from his many years-long tenure on duty.
+- Verrik tells the gang that they’ve experienced the black rain too, and that the Prince of Thundermarch has got their scientists working on it.
+- Verrik takes the gang to the throne room where they first see the King of Thundermarch, the hulking thunder/air/lightning genasi, King Selos Skysplitter. He has a mighty crown on his head. He is a genasi so he is an elemental person - he looks humanoid, but instead of skin, bones and muscle; he has whirling clouds and crackling lightning.
 - The king is hundreds of years old and was given dominion over this region (a region so close to the Goblins’, Orcs’ and Hobgoblins’ main cities) as he was so trusted by the Godking after the great war. 
-- As he is so old, he barely moves, and so his son, [[Prince Sier SkySplitter|Prince Sier Skysplitter]] rules in his stead. [[Prince Sier SkySplitter|Prince Sier Skysplitter]] is also a thunder/air/lightning genasi — but his mother was human, so while he is still made of clouds and lightning, he has a low-opacity blend of skin which makes him look more human.
-- Also in the room is [[Stebonheath]] - an old and bearded wizard with a black robe - the town mage sent to [[Thundermarch]].
-- Also, [[Leif LúmëLóke]], a tall blond, the town cleric sent to [[Thundermarch]]. ([[The Gang|The gang]] recognises that if both a cleric and a mage have been sent from the capital, then something big must be happening)
-- Also in the room is a maid, [[Helga Brightrun]], with luxurious long black hair. She gives [[Sally the Smasher|Sally The Smasher]] a knowing look but says nothing.
-- [[The Gang|The gang]] talks to the prince and they exchange information - [[The Gang|the gang]] tells him of their travels lately, the missing items and [[Black Rain|the black rain]].
-- The Prince says they have experienced the same, missing magical items, and [[Black Rain|the black rain]] has hit a few towns north of them previously.
-- However, the Prince won’t tell them more as he needs something from them — he offers them all the knowledge [[Thundermarch]] has on the items and [[Black Rain|the black rain]], in exchange for [[The Gang|the gang]] doing a mission for them.
-- See, [[Thundermarch]] is a powerful town but it is governed by one rule, a promise that [[King Selos SkySplitter|King Selos Skysplitter]] made to the continent when he was given this castle, a warning to other kings, governments, or anyone out to destroy [[Thundermarch]] or it’s way of life — “If we march, the thunder will march with us”. (Hence, the name given by the people to the castled town)
-- The thunder marching has never happened before, and no one knows if it is real or if it is just a bluff, but it has been enough to stop the castle from ever being raided or [[King Selos SkySplitter|King Skysplitter]] from ever having to march on another town.
+- As he is so old, he barely moves, and so his son, Prince Sier Skysplitter rules in his stead. Prince Sier Skysplitter is also a thunder/air/lightning genasi — but his mother was human, so while he is still made of clouds and lightning, he has a low-opacity blend of skin which makes him look more human.
+- Also in the room is Stebonheath - an old and bearded wizard with a black robe - the town mage sent to Thundermarch.
+- Also, Leif LúmëLóke, a tall blond, the town cleric sent to Thundermarch. (The gang recognises that if both a cleric and a mage have been sent from the capital, then something big must be happening)
+- Also in the room is a maid, Helga Brightrun, with luxurious long black hair. She gives Sally The Smasher a knowing look but says nothing.
+- The gang talks to the prince and they exchange information - the gang tells him of their travels lately, the missing items and the black rain.
+- The Prince says they have experienced the same, missing magical items, and the black rain has hit a few towns north of them previously.
+- However, the Prince won’t tell them more as he needs something from them — he offers them all the knowledge Thundermarch has on the items and the black rain, in exchange for the gang doing a mission for them.
+- See, Thundermarch is a powerful town but it is governed by one rule, a promise that King Selos Skysplitter made to the continent when he was given this castle, a warning to other kings, governments, or anyone out to destroy Thundermarch or it’s way of life — “If we march, the thunder will march with us”. (Hence, the name given by the people to the castled town)
+- The thunder marching has never happened before, and no one knows if it is real or if it is just a bluff, but it has been enough to stop the castle from ever being raided or King Skysplitter from ever having to march on another town.
 - However, due to this promise — The prince cannot march, for fears of bringing a powerful wrath of thunder to the lands. This means, the King, the Prince, or any of their soldiers cannot help, work, or stop threats outside their walls - as this magical promise would count that as marching - and the Prince and the King seem to think if they march, it’s not something they should do lightly.
-- With all this in mind, the Prince tells [[The Gang|the gang]] that a band of Orcs has been raiding hamlets/villages between [[Ashdawn]] and [[Thundermarch]] — and they need to put a stop to them before they reach any more of [[Thundermarch]]’s surrounding towns. [[Captain Verrik|Verrik]] confirms he travelled to the Orc city, [[Urdakar]], and confirmed with the Orc King that this band were not part of their people and had in fact murdered a few Orc villages on their way through. 
-- This band of orcs have recently been spotted at a small church hamlet, [[Mistthrow]], too close to [[Thundermarch]], protected by the Paladin, Jacye.
-- [[The Gang|The gang]] accept after realising the king and prince are probably some people they don’t want to fuck with. ([[Captain Verrik|Verrik]] reminds them of how big the kings hands are in comparison to their heads)
-- They rest in a tavern and the next day do some shopping. They meet an orc blacksmith - [[Gorruk Anvilborn]], a goblin alchemist - [[Yibba Fizzwhistle]] (who they sell a lot of stuff to and they get Yibba to make them a bomb using the [[Freaktopus]] oil), a they also meet a brown bearfolk shopkeeper.
-- They also visit the mercenary guild. They hire one mercenary (well, two– because it’s a discount as it’s a pair) and were given another via a free token as thanks from [[Prince Sier SkySplitter|Prince Skysplitter]].
-- The two mercenaries they hired were [[Fior]] (an elf + druid) and [[Silch]] (a ??? + ???) he is a small very hairy rat-like creature that doesn’t speak an noone knows his race or “class”.
-- On the way to the church where the orcs were spotted, they are visited by the mercenary they got from the free token, [[Chains]] (his race is “[[Chains|chains]]” and his class is “[[Chains]]”). He is airdropped by a giant [[Owlin|owlin]] and you could swear the song “fortunate son” was playing when it happened.
+- With all this in mind, the Prince tells the gang that a band of Orcs has been raiding hamlets/villages between Ashdawn and Thundermarch — and they need to put a stop to them before they reach any more of Thundermarch’s surrounding towns. Verrik confirms he travelled to the Orc city, Urdakar, and confirmed with the Orc King that this band were not part of their people and had in fact murdered a few Orc villages on their way through. 
+- This band of orcs have recently been spotted at a small church hamlet, Mistthrow, too close to Thundermarch, protected by the Paladin, Jacye.
+- The gang accept after realising the king and prince are probably some people they don’t want to fuck with. (Verrik reminds them of how big the kings hands are in comparison to their heads)
+- They rest in a tavern and the next day do some shopping. They meet an orc blacksmith - Gorruk Anvilborn, a goblin alchemist - Yibba Fizzwhistle (who they sell a lot of stuff to and they get Yibba to make them a bomb using the Freaktopus oil), a they also meet a brown bearfolk shopkeeper.
+- They also visit the mercenary guild. They hire one mercenary (well, two– because it’s a discount as it’s a pair) and were given another via a free token as thanks from Prince Skysplitter.
+- The two mercenaries they hired were Fior (an elf + druid) and Silch (a ??? + ???) he is a small very hairy rat-like creature that doesn’t speak an noone knows his race or “class”.
+- On the way to the church where the orcs were spotted, they are visited by the mercenary they got from the free token, Chains (his race is “chains” and his class is “Chains”). He is airdropped by a giant owlin and you could swear the song “fortunate son” was playing when it happened.
 - They arrive at the small church hamlet. It’s a few houses and a big church surrounded by castle-like walls.
-- They immediately see it has been overrun by this band of orcs and [[Paladin Jayce]] is dead. (he has been hung at the front gates).
-- There are two orcs on top of the walls, guarding. [[The Gang|The gang]] wait until one is out of sight and range attack the fuck out of the other one. It dies and falls inside the walls.
+- They immediately see it has been overrun by this band of orcs and Paladin Jayce is dead. (he has been hung at the front gates).
+- There are two orcs on top of the walls, guarding. The gang wait until one is out of sight and range attack the fuck out of the other one. It dies and falls inside the walls.
 - They go inside to try to hide the body but are spotted by the other orc on the wall.
 - However him spotting them lasts about a second as they all range attack the fuck out of him too.
 - They search the hamlet to see it is ransacked — but are spotted by an orc in the empty church
-- The orc rushes down a secret staircase and [[The Gang|the gang]] follow him into a basement
+- The orc rushes down a secret staircase and the gang follow him into a basement
 - Which leads into a dungeon
 - Which leads into a cave-like part of the dungeon
 - They squeeze through the poorly designed dungeon, bumping into each other and smacking walls along the way - cutting down orcs and chasing them down before they can sound their alarms
-- [[The Gang|The gang]] doesn’t need to do much puzzle solving, as one orc they chase leads them into the final room of the dungeon — this room is ancient, much much older than the other rooms of the dungeon.
-- [[The Gang|The gang]] is ambushed by more orcs 
+- The gang doesn’t need to do much puzzle solving, as one orc they chase leads them into the final room of the dungeon — this room is ancient, much much older than the other rooms of the dungeon.
+- The gang is ambushed by more orcs 
 - The fight starts simple — but arrows start flying with the shooter no where in sight
-- [[The Gang|The gang]] eventually finds out there are orcs hiding in the walls of the room
-- [[Sally Syndicate|Sally]] SMASHES a wall and fucks one up
-- [[Silch]] wildshapes into a giant beetle and uses its pincers to hold the biggest orc trapped
-- [[Fior]] does not much as he is trying to heal people but they are beating so much ass they aren’t very injured
-- [[Chains]], who showed promise when outside the church (launching a javelin made of [[Chains|chains]] right from his arm at the guard on the wall) is now absolutely whiffing everything. He tried the arm javelin thing again but (rolled a nat 1) and his arm exploded. He tried being a badass and fighting with two swords in one hand but kept missing everything
-- [[Detective Cole Le Fev|Cole]] spots another orc in the walls and he and beetle-[[Silch|silch]] take it out
-- [[Sally Syndicate|Sally]] continues to smash, and [[Kaelen Stormrage|Kaelen]] and his skeletons continue to magically and physically penetrate orcs like no tomorrow
-- They are flanked by more orcs but beetle-[[Silch]] buries through the ground and flanks the flankers — then the rest of [[The Gang|the gang]] easily take them out
-- After the fight, they loot, and find writing- carved into the ground many many years ago as part of the design of this room.It’s in an ancient, unknown language. [[Kaelen Stormrage|Kaelen]] cheekily uses the spell comprehend languages and is able to decipher it. It roughly translates to “Created, not born”.
-- They also loot a map from one of the orcs which shows the path they have travelled so far, marking off towns they have pillaged. It also shows towns they were going to pillage, leading all the way to [[Skaldgrym]] ([[Kaelen Stormrage|Kaelen]]’s home and home of the Goliaths). (it doesn’t say whether they are going to actually pillage these towns, just each is marked with an ‘X’, but they have pillaged so far…)
-- And most dramatically, they find a symbol on the map at the bottom - it is the house symbol of [[Skaldgrym]] — but slightly different…
-- [[The Gang|The gang]] returns to [[Thundermarch]] to find it in a state of havoc
+- The gang eventually finds out there are orcs hiding in the walls of the room
+- Sally SMASHES a wall and fucks one up
+- Silch wildshapes into a giant beetle and uses its pincers to hold the biggest orc trapped
+- Fior does not much as he is trying to heal people but they are beating so much ass they aren’t very injured
+- Chains, who showed promise when outside the church (launching a javelin made of chains right from his arm at the guard on the wall) is now absolutely whiffing everything. He tried the arm javelin thing again but (rolled a nat 1) and his arm exploded. He tried being a badass and fighting with two swords in one hand but kept missing everything
+- Cole spots another orc in the walls and he and beetle-silch take it out
+- Sally continues to smash, and Kaelen and his skeletons continue to magically and physically penetrate orcs like no tomorrow
+- They are flanked by more orcs but beetle-Silch buries through the ground and flanks the flankers — then the rest of the gang easily take them out
+- After the fight, they loot, and find writing- carved into the ground many many years ago as part of the design of this room.It’s in an ancient, unknown language. Kaelen cheekily uses the spell comprehend languages and is able to decipher it. It roughly translates to “Created, not born”.
+- They also loot a map from one of the orcs which shows the path they have travelled so far, marking off towns they have pillaged. It also shows towns they were going to pillage, leading all the way to Skaldgrym (Kaelen’s home and home of the Goliaths). (it doesn’t say whether they are going to actually pillage these towns, just each is marked with an ‘X’, but they have pillaged so far…)
+- And most dramatically, they find a symbol on the map at the bottom - it is the house symbol of Skaldgrym — but slightly different…
+- The gang returns to Thundermarch to find it in a state of havoc
 - The bustling market area is in chaos with civilians hurrying everywhere, stalls wrecked, and bodies all around. Bodies of civilians… and mutated civilians!
-- It’s clear [[Black Rain|the black rain]] has been here while they were gone.
+- It’s clear the black rain has been here while they were gone.
 - They visit the Prince's room, to find the Prince in disarray, trying to lead his people
-- They notice that wizard, [[Stebonheath]], and the black haired maid, [[Helga Brightrun]], are missing…
+- They notice that wizard, Stebonheath, and the black haired maid, Helga Brightrun, are missing…
 - … along with the King’s crown.
-- The prince fulfils his promise to give them the full knowledge [[Thundermarch]] has on [[Black Rain|the black rain]] and the missing magical items
-- The Prince tells them of locations that have experienced [[Black Rain|the black rain]] recently, and also that more magical items have been stolen. Their data also shows that [[Black Rain|the black rain]] has been appearing in places that have had their magic items stolen - so these might not be coincidences.  
-    He confirms that their reports show a trajectory of these incidents leading from north of [[Thundermarch]] down to [[Ashdawn]], coinciding with [[The Gang|the gang]]’s experiences with [[Black Rain|the black rain]] and the missing items.
-- He also states that none of [[Thundermarch]]’s scientists or alchemists have ever been able to secure any of [[Black Rain|the black rain]] to study — as it evaporates very quickly. Even when stored in an air-tight container.
-- While [[Thundermarch]]’s army is busy rebuilding the city, the Prince asks [[The Gang|the gang]] to help with some bountie as they are now even more understaffed and still cannot march.
-- They accept and leave, but as they are leaving, [[Captain Verrik]] pulls Detective [[Detective Cole Le Fev|Cole]] aside and whispers something in his ear…
+- The prince fulfils his promise to give them the full knowledge Thundermarch has on the black rain and the missing magical items
+- The Prince tells them of locations that have experienced the black rain recently, and also that more magical items have been stolen. Their data also shows that the black rain has been appearing in places that have had their magic items stolen - so these might not be coincidences.  
+    He confirms that their reports show a trajectory of these incidents leading from north of Thundermarch down to Ashdawn, coinciding with the gang’s experiences with the black rain and the missing items.
+- He also states that none of Thundermarch’s scientists or alchemists have ever been able to secure any of the black rain to study — as it evaporates very quickly. Even when stored in an air-tight container.
+- While Thundermarch’s army is busy rebuilding the city, the Prince asks the gang to help with some bountie as they are now even more understaffed and still cannot march.
+- They accept and leave, but as they are leaving, Captain Verrik pulls Detective Cole aside and whispers something in his ear…

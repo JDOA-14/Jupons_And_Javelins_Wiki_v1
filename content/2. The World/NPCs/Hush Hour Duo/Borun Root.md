@@ -55,11 +55,11 @@ Borun Root is a human man notable for his unique hairstyle, which features a com
 
 ## 📜 Biography
 
-### [[Session 01 Recap - Flashbacks]]
-Borun Root appears in a flashback experienced by [[Gronk Shadowfang|Gronk]]. In this vision, he is seen alongside [[Flatomir Chelf]], where the two appear to have shot [[Cuddleclaw]] with a cannon.
+### Session 01 Recap - Flashbacks
+Borun Root appears in a flashback experienced by Gronk. In this vision, he is seen alongside Flatomir Chelf, where the two appear to have shot Cuddleclaw with a cannon.
 
-### [[Session 08 Recap]]
-During a meeting held on a train departing from [[Highwatch]], Borun Root was present among the attendees. His involvement in the meeting ended abruptly when he was teleported away by [[Dragon-Aura-Faced Man|the Dragon-Aura-Faced Man]].
+### Session 08 Recap
+During a meeting held on a train departing from Highwatch, Borun Root was present among the attendees. His involvement in the meeting ended abruptly when he was teleported away by the Dragon-Aura-Faced Man.
 
 ## 🤝 Relationships & Loyalties
 

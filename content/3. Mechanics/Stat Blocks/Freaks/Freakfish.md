@@ -1,6 +1,6 @@
 # Freakfish  
 
-**Type:** [[Mutated Kuo-toa]] Creature  
+**Type:** Mutated Kuo-toa Creature  
 **Origin:** [[Black Rain]] corruption  
 
 ---
@@ -11,11 +11,11 @@ The Freakfish is a fish/fishes exposed to the [[Black Rain]]. Their bodies warp 
 ---
 
 ## Campaign Mentions  
-- **[[Session 02 Recap]]**: The party encountered Freakfish during the battle at the Kuo-toa worksite, after the [[Black Rain]] fell and mutated the nearby villagers. The Freakfish fought alongside the [[Freaktopus]] and other mutated [[Kua-Toa]].  
+- **[[Session 02 Recap]]**: The party encountered Freakfish during the battle at the Kuo-toa worksite, after the [[Black Rain]] fell and mutated the nearby villagers. The Freakfish fought alongside the [[Freaktopus]] and other mutated Kua-Toa.  
 
 ---
 
 ## Known Traits  
 - Frenzied, aggressive swarm behavior.  
 - Resistant to conventional control or reasoning.  
-- Fully corrupted by [[Black Rain|the Black Rain]].  
+- Fully corrupted by the Black Rain.  

@@ -53,7 +53,7 @@ Gorruk Anvilborn is a skilled orc blacksmith and merchant based in the town of [
 
 ## 📜 Biography
 
-### [[Session 03 Recap - FULL|Session 03]]
+### Session 03
 The party first encountered Gorruk Anvilborn while shopping in [[Thundermarch]]. From this initial meeting, he was established as a local blacksmith and merchant within the community.
 
 ## 🤝 Relationships & Loyalties

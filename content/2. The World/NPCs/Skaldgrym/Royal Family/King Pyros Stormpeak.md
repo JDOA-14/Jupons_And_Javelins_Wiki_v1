@@ -53,7 +53,7 @@ King Pyros Stormpeak serves as the sovereign ruler of [[Skaldgrym]] during the y
 
 ## 📜 Biography
 
-King Pyros Stormpeak is the progenitor of a notable lineage, serving as the ancestor to several prominent figures. His legacy continues through his descendants, which include [[Kaelen Stormrage]], [[Kronar Stormrage]], [[King Donan Stormpeak]], and [[Brynnor Stormpeak]].
+King Pyros Stormpeak is the progenitor of a notable lineage, serving as the ancestor to several prominent figures. His legacy continues through his descendants, which include Kaelen Stormrage, [[Kronar Stormrage]], [[2. The World/NPCs/Skaldgrym/Royal Family/Stormpeaks/King Donan Stormpeak|King Donan Stormpeak]] Stormpeak, and [[2. The World/NPCs/Skaldgrym/Royal Family/Stormpeaks/Brynnor Stormpeak|Brynnor Stormpeak]].
 
 ## 🤝 Relationships & Loyalties
 

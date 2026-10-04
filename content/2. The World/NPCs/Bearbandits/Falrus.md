@@ -47,7 +47,7 @@ aliases:
 
 > *"Insert a memorable quote by or about the character here."*
 
-Falrus was a high-ranking Bearbandit warlock and a mage grey bear who served as a lieutenant to [[Gundrik Ashclaw]]. He was unceremoniously killed in [[Pinetide]] by magic missiles, a fireball emanating from [[The Sword of Silliness|the Sword of Silliness]], and a smite-powered [[Detective Cole Le Fev|Cole Le Fev]] punch.
+Falrus was a high-ranking Bearbandit warlock and a mage grey bear who served as a lieutenant to [[Gundrik Ashclaw]]. He was unceremoniously killed in [[Pinetide]] by magic missiles, a fireball emanating from the Sword of Silliness, and a smite-powered Cole Le Fev punch.
 
 ## 📜 Biography
 
@@ -60,9 +60,9 @@ Falrus is mentioned by [[Biteclaw_F1]] to [[Kaelen Stormrage]] at a tavern in [[
 
 During the raid on [[Pinetide]], Falrus uses his warlock magic to supercharge bearbandits and orcs. 
 
-Almost defeated but still healthy, Falrus begins to retreat -- however he is attacked by [[Detective Cole Le Fev|Cole Le Fev]] weilding [[The Sword of Silliness]]. The sword instantly explodes into a fireball -- mortally wounding Falrus, [[Detective Cole Le Fev|Cole]] and [[Little Shitty]], and obliterating two nearby bandit archers.
+Almost defeated but still healthy, Falrus begins to retreat -- however he is attacked by [[Detective Cole Le Fev|Cole Le Fev]] weilding [[The Sword of Silliness]]. The sword instantly explodes into a fireball -- mortally wounding Falrus, Cole and [[Little Shitty]], and obliterating two nearby bandit archers.
 
-[[Detective Cole Le Fev|Cole]], on 1 hp and a dream, notices Falrus is still standing. Instead of fleeing, he smites Falrus -- dealing exactly enough damage to kill him.
+Cole, on 1 hp and a dream, notices Falrus is still standing. Instead of fleeing, he smites Falrus -- dealing exactly enough damage to kill him.
 
 ## 🤝 Relationships & Loyalties
 - **Allies:** [[Gundrik Ashclaw]], [[Biteclaw]]

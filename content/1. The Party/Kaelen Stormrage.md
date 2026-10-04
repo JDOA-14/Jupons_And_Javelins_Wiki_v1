@@ -38,7 +38,7 @@ q's
     
 - **Appearance:** Always skeletons. @ Lvl 1 & 2 no choice... swordsmen or archer
     
-- **Special:** 40% chance to be [[Tink Skelly]] (% drops per level)
+- **Special:** 40% chance to be Tink Skelly (% drops per level)
     
 - **Range/Movement:** 60ft range, 30ft movement
     

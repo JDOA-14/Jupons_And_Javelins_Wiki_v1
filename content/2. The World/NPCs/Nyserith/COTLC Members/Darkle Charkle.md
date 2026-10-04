@@ -53,9 +53,9 @@ Darkle Charkle served as the Head of Necromancy within the Arcane Facility. Appe
 
 ## 📜 Biography
 
-Identified by [[Sylak AppleTree|Sylak Appletree]] as the Head of Necromancy, Darkle Charkle was a notable figure active during the same year as [[Stebonheath]]. The party sought out Charkle with the specific intent of casting *Speak with Dead* on Twiggy, hoping to leverage the entity's knowledge of the arcane and the dead.
+Identified by [[Sylak AppleTree]] as the Head of Necromancy, Darkle Charkle was a notable figure active during the same year as [[Stebonheath]]. The party sought out Charkle with the specific intent of casting *Speak with Dead* on Twiggy, hoping to leverage the entity's knowledge of the arcane and the dead.
 
-During the exploration of the academic sectors of [[1. Nyserith|Nyserith]], the party eventually tracked Charkle to the Arcane Facility. The search culminated on Day 13, where the party confronted and defeated both Darkle Charkle and [[Moris Boris]] within a flooded chamber.
+During the exploration of the academic sectors of [[1. Nyserith]], the party eventually tracked Charkle to the Arcane Facility. The search culminated on Day 13, where the party confronted and defeated both Darkle Charkle and [[Moris Boris]] within a flooded chamber.
 
 ## 🤝 Relationships & Loyalties
 

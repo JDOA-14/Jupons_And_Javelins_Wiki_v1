@@ -35,7 +35,7 @@ When swung at something, the sword will produce a random effect. Player will rol
 
 more rolls to be created.
 
-Owner: [[Detective Cole Le Fev|Cole Le Fev]]
+Owner: Cole Le Fev
 
 
 Wand of Wonder stats (for reference):

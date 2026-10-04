@@ -4,7 +4,7 @@
 ## Session Overview
 - **PC introduced:** [[Cryos Frostjaw]] (Ethan).  
 - **Location:** [[Nyvaldra]] (icy island off the mainland).  
-- **Races of [[Nyvaldra]]:** [[Kodan]] (polar bearfolk), water genasi, ice genasi, penguin-arakokra, [[Kua-Toa]], sealfolk, walrusfolk.  
+- **Races of Nyvaldra:** [[Kodan]] (polar bearfolk), water genasi, ice genasi, penguin-arakokra, [[Kua-Toa]], sealfolk, walrusfolk.  
 
 ---
 
@@ -15,10 +15,10 @@
 
 ---
 
-## [[Cryos Frostjaw]]’s Inauguration
-- Ceremony: [[Cryos Frostjaw|Cryos]] is chosen as the latest **Chosen One**.  
-- Celebration: great hall of the ice palace in [[Nyvaldra]]’s center.  
-- Atmosphere: joyful, though some guests conspire that [[Cryos Frostjaw|Cryos]] was only chosen due to his mother’s council seat.  
+## Cryos Frostjaw’s Inauguration
+- Ceremony: Cryos is chosen as the latest **Chosen One**.  
+- Celebration: great hall of the ice palace in Nyvaldra’s center.  
+- Atmosphere: joyful, though some guests conspire that Cryos was only chosen due to his mother’s council seat.  
 
 ---
 
@@ -34,17 +34,17 @@
 - Leader: hulking scarred grey bear, thick leather armor, wielding a large maul.  
 
 ### Mother’s Intervention
-- [[Cryos Frostjaw|Cryos]] attempts to fight but his mother stops him.  
-- She reveals: the true duty of the Chosen One is to protect **[[Nyvaldra]]’s secret**.  
+- Cryos attempts to fight but his mother stops him.  
+- She reveals: the true duty of the Chosen One is to protect **Nyvaldra’s secret**.  
 - Produces: a glowing blue pearl.  The [[Everfrost Pearl]]
 - Action:  
-  - Presses it to [[Cryos Frostjaw|Cryos]]’ chest, freezes it in place with frost magic.  
+  - Presses it to Cryos’ chest, freezes it in place with frost magic.  
   - Pushes him against the icy wall, fully encasing him in the structure.  
-  - [[Cryos Frostjaw|Cryos]] is hidden, unable to intervene.  
+  - Cryos is hidden, unable to intervene.  
 
 ### Capture and Loss
-- Grey Bear leader enters, argues with [[Cryos Frostjaw|Cryos]]’ mother, then abducts her.  
-- By the time [[Cryos Frostjaw|Cryos]] breaks free:  
+- Grey Bear leader enters, argues with Cryos’ mother, then abducts her.  
+- By the time Cryos breaks free:  
   - His mother and invaders are gone.  
   - His father and brother lie face down in the snow.  
 

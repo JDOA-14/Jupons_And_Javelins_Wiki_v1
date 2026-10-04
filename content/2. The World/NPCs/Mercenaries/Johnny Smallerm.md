@@ -53,11 +53,11 @@ Johnny Smallerm is a mercenary paladin who served as a stalwart defender during 
 
 ## 📜 Biography
 
-Johnny Smallerm was first identified as one of two mercenaries traveling on a cart alongside [[Kaelen Stormrage|Kaelen]] and [[Detective Cole Le Fev|Cole]]. His involvement in the local conflict became evident during a pivotal moment at a tower, where he was seen rushing up the stairs with [[Ol Derek Yeller]] while [[Kaelen Stormrage|Kaelen]] dealt with the final worg.
+Johnny Smallerm was first identified as one of two mercenaries traveling on a cart alongside Kaelen and Cole. His involvement in the local conflict became evident during a pivotal moment at a tower, where he was seen rushing up the stairs with [[Ol Derek Yeller]] while Kaelen dealt with the final worg.
 
 Smallerm's bravery was truly tested during the defense of the hamlet. In the heat of a desperate battle, he survived a grueling skirmish against a wave of predators and marauders, ultimately slaying four to five bears and orcs to protect the residents.
 
 ## 🤝 Relationships & Loyalties
 
-- **Allies:** [[Ol Derek Yeller]] (cleric/fighter), [[Kaelen Stormrage|Kaelen]], [[Detective Cole Le Fev|Cole]]
+- **Allies:** [[Ol Derek Yeller]] (cleric/fighter), Kaelen, Cole
 - **Enemies:** Worgs, bears, orcs

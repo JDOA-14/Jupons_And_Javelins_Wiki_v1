@@ -29,13 +29,13 @@
 
 **(6,000,000 BGK → 4,000,000 BGK)**
 
-- With the rest of the world gone, the many races of animals living in [[Valhyria]] begin evolving. Many animals evolve into **humanoid creatures**.
+- With the rest of the world gone, the many races of animals living in Valhyria begin evolving. Many animals evolve into **humanoid creatures**.
     
 - **Humans, Dwarves, and Giants** evolved from different sized primates.
     
 - Some primates fled to more seemingly magical/fey areas of the continent and evolved into **Elves, Goblins, and Orcs**.
     
-- Other animals evolved into humanoid versions of themselves (**[[Aarakocra]], Tabaxi, Minotaur, Tortle, Kobolds**, etc.).
+- Other animals evolved into humanoid versions of themselves (**Aarakocra, Tabaxi, Minotaur, Tortle, Kobolds**, etc.).
     
 
 ---
@@ -57,11 +57,11 @@
 
 - In the “medieval” era now. There were constant wars over locations and resources.
     
-- The knowledge of [[The Shard]] became more widespread around the continent, causing more wars for the prime location near it.
+- The knowledge of The Shard became more widespread around the continent, causing more wars for the prime location near it.
     
-- During this age, some beings began to be able to utilise **magic**. It was much more common in peoples living near [[The Shard]].
+- During this age, some beings began to be able to utilise **magic**. It was much more common in peoples living near The Shard.
     
-- The town of **[[1. Eryndor|Eryndor]]**, [[Valhyria]]’s capital city, was set up in the middle of the continent around [[The Shard]].
+- The town of **Eryndor**, Valhyria’s capital city, was set up in the middle of the continent around The Shard.
     
 
 ---
@@ -103,11 +103,11 @@
 
 ---
 
-## Early Life of [[The God King|the God King]]
+## Early Life of the God King
 
 **(0 AGK – 64 AGK)**
 
-- He is raised by a farming family and eventually is recruited in a war, then becomes a great leader and is found to have powerful abilities. He is then found to make a great connection with [[The Shard]]. He makes several great choices (training with monks and several other leaders of civilian communities he respects) and never falls to temptation of his abilities. Eventually he is crowned king of the humans.
+- He is raised by a farming family and eventually is recruited in a war, then becomes a great leader and is found to have powerful abilities. He is then found to make a great connection with The Shard. He makes several great choices (training with monks and several other leaders of civilian communities he respects) and never falls to temptation of his abilities. Eventually he is crowned king of the humans.
 
 ---
 
@@ -137,8 +137,8 @@
 
 **(74 AGK – 374 AGK)**
 
-- After [[The God King|the God King]]’s efforts, there is **peace for hundreds of years**.
-- [[The God King]] remains alive for all these years, maintaining peace.
+- After the God King’s efforts, there is **peace for hundreds of years**.
+- The God King remains alive for all these years, maintaining peace.
 
 ---
 
@@ -156,16 +156,16 @@
 
 ---
 
-## The [[Age of Thankfulness]]
+## The Age of Thankfulness
 
 **(374 AGK – Present, 614 AGK)**
 
 - There is general peace again.
     
-- No large wars happen as [[The Accords|the accords]] were strong and fair.
+- No large wars happen as [[The Accords]] were strong and fair.
     
-- The great religion of [[Valhyria]], the **[[Aethercrysts]]**, combined with [[1. Eryndor|Eryndor]]’s great **Golden Guard**, keeps peace throughout the realm.
+- The great religion of [[Valhyria]], the **[[Aethercrysts]]**, combined with [[1. Eryndor]]’s great **Golden Guard**, keeps peace throughout the realm.
     
-- The **[[Monk-Detectives of Aeryndor]]** work as the realm’s detectives.
+- The **[[Monk-Detectives of Aeryndor]] of [[Aeryndor]]** work as the realm’s detectives.
     
 - **(614 AGK) roughly 200 years later, the campaign begins...**

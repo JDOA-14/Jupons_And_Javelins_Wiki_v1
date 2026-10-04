@@ -54,10 +54,10 @@ Hiram Hobb is a local contact who serves as a bounty giver for the party. He act
 
 ## 📜 Biography
 
-### [[Session 05 Recap - FULL|Session 05]]
-The party first encountered Hiram Hobb during [[Session 05 Recap - FULL|Session 05]], where he led them into a basement to face a swarming infestation of tiny rats, giant rats, and Rat Kings. Following the party's victory over the swarm, Hobb's true character was revealed; he was not a suspicious individual, but rather a man gripped by fear. He provided the party with a crucial warning, alerting them to the presence of violent strangers waiting outside his house.
+### Session 05
+The party first encountered Hiram Hobb during Session 05, where he led them into a basement to face a swarming infestation of tiny rats, giant rats, and Rat Kings. Following the party's victory over the swarm, Hobb's true character was revealed; he was not a suspicious individual, but rather a man gripped by fear. He provided the party with a crucial warning, alerting them to the presence of violent strangers waiting outside his house.
 
 ## 🤝 Relationships & Loyalties
 
-- **Allies:** [[The Gang]]
+- **Allies:** The Gang
 - **Enemies:** Violent strangers

@@ -34,5 +34,5 @@ A mysterious tome with a black cover and an orange diamond.
 - Session 1: Introduced during Kaelin’s flashback.  
 - Session 1: Stolen by Dragon-Aura Faced Man during the bandit chest encounter.  
 
-It's believed that [[Kaelen Stormrage|Kaelen]] was mostly done with this tomb, and was using it to trade with the [[Necrolexicon Aeternum]] when we first encountered him in [[Session 01 Recap - FULL|Session 01]]. 
-Hence, it's safe to say that this is the tomb that allowed [[Kaelen Stormrage|Kaelen]] to become a lvl 1 Necromancer wizard.
+It's believed that Kaelen was mostly done with this tomb, and was using it to trade with the [[Necrolexicon Aeternum]] when we first encountered him in Session 01. 
+Hence, it's safe to say that this is the tomb that allowed Kaelen to become a lvl 1 Necromancer wizard.

@@ -15,14 +15,14 @@ Parents:
 [[Sally the Smasher|Sally The Smasher]]
 
 
-## [[Session 10 Recap - FULL|Session 10]] Q answers
+## Session 10 Q answers
 
 Alright these Qs 
-1) [[Sally Syndicate|Sally]] is lets say about the same biological age as a 25 year old human or thereabouts 2) 
+1) Sally is lets say about the same biological age as a 25 year old human or thereabouts 2) 
 2) items that she'd be interested in - Any large two handed weapons that could maybe be swung around like a beyblade, or anything gear wise that maybe pairs with her shape shifting abilities, or gear that like "while raging X happens" could be fun, or anything that helps her move around more - like jumps like the Githyanki mega jump and does a shockwave on landing or something haha I don't know how shit or good these are 3) 
 3) Not really man I don't reeeeally know enough, like I'm just happy absolutely going berserk mode and bashing guys - so unless you could think of anything that would pair with it or a direction that'd be fun , but I'm happy to be doing the same. 4) 
 4) Hmmm - I honestly am not sure here man, I don't think there's anything or anyone I can conjure up that would be interesting haha 5) 
-5) Nah dude I don't think she's ever been - she's heard of it at [[Sally Syndicate|Sally]] HQ but never been there 6) 
+5) Nah dude I don't think she's ever been - she's heard of it at Sally HQ but never been there 6) 
 6) Dude I love the scenarios - my favourite is the combat, just enemy dense where we can all smoke grunt level enemies. What could be cool is some boss or encounter where we need to maybe achieve a goal to damage the boss, like he's a Destiny Raid boss - could be like carry a crystal to a location across the room, or kill three of his mages first before he's vulnerable or something.
 
 

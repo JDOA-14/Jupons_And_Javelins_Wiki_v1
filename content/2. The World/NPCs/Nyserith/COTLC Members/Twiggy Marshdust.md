@@ -49,11 +49,11 @@ aliases:
 
 > *"Insert a memorable quote by or about the character here."*
 
-Twiggy Marshdust serves as the Head of Transmutation and is a distinguished professor of transmutational magic. A unique hybrid of tabaxi, [[Owlin|owlin]], and human heritage, they are a striking figure within the academic community, overseeing the complex study of material transformation and magical alteration.
+Twiggy Marshdust serves as the Head of Transmutation and is a distinguished professor of transmutational magic. A unique hybrid of tabaxi, [[Owlin]], and human heritage, they are a striking figure within the academic community, overseeing the complex study of material transformation and magical alteration.
 
 ## 📜 Biography
 
-### Day 13 ([[1. Nyserith|Nyserith]] (The Rave))
+### Day 13 (Nyserith (The Rave))
 During an infiltration of a cult-related rave, Twiggy Marshdust was involved in a violent confrontation. 
 
 ### Session Recap

@@ -19,7 +19,7 @@ King's Brother's Son: [[Kaelen Stormrage]]
 
 ---
 
-🚨 As of [[session 12 Recap - FULL|Session 12]] --
+🚨 As of Session 12 --
 [[King Donan Stormpeak]] is announced dead.
 [[Kronar Stormrage]] is missing. 
 [[Brynnor Stormpeak]] is now King.

@@ -15,7 +15,7 @@ aliases:
 ---
 Maybe give these once they break into the Vault??
 
-[[The Gang|The gang]] receive a series of handles/doohickeys that attach to their weapons/items. Each one gives a different ability/effect.
+The gang receive a series of handles/doohickeys that attach to their weapons/items. Each one gives a different ability/effect.
 
 ---
 ### Kaelen
@@ -33,7 +33,7 @@ Confirmed: given to player.
 - Gives *Heavenstorm Missile*
 	- Once per Short Rest
 	- When throwing a javelin with this attachment, you can heal others along its path -
-		- As the javelin spins through the air, it rapidly releases spurts of healing energy towards those you deem in need of [[The Shard]]'s graces.
+		- As the javelin spins through the air, it rapidly releases spurts of healing energy towards those you deem in need of The Shard's graces.
 			- When you throw your javelin with this attachment, you may select any number of creatures within 10-feet of it's line of travel to receive 1d4 + your Wisdom Modifier healing.
 Confirmed: given to player.
 ---
@@ -47,16 +47,16 @@ Confirmed: given to player.
 			- On your later turns, you can take an action to travel the cube up to 10 feet.
 Confirmed: given to player.
 ---
-### [[Detective Cole Le Fev|Cole]]
+### Cole
 
 - Gives *Divine Remanoeuvre*
 	- Once per Long Rest
-	- When unleashing power worthy of [[The Shard]]'s attention, you may do so with more forethought.
+	- When unleashing power worthy of The Shard's attention, you may do so with more forethought.
 		- When smiting, you may re-roll 1s and 2s on any damage roll that is part of that attack action.
 		- + extra d4 radiant on a 19/20
 Confirmed: given to player.
 ---
-### [[Cryos Frostjaw|Cryos]]
+### Cryos
 
 - Gives _Divine Splay_
 	- Once per short rest

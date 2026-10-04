@@ -49,26 +49,26 @@ aliases:
 
 > *"Insert a memorable quote by or about the character here."*
 
-Sheosh is a [[Kua-Toa]] wagon driver who provides transportation for travelers navigating the roads between [[1. Drippledown|Drippledown]] and [[Thundermarch]]. He serves as a reliable source of passage for those seeking to travel between these two locations.
+Sheosh is a [[Kua-Toa]] wagon driver who provides transportation for travelers navigating the roads between [[1. Drippledown]] and [[Thundermarch]]. He serves as a reliable source of passage for those seeking to travel between these two locations.
 
 ## 📜 Biography
 
 ### Day 4
-Sheosh was first hired by [[Cryos Frostjaw]] to provide transportation from [[1. Drippledown|Drippledown]] to [[Thundermarch]].
+Sheosh was first hired by Cryos Frostjaw to provide transportation from [[1. Drippledown]] to [[Thundermarch]].
 
-### [[Session 03 Recap - FULL|Session 03]]
-Following this, [[Kaelen Stormrage|Kaelen]], [[Detective Cole Le Fev|Cole]], and [[Sally Syndicate|Sally]] intimidated Sheosh into taking them to [[Thundermarch]] in his wagon. Sheosh drove the wagon at full-throttle to bypass the guards, stopping only once the party reached the market area of the town. After the party departed, Sheosh returned to [[1. Drippledown|Drippledown]].
+### Session 03
+Following this, Kaelen, Cole, and [[Sally Syndicate]] intimidated Sheosh into taking them to [[Thundermarch]] in his wagon. Sheosh drove the wagon at full-throttle to bypass the guards, stopping only once the party reached the market area of the town. After the party departed, Sheosh returned to [[1. Drippledown]].
 
-### [[Session 04 Recap - FULL|Session 04]]
-[[Cryos Frostjaw]] hired Sheosh again to travel to [[Thundermarch]], and subsequently, convinced him to travel even further north. Sheosh fulfilled these requests and departed once his job was complete.
+### Session 04
+Cryos Frostjaw hired Sheosh again to travel to [[Thundermarch]], and subsequently, convinced him to travel even further north. Sheosh fulfilled these requests and departed once his job was complete.
 
 ### Day 9
-During a high-stakes pursuit, [[Kaelen Stormrage|Kaelen]] and [[Detective Cole Le Fev|Cole]] found Sheosh and convinced him to drive them in his kart while being chased by a group of worg riders.
+During a high-stakes pursuit, Kaelen and Cole found Sheosh and convinced him to drive them in his kart while being chased by a group of worg riders.
 
-### [[Session 05 Recap - FULL|Session 05]]
-Sheosh drove the party to safety to escape the group of worg riders. Following the battle, [[Detective Cole Le Fev|Cole]], [[Kaelen Stormrage|Kaelen]], and May took Sheosh's larger kart and gave him a smaller one belonging to May. They also rewarded him with a sum of gold greater than he had ever earned before.
+### Session 05
+Sheosh drove the party to safety to escape the group of worg riders. Following the battle, Cole, Kaelen, and May took Sheosh's larger kart and gave him a smaller one belonging to May. They also rewarded him with a sum of gold greater than he had ever earned before.
 
 ## 🤝 Relationships & Loyalties
 
-- **Allies:** [[Detective Cole Le Fev|Cole]], [[Kaelen Stormrage|Kaelen]], May, [[Cryos Frostjaw]]
+- **Allies:** Cole, Kaelen, May, Cryos Frostjaw
 - **Enemies:** Worg riders

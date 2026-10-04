@@ -64,7 +64,7 @@ A brief 1–2 paragraph overview describing who this character is, what they loo
 ## 🤝 Relationships & Loyalties
 - **Allies:** *(Factions, family, or friends)*
 - **Enemies:** *(Hostile forces or rivals)*
-- **Party Standing:** *(Current attitude toward the [[PCs]] and any table nicknames)*
+- **Party Standing:** *(Current attitude toward the PCs and any table nicknames)*
 
 ## ⏳ Current Status & The Ledger
 - **Where Are They Now?** *(Immediate location and ongoing activities)*
@@ -166,6 +166,6 @@ Kaelin's Cousin
 
 Son of [[King Donan Stormpeak]].
 
-As of [[session 12 Recap - FULL|Session 12]], is now the new king of [[Skaldgrym]]
+As of Session 12, is now the new king of [[Skaldgrym]]
 
 Accused by Kaelin of framing him in an attempt to get rid of him.

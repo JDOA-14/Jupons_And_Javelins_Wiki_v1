@@ -54,13 +54,13 @@ Little Shitty is a tiny crow and a True Neutral ally of the party. Primarily ser
 
 ## 📜 Biography
 
-Little Shitty’s history with the group began when he was serving as a scout for a raider orc. Following [[The Gang|the gang]]'s victory over the orc, the bird was recruited into the party and officially rebranded from "Piece of Shit" to his current name, Little Shitty.
+Little Shitty’s history with the group began when he was serving as a scout for a raider orc. Following the gang's victory over the orc, the bird was recruited into the party and officially rebranded from "Piece of Shit" to his current name, Little Shitty.
 
-Since joining the group, the crow has become a reliable combatant. He notably assisted in the battles against the Moo-d Mother and the two-cults-at-the-sacrifice by focusing his attacks on the eyes of the opposition. He also played a key role alongside [[The Gang|the gang]], [[Leif LúmëLóke|Leif]], [[Jeremy]], and the new fighters in defeating a pack of bears.
+Since joining the group, the crow has become a reliable combatant. He notably assisted in the battles against the Moo-d Mother and the two-cults-at-the-sacrifice by focusing his attacks on the eyes of the opposition. He also played a key role alongside the gang, [[Leif LúmëLóke]], [[Jeremy]], and the new fighters in defeating a pack of bears.
 
-Beyond the battlefield, Little Shitty has participated in a variety of party activities. He contributed to a stealthy infiltration by attempting to destroy an alarm bell and has frequently provided aerial lookout for [[Detective Cole Le Fev|Cole]]. He even accompanied [[Detective Cole Le Fev|Cole]], [[Kaelen Stormrage|Kaelen]], [[Gronk Shadowfang|Gronk]], and [[Sally Syndicate|Sally]] on shopping trips. However, his journey has not been without peril; he was once found locked in a barn with [[Jeremy]] and [[Cuddleclaw]], and he narrowly survived a "Fireball Incident" where he was mortally wounded by an explosion caused by the *Sword of Silliness*.
+Beyond the battlefield, Little Shitty has participated in a variety of party activities. He contributed to a stealthy infiltration by attempting to destroy an alarm bell and has frequently provided aerial lookout for Cole. He even accompanied Cole, Kaelen, Gronk, and [[Sally Syndicate]] on shopping trips. However, his journey has not been without peril; he was once found locked in a barn with [[Jeremy]] and Cuddleclaw, and he narrowly survived a "Fireball Incident" where he was mortally wounded by an explosion caused by the *Sword of Silliness*.
 
 ## 🤝 Relationships & Loyalties
 
-- **Allies:** [[The Gang]] ([[Detective Cole Le Fev|Cole]], [[Kaelen Stormrage|Kaelen]], [[Gronk Shadowfang|Gronk]], [[Sally Syndicate|Sally]]), [[Jeremy]], [[Leif LúmëLóke|Leif]], [[Cuddleclaw]].
+- **Allies:** The Gang (Cole, Kaelen, Gronk, [[Sally Syndicate]]), [[Jeremy]], [[Leif LúmëLóke]], Cuddleclaw.
 - **Enemies:** Raider orc (former owner), Moo-d Mother.

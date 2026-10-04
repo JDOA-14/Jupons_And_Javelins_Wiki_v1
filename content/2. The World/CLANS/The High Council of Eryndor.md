@@ -16,33 +16,33 @@ aliases:
   - High-Council
 ---
 
-While [[1. Eryndor|Eryndor]] maintains peace, its influence is pervasive and unavoidable. [[1. Eryndor|Eryndor]] operates as a central authority rather than a single-ruler monarchy.
+While [[1. Eryndor]] maintains peace, its influence is pervasive and unavoidable. [[1. Eryndor]] operates as a central authority rather than a single-ruler monarchy.
 
-While [[Aethercrysts|the Aethercrysts]] hold MASSIVE power in [[1. Eryndor|Eryndor]], and the King is still seen as [[The God King|the God King]], there is yet a royal structure. 
+While [[Aethercrysts]] hold MASSIVE power in [[1. Eryndor]], and the King is still seen as [[The God King]], there is yet a royal structure. 
 
 It's influence is decided by [[The High Council of Eryndor|The High-Council]]. 
 
 There are no princes or princesses. But there are several high ranking officials that form the [[The High Council of Eryndor|High-Council]].
 
 - For the [[Aethercrysts_UFMv2|The Aethercrysts]]
-	- Archduke -- Leader of [[Aethercrysts|the Aethercrysts]], basically ruler of the continent
+	- Archduke -- Leader of [[Aethercrysts]], basically ruler of the continent
 	- Current: [[]]
-		- Grand Duke -- [[Aethercrysts|Aethercryst]] Second in command 
+		- Grand Duke -- [[Aethercrysts]] Second in command 
 		- Current: [[]]
 			- 2x High Hierophants
 			- Current: [[]]
 				- 4 x Duke/Duchess Viziers
 				- Current: [[]]Aldren Thorne
-- For [[Golden Guards of Eryndor|The Golden Guards]]
-	- Lord-Protector -- Leader of [[Golden Guards of Eryndor|the Golden Guards]], full control over military
+- For [[Golden Guards of Eryndor]]
+	- Lord-Protector -- Leader of [[Golden Guards of Eryndor]], full control over military
 	- Current: [[]]
-		- Grand Marshal -- [[Golden Guards of Eryndor|Golden Guards]] Second in command
+		- Grand Marshal -- [[Golden Guards of Eryndor]] Second in command
 		- Current: [[]]
 			- 2 x High Commanders
 			- Current: [[]]
 				- 2 x Supreme Generals
 				- Current: [[]]
-- For [[1. Eryndor|Eryndor]] Bereucratic
+- For [[1. Eryndor]] Bereucratic
 	- Grand Chancellor
 		- Current: [[]]
 	- Master of Coin
@@ -59,4 +59,4 @@ There are no princes or princesses. But there are several high ranking officials
 
 
 
-Decisions are made through votes by the above council. However, on occasions, the Archduke of [[Aethercrysts|the Aethercrysts]] will commune with [[The God King|the God King]] to determine their vote. [[The God King]]'s vote is final.
+Decisions are made through votes by the above council. However, on occasions, the Archduke of [[Aethercrysts]] will commune with [[The God King]] to determine their vote. [[The God King]]'s vote is final.

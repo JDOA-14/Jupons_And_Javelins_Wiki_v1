@@ -14,7 +14,7 @@ aliases:
 ---
 #### Cause
 
-- [[Black Rain|The Black Rain]] Mutation happens when a living organism comes into contact with [[Black Rain|The Black Rain]].
+- [[Black Rain]] Mutation happens when a living organism comes into contact with [[Black Rain|The Black Rain]].
 
 ### Symptoms
 - Those affected become feral, raging and zombie-like -- though not hungry -- they will attack, and try to kill, any living creature on sight.
