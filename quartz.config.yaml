@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: JDOA-14.github.io/JNJWIKIv1
+  baseUrl: "jdoa-14.github.io/Jupons_And_Javelins_Wiki_v1"
   ignorePatterns:
     - private
     - templates
