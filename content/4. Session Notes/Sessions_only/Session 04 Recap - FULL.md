@@ -1,0 +1,71 @@
+---
+aliases:
+  - Session 04
+---
+
+POST SESSION NOTES
+
+- Players present: Thomas ([[Detective Cole Le Fev|Cole]]), Rhys ([[Kaelen Stormrage|Kaelen]]) and Ethan ([[Cryos Frostjaw]]).  
+    Player Characters present: [[Detective Cole Le Fev|Cole]], [[Kaelen Stormrage|Kaelen]] and a new player character, [[Cryos Frostjaw|Cryos]] (pronounced “Cry-Oss”) Frostjaw.
+- We start this session with a flashback — to a ceremonial afterparty on the southern, iced-over island of [[Nyvaldra]] (just off the coast of the mainland).
+- [[Nyvaldra]] is home to many ice/water races — including water genasi, ice genasi, penguin-arakokras, [[Kua-Toa]], Sealfolk, Walrusfolk, and most prominently; Kodans.
+- Kodans are massive Polarbearfolk. But despite their massive size, they are not the brutes they look like. They are the sorcerers of these lands - harnessing powerful ice magic to heal and build structures. They are also the leaders and used their diplomacy to usher in strong, peaceful bonds between the water and ice races. 
+- Part of this diplomacy is that every ten years, a chosen one is selected to be a beacon/leader of [[Nyvaldra]]. The chosen one is usually a great warrior, wise diplomat, or in tonight’s case, a talented sorcerer.
+- We pick up the flashback at the after-party for the inauguration ceremony of the latest chosen one to be selected, a [[Kodan]] named [[Cryos Frostjaw]] (played by Ethan). 
+- The party is massive and held in the great hall of the ice palace in the centre of [[Nyvaldra]].
+- [[Cryos Frostjaw|Cryos]] is a big [[Kodan]] and is happy celebrating becoming the latest chosen one
+- His mood is not even ruined by some other guests conspiring that he was only chosen due to his mother being on the council.
+- The next morning he is shown to his family’s new home — a special home made just for the chosen one — a beautiful home made from ice shards on a small island just off the west coast of [[Nyvaldra]].
+- [[Cryos Frostjaw|Cryos]] can’t enjoy his new home for long, as his small island is boarded by unidentified vessels!
+- [[Cryos Frostjaw|Cryos]] and his mother are inside, and his brother and father are outside
+- The invaders are brown bears, black bears, and some grey bears — (half brown half polar!)
+- The leader of these bears is a hulking, heavily scarred, grey bear in thick leather armour and wielding a large maul. 
+- [[Cryos Frostjaw|Cryos]] goes to fight these invaders but his mother stops him…
+- She says the chosen ones true mission is to protect the secret of [[Nyvaldra]] –
+- She pulls out a glowing blue pearl and puts her hand to his chest — then covers it in frost — freezing it to [[Cryos Frostjaw|Cryos]]’ chest.
+- She then shoves him against the wall and uses her ice sorcery to fully cover him in ice - frosting him into the structure of the house–  he’s now completely part of the icy wall and anyone inside the house can’t see him.
+- He can barely make out visually what happened when the leader Grey Bear enters his home
+- It seems the grey bear argues with his mother then takes her away
+- He tries to break out and almost succeeds - but by the time he breaks out of the ice, his mother is gone, all the bad bears are gone, and his brother and father are face down in the snow.
+- Then — more ships arrive — the armies of [[Nyvaldra]]
+- They arrive and notice the place has been ransacked and only [[Cryos Frostjaw|Cryos]] has survived. 
+- They label him a coward and banish him from [[Nyvaldra]], not to return until he is worthy of his title
+- He is sent on a slate of ice towards the mainland
+- It’s a treacherous journey, he must paddle with a branch he finds in the ocean,
+- But he eventually, hard foughtly, makes it to the mainland and passes out.
+- His unconscious body is then looted by [[Kua-Toa|Kua Toa]] (including specifically [[Shisha]] and [[Shorsh]]) who steal the magic pearl, which is then taken later by the flaming-dragon-faced man as we have now come to know in our previous session.
+
+- We then move back to the present time, picking up with [[Detective Cole Le Fev|Cole]] and [[Kaelen Stormrage|Kaelen]]. They group up in the morning but [[Sally Syndicate|Sally]] is nowhere to be seen. They try her room but she is gone without a trace.
+- The two decide to continue with their promise to help do some bounties, and so they head north just the two of them.
+- Plus of course two mercenaries — [[Ol Derek Yeller]] (a cleric/fighter) and Jonny Smallerm (a Paladin)
+- They head north, following a bounty for two Orc brothers who have been using their two worgs to pillage farmlands and steal their animals. They have recently pillaged a farm north of [[Thundermarch]]
+- [[Detective Cole Le Fev|Cole]] and [[Kaelen Stormrage|Kaelen]] reach the farm and learn that the farm’s sheep and pigs have been herded off by these orcs
+- They find their tracks but as it’s so dark, they stay the night at the farmhouse.
+- Back in the slight past — [[Cryos Frostjaw|Cryos]] awakens and heads to the nearest town — a fishing village we know - [[1. Drippledown|Drippledown]].
+- [[Cryos Frostjaw|Cryos]] finds the [[Kua-Toa]] of [[1. Drippledown|Drippledown]] only a short time after they were attacked by the flame-dragon-faced man and then [[Black Rain|the black rain]]. (And saved by [[The Gang|the gang]]) 
+- Some [[Kua-Toa]] mention that a group of people (our heroes, [[The Gang|the gang]]) are after the person who stole the magical pearl that was stolen from [[Cryos Frostjaw|Cryos]].
+- He then convinces a [[Kua-Toa]], [[Sheosh]], to take him to [[Thundermarch]]. This is the same fishperson that [[The Gang|the gang]] intimidated into taking them to [[Thundermarch]].
+- Once at [[Thundermarch]], [[Cryos Frostjaw|Cryos]] is given the info that [[The Gang|the gang]] has gone North to fulfil this bounty — he is then able to “convince” [[Sheosh]] again to take him further north.
+- [[Cryos Frostjaw|Cryos]] reaches the farmhouse in the morning and is introduced to [[Detective Cole Le Fev|Cole]] and [[Kaelen Stormrage|Kaelen]].
+- After realising they are after the same person, they team up to finish this bounty.
+- We now are back to the present time.
+- They track the tracks and find one of the sheep has been killed for food
+- They then follow some ravens hovering over more of the dead animal – and so find an abandoned watch tower. They creep towards it and see it is guarded by two angry worgs (giant dog/wolf like things) (big enough for a goblin to ride)– but –
+- The tower has a small wooden gated area where the stolen animals are still alive in!
+- [[The Gang|The gang]] is spotted by a worg which sprints towards them
+- They fight it off and head for the tower — 
+- But in the middle level of the tower – one of the orc brothers is there – launching javelins at them out the window!
+- [[Kaelen Stormrage|Kaelen]]’s familiar, the floating zombified/ghost head, [[Turbo]], scopes out the tower and gets the intel on the middle floor.
+- [[Detective Cole Le Fev|Cole]] summons his astral arms and flies to the second level — and attempts to pull the orc out — but the orc holds strong onto the window frame
+- [[Cryos Frostjaw|Cryos]] thinks fast and freezes the frame, so when [[Detective Cole Le Fev|Cole]] tries again, the orc can’t hold on, slips, and is pulled out of the tower
+- [[Johnny Smallerm]] and [[Ol Derek Yeller]] rush up the tower stairs as [[Kaelen Stormrage|Kaelen]] deals with the last worg.
+- The orc hits the ground but survives and is taken out by [[Kaelen Stormrage|Kaelen]], his skeletons, and [[Cryos Frostjaw|Cryos]].
+- [[Turbo]] spots the second orc brother on the top floor of the tower.
+- And [[The Gang|the gang]] perform a combo-attack:
+- [[Kaelen Stormrage|Kaelen]] uses “enlarge” on [[Detective Cole Le Fev|Cole]], increasing his size (including his already strong astral arms)
+- A now massive [[Detective Cole Le Fev|Cole]] flies to the top level and absolutely launches the remaining orc out of the window
+- Not just out — but straight up into the air!
+- [[Cryos Frostjaw|Cryos]] does his best to line up where the orc will land, and covers the ground in pointy icicles. 
+- SQUELCH - the orc lands down and becomes a sponge (full of holes) before then exploding due to falling so far - he is now in the most pieces than anyone has seen of a body before.
+- [[The Gang|The gang]] manage to guide the animals back to the farm without losing any and return them all to their home safely
+- They begin off southward to attempt to solve the other two bounties.

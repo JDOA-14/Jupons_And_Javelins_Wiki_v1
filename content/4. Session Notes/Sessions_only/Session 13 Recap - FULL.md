@@ -1,0 +1,107 @@
+---
+aliases:
+  - Session 13
+---
+
+- Looted Sharks/Bards
+	- Received loot from [[Potential Loot for Session 13]]
+- Watched Sacrifice take place
+	- [[Kaelen Stormrage|Kaelen]] (27 Arcana) figured out the magic being used was mostly "teleport"
+	- [[Detective Cole Le Fev|Cole]] (17 Investigation) notices 3 people in the crowd, not clerics, focusing intently on the process. Not seeming to cast spells, though.
+	- However, [[Gronk Shadowfang|Gronk]] (nat 20 Arcana) noticed that those areas were emanating magical energy of people casting spells.
+- After sacrifice
+	- [[Cryos Frostjaw|Cryos]] rushes to the last open blacksmith in town
+		- pays for a great club + shark teeth, and gets Chain Shirt Armour.
+	- [[Gronk Shadowfang|Gronk]] & [[Detective Cole Le Fev|Cole]] follow two of the people in the area doing stuff with the sacrifice
+		- They separate. [[Detective Cole Le Fev|Cole]] following a half-elf woman to a home in Upper Downtown. [[Gronk Shadowfang|Gronk]] following an older man (brown hair, green cloak) to Lakeview District.
+	- May and [[Kaelen Stormrage|Kaelen]] go to the pub in Flea Hurdle
+		- They notice two Bear Bandits (one named [[Biteclaw]]), who are kicked out.
+		- May follows, and, not hiding, is spotted immediately.
+			- They are happy to talk to a girl but are a bit weirded out by [[Turbo]]
+			- They claim to be from out of town and are staying in the slums.
+			- Then when [[Kaelen Stormrage|Kaelen]], arrives, they are hesitant -- but [[Kaelen Stormrage|Kaelen]] offers to buy them a drink in another pub.
+- Pub 2
+	- [[Detective Cole Le Fev|Cole]] eventually arrives. 
+	- After several meads, [[Kaelen Stormrage|Kaelen]] gets [[Biteclaw]] away from his more sceptical friend.
+		- He claims to be on a big score tomorrow and says [[Kaelen Stormrage|Kaelen]] could be useful. 
+			- But when he spots [[Detective Cole Le Fev|Cole]], a Detective Monk, he reconsiders
+				- [[Kaelen Stormrage|Kaelen]] convinces him that [[Detective Cole Le Fev|Cole]] won't be coming, and [[Biteclaw]] tells them to meet at the back gates at noon.
+				- [[Biteclaw]] claims that "[[Falrus]]" will like you.
+					- [[Kaelen Stormrage|Kaelen]] asks who [[Falrus]] is, is it his boss?
+						- [[Biteclaw]] boasts that he's like his boss but they're super close commrades. Says it's "him, then [[Falrus]], then Gundrik"...
+- Morning
+	- [[Detective Cole Le Fev|Cole]] wakes to a message from a Draftling, telling him that Herrace would like to see him.
+	- May and [[Kaelen Stormrage|Kaelen]] recieve the payment for their bounty (which was bumped up for the accidental false guard chase)
+		- From [[Duke Vizier Aldren Thorne]]
+		- He gives them 3700 gp
+		- [[Kaelen Stormrage|Kaelen]] interrogates him about the sacrifices
+			- Aldren thinks they did a great job, and gestures to all the news they probably heard on the way in about how they are heroes.
+		- [[Kaelen Stormrage|Kaelen]] warns that something is happening with teleportation, and asks if Aldren's conscious would be clear knowing that now and doing nothing to investigate. 
+		- Aldren again claims that there is nothing needing to be investigated.
+	- Snart's Karts
+		- [[The Gang]] take their newfound money and head to Snart's Karts.
+		- It's run by a wirey Gnoll with a whispey beard.
+			- They buy:
+				- 1 covered wagon (250gp) (needs 4 warhorses to pull or 1 elephant + 2 warhorse lol)
+					- 1 elephant (200)
+					- 2 warhorse (400 each)
+						- 2 flying snakes (25 each)
+							- Letter box attachment. (15, haggled (intimidated) down from 20)
+	- [[Detective Cole Le Fev|Cole]] arrives at Herrace's office in [[Shardhold Citadel|the Shardhold Citadel]].
+		- [[Captain Verrik]] is there.
+		- He thanks [[Detective Cole Le Fev|Cole]] for his great work getting a sample of [[Black Rain|the black rain]] mutated blood to [[Aeryndor]].
+			- They state their findings:
+				- That its volatile mutations seem similar to shapeshifting
+					- [[The Gang|The gang]] think of druids,polymorphs,lycans, and eventually also think of their friend, [[Sally the Smasher]].
+				- They also claim that [[Black Rain|the black rain]], whether it's through spells or alchemy, is man-made.
+		- [[Detective Cole Le Fev|Cole]] asks about [[King Donan Stormpeak]], and they say the investigation is still ongoing.
+		- [[Detective Cole Le Fev|Cole]] tells them about the people they spotted at the sacrifice.
+			- They affirm they are also worried that something has been up with the sacrifices for a while
+			- They ask [[Detective Cole Le Fev|Cole]] to keep an eye on the situation, but warn that [[Aethercrysts|the Aethercrysts]] firmly believe this is tied in a neat bow, and not only will [[Aethercrysts|the Aethercrysts]] not help with this investigation, the [[Aeryndor]] [[Monk-Detectives of Aeryndor|Monk Detectives]] will not be able to publicly endorse it.
+- The Back Gate
+	- [[Kaelen Stormrage|Kaelen]], [[Gronk Shadowfang|Gronk]], and [[Cryos Frostjaw|Cryos]] show face to the Bear Bandits at the back gate.
+	- [[Detective Cole Le Fev|Cole]], May, [[Leif LúmëLóke|Leif]], [[Jeremy]] hide in the new wagon.
+	- [[Biteclaw]] claims they're going to a town west of [[1. Eryndor|Eryndor]]. He waits for the new recruits to get in with him, but [[Kaelen Stormrage|Kaelen]] persuades him that they'll be okay to follow along in their own wagon.
+- Carriage Campsite
+	- They stop after a full day of travel west.
+		- At the campfire, a large Bearfolk lays out the plan:
+			- They're going to a small village, [[Pinetide]] , and there's an old Paladin inside that holds the knowledge and/or is the big score.
+			- They're initial plan is to go in guns blazing, but [[Kaelen Stormrage|Kaelen]] convinces them to let [[Cryos Frostjaw|Cryos]], [[Gronk Shadowfang|Gronk]], and he go in first.
+			- They accept.
+		- Two more carriages arrive, one filled with orcs, and the other filled with human bandits.
+		- The other members of our gang successfully hide in the wagon overnight.
+- [[Pinetide|PINETIDE]] ASSAULT
+	- [[Kaelen Stormrage|Kaelen]], [[Cryos Frostjaw|Cryos]], and [[Gronk Shadowfang|Gronk]] park the carriage in a way that allows all the others to sneak out and head into the village
+	- They meet the Paladin, [[Shorun Forsh]], who eventually believes them that they are not a threat.
+	- He isn't surprised by the other threat and asks for [[The Gang|the gang]]'s help in evacuating all the civilians in the village quietly.
+	- They do, and have just enough time to set up an ambush before the Bandits enter the town.
+	- They start the battle with [[Turbo]] dropping a firebomb on a group of 2 bears and 2 orcs.
+		- Immediately after they are almost exploded to death, [[Detective Cole Le Fev|Cole]] enters and summons his arms -- finishing them all off.
+	- [[The Gang|The gang]] fight off waves of bears, humans, and orcs.
+	- May wards the Paladin and bumps up his armour class.
+	- [[Cryos Frostjaw|Cryos]]' echo (note: need mini) creates an incredible distraction, taking upwards of 5 attacks before the first echo drops.
+	- Another wave. 
+		- [[The Gang|The gang]] fight them off.
+	- One starts to run back to the carriages,
+		- May spots it and sends out a guiding bolt -- it crits but does 31 damage, needing 32. 
+	- [[Kaelen Stormrage|Kaelen]] uses his new spell - uprooting tendrils of dead beasts to swat at his enemies.
+	- One of the bandits falls off a roof twice.
+	- [[Gronk Shadowfang|Gronk]] rides [[Cuddleclaw]] through the hordes of enemies, disengaging and bonking jaws.
+	- The escaping bear returns, with purple flaming eyes!
+		- It returns with two orcs, and 4 more bears, also with flaming eyes.
+		- one of the orcs spear tackles a flying May, but she misty steps out of it's grasp. It then crawls across the roof and jumps at the cleric, [[Cuddleclaw]] getting an opportunity attack at it. It then lands on the covering of a well. Where [[Kaelen Stormrage|Kaelen]] toll of the dead's it, popping its head inside out.
+	- The other flaming eye bandits, however, head straight for the paladin. 
+	- They're backed up by a mage grey bearfolk, who is very [[Falrus]]-looking.
+		- [[Kaelen Stormrage|Kaelen]] magic missiles him, making him do 4 concentration checks
+			- He makes the first 3, but fails the last.
+			- He drops a spell that is severely buffing the bears.
+		- The bears surround the paladin, but he's holding his own -- smiting one with his halberd and slicing it in half long ways like butter. Plus his high ac and warding bond with May is helping. 
+		- However they're now surrounded by 5 supercharged bears and 2 supercharged orcs. And [[Falrus]] has just powered them up again.
+		- [[Detective Cole Le Fev|Cole]] flies to [[Falrus]], and hits him with [[The Sword of Silliness]]. The sword instantly explodes into a fireball -- mortally wounding [[Detective Cole Le Fev|Cole]] and [[Little Shitty]], and obliterating two nearby bandit archers.
+			- [[Detective Cole Le Fev|Cole]], on 1 hp and a dream, notices [[Falrus]] is still standing. Instead of fleeing, he smites [[Falrus]] -- dealing exactly enough damage to kill him.
+	- The bears surrounding the paladin and May are powered down, but they are still brutes compared to the other bandits.
+	- Suddenly out of nowhere, several cloaked people come out and begin attacking the bears.
+	- [[Detective Cole Le Fev|Cole]] is initially hesitant, but when noticing they are only attacking the bears, fights alongside them.
+	- [[The Gang]], with the help of [[Leif LúmëLóke|Leif]], [[Jeremy]], and [[Little Shitty]], and the new fighters, take out the remaining bears.
+- As they are looting and figuring out what is going on, [[The Gang]] are all hit by SLEEP DARTS. (We didn't do loot rolls, so potentially they all didn't loot much)
+- They all fail their constitution saves, and they drift off to sleep...

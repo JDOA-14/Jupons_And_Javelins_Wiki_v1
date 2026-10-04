@@ -1,0 +1,64 @@
+---
+type: npc
+name: Petra
+race: Sally
+class: Rogue / Fighter / Sally
+title: Co-Leader of the Rebels
+current-faction: The Rebels / The Gang
+Base-of-operations: Eryndor
+status: alive
+last-seen: Runehell Lumbermill
+tags:
+  - npc
+aliases:
+  - Thalara Stonefist
+---
+
+> [!warning] THIS IS A WORK IN PROGRESS FILE
+
+> [!infobox]
+> # `=this.name`
+> 
+> ![[`=this.image`]]
+> 
+> ---
+> **Full Name**
+> `=this.name`
+> 
+> **Race**
+> `=this.race`
+> 
+> **Class**
+> `=this.class`
+> 
+> ---
+> **Faction**
+> `=this.current-faction`
+> 
+> **Title/s**
+> `=this.title`
+> 
+> **Base of Operations**
+> `=this.Base-of-operations`
+> 
+> ---
+> **Status**
+> `=this.status`
+> 
+> **Last seen**
+> `=this.last-seen`
+
+> *"Insert a memorable quote by or about the character here."*
+
+Petra is a wise and stealthy assassin who serves as a co-leader of [[The Rebels]]. A "hard as nails" woman in her 50s, she is distinguished by her black hair marked with two grey streaks and her mastery of the pike. She is fiercely dedicated to her mission of dismantling [[Aethercrysts|the Aethercrysts]].
+
+## 📜 Biography
+
+As a co-leader of [[The Rebels]] alongside [[Leif LúmëLóke|Leif]], Petra leads a group of former sacrifices who discovered that the [[Aethercrysts|Aethercryst]] sacrifices were faked for a decade. This revelation fueled their suspicion of [[Aethercrysts|the Aethercrysts]] and drove their rebellion. During the events in [[Pinetide]] (**Day 20**), she played a key role in the interrogation of the [[Shorun Forsh|paladin Shorun Forsh]].
+
+Petra's personal history is rooted in a hidden life in [[Skaldgrym]]. While traveling toward the [[Aarakocra]] Tower (**Day 29**), she revealed herself to be the mother of [[Sally Syndicate|Sally]] (Kyrra). Records from **[[session 17 recap - FULL|Session 17]]** further indicate she was a "[[Sally Syndicate|Sally]]" who left her order to start a new life in [[Skaldgrym]] under the name [[Thalara Stonefist]], where she gave birth to [[Kyrra Stonefist]] (also known as [[Sally the Smasher]]). 
+
+## 🤝 Relationships & Loyalties
+
+- **Allies:** [[Leif LúmëLóke]]
+- **Enemies:** [[Aethercrysts]]

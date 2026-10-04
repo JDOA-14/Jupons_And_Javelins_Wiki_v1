@@ -1,0 +1,50 @@
+---
+aliases:
+  - Session 11
+---
+
+
+- The [[Magic Storeroom]]
+	- Still looting, a scry vision from [[Galahad Guzzletome]] reappears.
+	- He lets them know that, due to his predicament (head magically tearing open), he cannot help with the school staff. 
+		- He's powered down the magical suppression system to help them get out -- but he reminds them that to any staff or worker, it looks like they have just killed several professors and students...
+	- [[The Gang]] realises they need to bail fast. 
+	- Galahad tells them to check out [[The Mural of the Graph]] on the way out.
+	- The Necromancy Teacher tells them he will attempt to put the word out that we are not to blame, but he doesn't have much pull here.
+	- [[The Gang]] and the morally ambiguous student book it through the city towards the entrance hall, while [[Turbo]] goes to the tavern to find [[Cryos Frostjaw|Cryos]].
+- The entrance
+	- [[The Gang]] inspects the mural, and gets a helpful explanation from a very invested janitor.
+	- They learn about one of the previous headmasters, [[Orvus Fillorvus]] who supposedly went mad, and claimed the [[Memoria Receptio]] had shown a massive spike, then a decline, in magic throughout [[Valhyria]] during The Age of Peace.
+		- The mural was made as a warning, to trust your fellow wizards over you own delusions. ([[Orvus Fillorvus]] flew into the sun)
+	- They find a travelling caravan and are able to convince an elf woman to let them stowaway
+	- [[Kaelen Stormrage|Kaelen]] gets the feeling that the woman might be his mother, polymorphed into elf form.
+- The travel to [[1. Eryndor|Eryndor]]
+	- During the trip, [[The Gang|the gang]], with [[Leif LúmëLóke|Leif]], [[Cryos Frostjaw|Cryos]], and the Student all joined as well, reminisce on their last 21 days and talk about some of their pasts. 
+	- During the trip, someone notices a crow flying by their travelling carts.
+	- Later, they reach a stop, where they find a massive log pile in the road - [[Detective Cole Le Fev|Cole]] determines it's clearly man made. 
+	- The elven head of the caravan tells [[The Gang|the gang]] that they could survive on foot and head straight to [[1. Eryndor|Eryndor]] - but her party wouldn't be able to, so they must take their carts off road on a slower route. 
+	- [[The Gang]] decides to head on foot, but they hear screaming and realise the other carts have hit an ambush. 
+- Ambush
+	- [[The Gang]] fights off the invaders, [[Gronk Shadowfang|Gronk]] noticing that it's a party of Orc _and_ Goblin raiders fighting side by side.
+	- Only a couple civilian casualties occur.
+	- [[The Gang]] find notes saying "Don't let them get to [[1. Eryndor|Eryndor]]" and also the Crow.
+		- They speak with animals, and the crow says it was working with a bunch of raiders, then this group of orcs killed those raiders, so it now worked for them. 
+		- [[The Gang]] convince it to come with them. 
+		- The Crow says it's name was Piece of Shit. They rename him to Little Bit of Piss.
+- [[1. Eryndor|Eryndor]]
+	- [[The Gang]] enter the massive city of [[1. Eryndor|Eryndor]]
+	- They use their clues to find [[Drake's BeerLand|Drakes Beerland]] -- the tavern that Galahad is staying in.
+- Galahad's Reveal
+	- They meet with Galahad, who seems in a crazed state. He's also still dying every 2-4 minutes. Reviving himself, and then continuing to speak.
+	- He reveals that a little while ago, he found out that [[Memoria Receptio|the Memoria Receptio]] had been internally rigged. 
+		- He used a vast amount of magic to un-rig it. 
+		- When he used it again, he found that it displayed the same information as that of [[The Mural of the Graph|the Mural of the Graph]].
+	- He had it with him, [[The Gang]] double checked, and found it to be true.
+	- When they asked him more, he seemed shady - but genuine - when he said he literally couldn't tell them any more. And if he explained why, it wouldn't exist to have been explained. 
+	- He maybe tells them that [[Aethercrysts|the Aethercrysts]] might know more, or be able to help.
+	- And that he's almost at a breakthrough
+- Next Steps
+	- Mae and [[Leif LúmëLóke|Leif]] head towards the centre of the city, to speak with some [[Aethercrysts]].
+	- [[Sally Syndicate|Sally]] has disappeared.
+	- Galahad asks [[Cryos Frostjaw|Cryos]] and the student to stay back and help him.
+	- [[Gronk Shadowfang|Gronk]], [[Detective Cole Le Fev|Cole]], and [[Kaelen Stormrage|Kaelen]] venture into the city to buy and sell wares, and await what happens next...

@@ -1,0 +1,67 @@
+---
+type: npc
+name: King Selos SkySplitter
+race: Thunder and Lighting Genasi
+class: Fighter / Sorcerer
+title: King of Thundermarch
+current-faction: Thundermarch
+Base-of-operations: Thundermarch
+status: alive
+last-seen: Thundermarch
+tags:
+  - npc
+aliases:
+  - Selos SkySplitter
+  - King SkySplitter
+---
+
+> [!warning] THIS IS A WORK IN PROGRESS FILE
+
+> [!infobox]
+> # `=this.name`
+> 
+> ![[`=this.image`]]
+> 
+> ---
+> **Full Name**
+> `=this.name`
+> 
+> **Race**
+> `=this.race`
+> 
+> **Class**
+> `=this.class`
+> 
+> ---
+> **Faction**
+> `=this.current-faction`
+> 
+> **Title/s**
+> `=this.title`
+> 
+> **Base of Operations**
+> `=this.Base-of-operations`
+> 
+> ---
+> **Status**
+> `=this.status`
+> 
+> **Last seen**
+> `=this.last-seen`
+
+> *"Insert a memorable quote by or about the character here."*
+
+King Selos SkySplitter is the ancient and formidable sovereign of [[Thundermarch]], a ruler defined by his immense power and stoic, silent presence. He governs his territory under a strict martial law, maintaining a steady and watchful reign that ensures the stability and security of his people.
+
+## 📜 Biography
+
+King Selos SkySplitter is a hulking thunder, air, and lightning genasi whose physical form is composed of whirling clouds and crackling lightning rather than skin, bone, and muscle. An ancient being of immense power, he is known for being remarkably still and rarely speaking, ruling his domain with a gravity that maintains the peace of [[Thundermarch]]. His primary decree—"If we march, the thunder will march with us"—has served as a powerful deterrent, preventing the town from being raided.
+
+As the father of [[Prince Sier SkySplitter]], the King holds the ultimate authority in the realm. His history with the adventuring party began on Day 5, when he met with the party, [[Captain Verrik]], and Prince Sier to commission a quest to clear Orcs from the nearby hamlet of [[Mistthrow]].
+
+The King's reign was briefly marked by a moment of vulnerability in [[Session 03 Recap - FULL|Session 03]], when his mighty crown was stolen by Stebonesth and [[Helga Brightrun]]. However, he later established a rapport with the party regarding [[Thundermarch Pearl|the Thundermarch Pearl]]. After the party spent a significant amount of time in possession of the stolen artifact, they eventually returned it to him in [[Session 16 recap - FULL|Session 16]] (Day 38). The King was notably pleased by the return of the pearl and, in a gesture of favor, offered to teleport the party to any destination of their choosing, ultimately transporting them to [[1. Eryndor|Eryndor]].
+
+## 🤝 Relationships & Loyalties
+
+- **Allies:** [[Prince Sier SkySplitter]], [[Captain Verrik]], [[The Gang]]
+- **Enemies:** Stebonesth

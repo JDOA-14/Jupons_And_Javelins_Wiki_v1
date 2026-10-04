@@ -1,0 +1,19 @@
+#### Hierarchy
+- ffdfs
+- dfsfd
+- sdfssd
+- Lieutenant
+	- The deputy or second-in-command to a captain or lord.
+- Captain
+	- A leader put in charge of a specific company or body of hired soldiers or men-at-arms.
+- Colonel
+	- Holds senior staff or administrative roles.
+- Marshal
+	- A senior officer who managed the horses, camp logistics, order of battle, and cavalry deployments.
+- Brigadier
+- Supreme General
+- High Commander
+- Grand Marshal
+	- [[Golden Guards of Eryndor|Golden Guards]] Second in command
+- Lord-Protector
+	- Leader of [[Golden Guards of Eryndor|the Golden Guards]], full control over military

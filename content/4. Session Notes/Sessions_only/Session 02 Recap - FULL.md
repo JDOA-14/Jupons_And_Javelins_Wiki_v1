@@ -1,0 +1,72 @@
+---
+aliases:
+  - Session 02
+---
+
+POST SESSION NOTES
+
+- Alex, Thomas, Rhys, and Sam were available.
+- All level 2 characters.
+- PC’s: [[Sally the Smasher|Sally The Smasher]], [[Detective Cole Le Fev]], [[Kaelen Stormrage|Kaelen]] and [[Gronk Shadowfang|Gronk]]
+- [[Sally the Smasher|Sally The Smasher]], [[Detective Cole Le Fev]], [[Kaelen Stormrage]] and [[Gronk Shadowfang]] spend the night after the attack at the [[Crooked Tusk Tavern]] having a few meads.
+- [[Detective Cole Le Fev|Cole]] sends a letter to the [[Monk-Detectives of Aeryndor|monk detectives]] that have watch over the south western part of the continent.
+- They sleep at the tavern
+- In the morning, [[Sally the Smasher|Sally The Smasher]]  ([[Sally the Smasher|Sally The Smasher]]) awakes to find a letter from the syndicate telling her her mission is real and to stay on course. 
+- Inside the tavern, [[The Gang|the gang]] regroup and [[Sally the Smasher|Sally The Smasher]] does tell them about the note.
+- They decide to go try to find the stolen items. 
+- [[Detective Cole Le Fev|Cole]] receives a response from [[Captain Verrik]] (The highest ranked monk-detective in the sout-west region, who mainly resides in [[Thundermarch]]) telling him to continue with the group to find the stolen artifact.
+- They are also greeted by Virka, a goblin woman who went out with a group of goblins in the morning to try and find some of their stolen goods that the group wasn’t able to return the night before.
+- Virka found her grandma’s pearl — but only found it cracked open with nothing inside. Only the “shell” was found. Arcana checks show it is magic, but very low level - just enough to clealy seal something inside the pearl.
+- The group agree to investigate and Virka takes them to where she found it. (About 1 hour west of where [[The Gang|the gang]] opened the chest and were frozen).
+- They investiage the area and find a dent in the ground and some broken tree twigs/branches — that indicate the shell of the pearl was thrown.
+- They follow to where it was thrown from and find footsteps
+- They track the footsteps to a small farmhouse in a clearing, surrounded by a dense treeline.
+- At the farmhouse they meet a farmer woman, [[Maeve Tilden]]. She explains that they are used to taking in strays and caring for them. And that they did have a stranger in last night
+- She described him as hiding his face in a hood, but had black hair. Also that he was very kind but when he was upstairs he made quite a racket (lots of swearing)
+- [[The Gang|The gang]] are allowed in the house to investigate further but must leave their weapons outside.
+- [[Detective Cole Le Fev|Cole]], [[Kaelen Stormrage|Kaelen]] and [[Gronk Shadowfang|Gronk]] go upstairs
+- [[Sally the Smasher|Sally The Smasher]], Maeve and Virka stay downstairs
+- [[Turbo]] and [[Cuddleclaw]] ([[Gronk Shadowfang|Gronk]]’s summon wolf) are left out the front
+- [[Detective Cole Le Fev|Cole]] sees the spare room and that it was a mess — but as soon as he steps inside there is an EXPLOSION — [[Detective Cole Le Fev|Cole]] had stepped on an invisible exploding rune.
+- That corner of the house is eploded and [[Detective Cole Le Fev|Cole]] makes his Dex save but still takes heavy damage.
+- Suddenly - 3 horns blare - and a group of goblins and human bandits encroach on the farmhouse.
+- Notable things in Combat.
+
+- [[Kaelen Stormrage|Kaelen]] uses a spell through [[Turbo]] that sucks the soul through someone’s skull
+- [[Gronk Shadowfang|Gronk]] finds a bow and arrows upstairs and shoots through a window, virka joins him and is impressed with some of the shots
+- [[Detective Cole Le Fev|Cole]] jumps through a window - floats down and kills two goblins with his martial arts. Punching one in the head and spin kicking another into a wall
+- A Cool goblin fails a check and steps on a shovel and is hit. The next round he fails the check (nat 1) and the shovel hits his knife into his head and kills him.
+- [[Sally Syndicate|Sally]] Smashes through a wall (just enough to get through and still take damage) - this launches a goblin that was trying to climb the wall to get [[Gronk Shadowfang|Gronk]] upstairs, flying.
+- [[Sally Syndicate|Sally]] then bites the tumor off of a goblin and does a lot of picking up and throwing. Throws a shovel at someone but misses.
+- [[Cuddleclaw]] misses 90% of their attacks
+
+- Eventually they win the combat with no team casualties but the house is hurt
+- [[Barret Tilden]] arrives home and is rightfully worried. Maeve convinces him [[The Gang|the gang]] saved her and they all clean the house and stay the night.
+- Barret tells them that people at his work were talking about a blue pearl they stole that sounds exactly like the one Virka had.
+- Also, [[Detective Cole Le Fev|Cole]] investigates upstairs and finds a blue object that was inside the pearl - arcana checks discover it is magic, but very low level - just enough to make it glow.
+- Barret takes them by cart to his place of work — a small fishing village south of [[Ashdawn]].
+- He points them in the direction of his workplace but then leaves them there as he has to get home to fix more of his house.
+- [[The Gang|The gang]] heads through the small town (one area that is a few small houses, then a tavern, then 3 fishing docks with a building out the front of each one).
+- They head straight for the workplace but it is locked. They notice they can’t hear the sound of anyone working a this place but the others seem busy.
+- They head to the pub. (Also this town is majority [[Kua-Toa|Kua Toa]] (fish people))
+- Inside the pub, [[Sally Syndicate|Sally]] shifts into a bulky [[Kua-Toa|Kua Toa]] and because all the [[Kua-Toa|kua toa]] look very similar and she isn’t similar, they are all infatuated with her.
+- She is able to get info that the fish people who Barret heard found the pearl ([[Shisha]] and [[Shorsh]]) should be at the tavern by now and that they live in the houses in town.
+- [[The Gang|The gang]] go to the houses (followed by 5 [[Kua-Toa|Kua Toa]] who are in love with [[Sally Syndicate|Sally]])
+- [[Sally Syndicate|Sally]] changes back before going into the house
+- They meet a rude [[Kua-Toa|Kua Toa]] ([[Shyle]]) but he is okay with them searchin the house.
+- They find that [[Shisha]] and [[Shorsh]] never came home and their work stuff is still there.
+- [[The Gang|The gang]] head to the worksite (three seperate company’s fishing dock/warf/packing areas all next to each other)
+- Before they arrive, they see a worker from another dock ([[Shoawan]]) - they give some info and [[Kaelen Stormrage|Kaelen]] convinces them he is a god and he should get some money from the docks.
+- They break into the [[Dried Fish]] (one of the company docks) and find that a worker is almost dead - in fact outside there is a lot of workers who are almost dead
+- Suddenly, [[Black Rain|the black rain]] arrives and mutates all the fish people (as well as two worker goblins).
+- Luckily, all the heroes and their companions are inside.
+- They fight off the [[Black Rain Mutation|mutants]] but suddenly- from [[Black Rain|the black rain]] in the water - a giant mutated octopus and fish arrive.
+- The [[Freaktopus]] is terrifying.
+- They make a plan to cover a mutated golin in oil and throw him into the [[Freaktopus|freaktopus]]’s mouth and have [[Turbo]] take a flaming torch to it and explode it.
+- Over two turns, the plan is worked. But [[Detective Cole Le Fev|Cole]] is grabbed by the tentacle. [[Sally Syndicate|Sally]] cuts him free and they are able to complete the plan - while Vrika, [[Gronk Shadowfang|Gronk]], [[Cuddleclaw]] fight off the rest of the [[Black Rain Mutation|mutants]]. 
+- The plan works and the [[Freaktopus|freaktopus]] is burnt to a crisp.
+- Other notable moment from the fight - one of Cealin’s tink skeleton summons rolls two nat 20s on an advantage attack and speaks in perfect English (“I understand”) and hits a mutant with it’s axe — then explodes - sending shards of bone into the [[Freakfish|freakfish]].
+- [[The Gang|The gang]] finish off the fish and the other [[Black Rain Mutation|mutants]] and survive.
+- They learn from the two surviving fish people, [[Shisha]] and [[Shola]], that a hooded man came in and stole the pearl and sliced up everyone - but didn’t kill them it seems.
+- Also, [[Kaelen Stormrage|Kaelen]] made a deal with [[Shisha]] (Got 20 gold from [[Kaelen Stormrage|Kaelen]] and convinced to join the three businesses - 10% from each business “10% from each merging”)
+- [[Shola]] also wants to help the deal.
