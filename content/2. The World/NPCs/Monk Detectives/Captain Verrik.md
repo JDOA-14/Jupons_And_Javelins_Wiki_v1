@@ -1,53 +1,41 @@
 ---
-type: npc
-name: Captain Verrik
-race: Aarakocra
-class: monk
-title: Sky Warden of the South-West
-current-faction: Monk-Detectives of Aeryndor
-Base-of-operations: Aeryndor
-status: alive
-last-seen: Eryndor
-tags:
-  - npc
 aliases:
-  - Verrik
-  - Captain Verrik
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Captain Verrik`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Captain Verrik`
 > 
 > **Race**
-> `=this.race`
+> `Aarakocra`
 > 
 > **Class**
-> `=this.class`
+> `monk`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Monk-Detectives of Aeryndor`
 > 
 > **Title/s**
-> `=this.title`
+> `Sky Warden of the South-West`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Aeryndor`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Eryndor`
 
 > *"Insert a memorable quote by or about the character here."*
 

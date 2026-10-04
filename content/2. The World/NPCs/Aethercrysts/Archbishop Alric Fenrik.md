@@ -1,53 +1,39 @@
 ---
-type: npc
-name: Father Alric Fenrik
-race: unknown
-class: cleric
-title: Archbishop
-current-faction: Aethercrysts
-Base-of-operations: Hlydrath
-status: alive
-last-seen: Mirelift
-tags:
-  - npc
 aliases:
-  - Alric Fenrik
-  - Father Fenrik
-  - Father Alric
-  - Father Alric Fenrik
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Father Alric Fenrik`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Father Alric Fenrik`
 > 
 > **Race**
-> `=this.race`
+> `unknown`
 > 
 > **Class**
-> `=this.class`
+> `cleric`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Aethercrysts`
 > 
 > **Title/s**
-> `=this.title`
+> `Archbishop`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Hlydrath`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Mirelift`
 
 > *"It's the will of The Shard." - Archbishop Alric Fenrik*
 

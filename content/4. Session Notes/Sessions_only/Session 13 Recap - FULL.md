@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 13
 ---
+
 
 - Looted Sharks/Bards
 	- Received loot from [[Potential Loot for Session 13]]

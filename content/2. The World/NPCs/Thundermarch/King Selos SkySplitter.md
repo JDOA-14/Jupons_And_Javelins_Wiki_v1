@@ -1,53 +1,41 @@
 ---
-type: npc
-name: King Selos SkySplitter
-race: Thunder and Lighting Genasi
-class: Fighter / Sorcerer
-title: King of Thundermarch
-current-faction: Thundermarch
-Base-of-operations: Thundermarch
-status: alive
-last-seen: Thundermarch
-tags:
-  - npc
 aliases:
-  - Selos SkySplitter
-  - King SkySplitter
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `King Selos SkySplitter`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `King Selos SkySplitter`
 > 
 > **Race**
-> `=this.race`
+> `Thunder and Lighting Genasi`
 > 
 > **Class**
-> `=this.class`
+> `Fighter / Sorcerer`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Thundermarch`
 > 
 > **Title/s**
-> `=this.title`
+> `King of Thundermarch`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Thundermarch`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Thundermarch`
 
 > *"Insert a memorable quote by or about the character here."*
 

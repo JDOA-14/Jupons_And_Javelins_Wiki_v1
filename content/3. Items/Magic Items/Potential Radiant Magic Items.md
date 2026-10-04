@@ -1,18 +1,7 @@
 ---
-type: item
-name: Potential Radiant Magic Items
-item-type: unknown
-rarity: unknown
-story-item: unknown
-current-owner: unknown
-previous-owners: unknown
-current-location: unknown
-bls: unknown
-bls-location: unknown
-tags:
-  - magic-item
 aliases:
 ---
+
 Maybe give these once they break into the Vault??
 
 The gang receive a series of handles/doohickeys that attach to their weapons/items. Each one gives a different ability/effect.

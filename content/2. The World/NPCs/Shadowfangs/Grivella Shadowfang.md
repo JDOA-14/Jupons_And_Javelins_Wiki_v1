@@ -1,52 +1,41 @@
 ---
-type: npc
-name: Grivella Shadowfang
-race: Goblin
-class: Ranger
-title: Wood Warden
-current-faction: Rangers of the Feylands
-Base-of-operations: Rylvarn Forest
-status: unknown
-last-seen: Scry Vision
-tags:
-  - npc
 aliases:
-  - Gronk's Mum
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Grivella Shadowfang`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Grivella Shadowfang`
 > 
 > **Race**
-> `=this.race`
+> `Goblin`
 > 
 > **Class**
-> `=this.class`
+> `Ranger`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Rangers of the Feylands`
 > 
 > **Title/s**
-> `=this.title`
+> `Wood Warden`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Rylvarn Forest`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `unknown`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Scry Vision`
 
 > *"Insert a memorable quote by or about the character here."*
 

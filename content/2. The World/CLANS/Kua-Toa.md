@@ -1,17 +1,7 @@
 ---
-type: faction
-name: Kua-Toa
-faction-type: race
-active-in: Drippledown
-majority-race: Kua-Toa
-leader: unknown
-headquarters: Drippledown
-status: Active
-tags:
-  - faction
 aliases:
-  - Kua Toa
 ---
+
 # Kua-Toa  
 
 **Type:** Fish people

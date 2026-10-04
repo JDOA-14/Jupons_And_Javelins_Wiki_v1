@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Orvus Fillorvus
-race: Half Elf
-class: Wizard
-title: Ci-Devant Headmaster
-current-faction: Wizards of Nyserith
-Base-of-operations: Nyserith
-status: unknown
-last-seen: Flying towards the sun
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Orvus Fillorvus`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Orvus Fillorvus`
 > 
 > **Race**
-> `=this.race`
+> `Half Elf`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Wizards of Nyserith`
 > 
 > **Title/s**
-> `=this.title`
+> `Ci-Devant Headmaster`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `unknown`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Flying towards the sun`
 
 > *"Insert a memorable quote by or about the character here."*
 

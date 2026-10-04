@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 08
 ---
+
 
 Originally called session 6
 

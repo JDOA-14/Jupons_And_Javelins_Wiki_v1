@@ -1,53 +1,38 @@
 ---
-type: npc
-name: Dragon-Aura Faced Man
-race: unknown
-class: unknown
-title: BBEG
-current-faction: BBEGF
-Base-of-operations: unknown
-status: alive
-last-seen: Train to Nyserith
-tags:
-  - npc
 aliases:
-  - Dragon Faced Man
-  - Dragon Aura Man
-  - Dragon Aura Faced Man
-  - Dragon Faced Aura Man
-  - The Dragon-Aura-Faced Man
 ---
+
 > [!infobox]
-> # `=this.name`
+> # `Dragon-Aura Faced Man`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Dragon-Aura Faced Man`
 > 
 > **Race**
-> `=this.race`
+> `unknown`
 > 
 > **Class**
-> `=this.class`
+> `unknown`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `BBEGF`
 > 
 > **Title/s**
-> `=this.title`
+> `BBEG`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Train to Nyserith`
 
 > *"Almost." - The Dragon-Aura-Faced Man*
 

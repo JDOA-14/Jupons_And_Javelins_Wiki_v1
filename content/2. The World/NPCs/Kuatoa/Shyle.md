@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Shyle
-race: Kua-Toa
-class: Fish
-title:
-current-faction: Church of Stormrage
-Base-of-operations: Drippledown
-status: alive
-last-seen: Drippledown
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Shyle`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Shyle`
 > 
 > **Race**
-> `=this.race`
+> `Kua-Toa`
 > 
 > **Class**
-> `=this.class`
+> `Fish`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Church of Stormrage`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Drippledown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Drippledown`
 
 > *"Insert a memorable quote by or about the character here."*
 

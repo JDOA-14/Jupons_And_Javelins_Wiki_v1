@@ -1,53 +1,41 @@
 ---
-type: npc
-name: Wrench Bot 4000
-race: Warforged
-class: Wizard
-title: Head of Artifissiory
-current-faction: Cult of the Longest Cloak
-Base-of-operations: Nyserith
-status: Dead
-last-seen: Challenge Room, Nyserith
-tags:
-  - npc
 aliases:
-  - Wrenchbot 4000
-  - WrenchBot 4000
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Wrench Bot 4000`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Wrench Bot 4000`
 > 
 > **Race**
-> `=this.race`
+> `Warforged`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Cult of the Longest Cloak`
 > 
 > **Title/s**
-> `=this.title`
+> `Head of Artifissiory`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Challenge Room, Nyserith`
 
 > *"Insert a memorable quote by or about the character here."*
 

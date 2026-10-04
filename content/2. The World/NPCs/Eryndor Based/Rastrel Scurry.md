@@ -1,54 +1,41 @@
 ---
-type: npc
-name: Rastrel Scurry
-race: Ratfolk
-class: Ranger
-title: City Ranger
-current-faction: none
-Base-of-operations: The Slums
-status: alive
-last-seen: The Slums
-tags:
-  - npc
 aliases:
-  - Rastrel Scurry
-  - Rastrel
-  - The City Ranger
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Rastrel Scurry`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Rastrel Scurry`
 > 
 > **Race**
-> `=this.race`
+> `Ratfolk`
 > 
 > **Class**
-> `=this.class`
+> `Ranger`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `none`
 > 
 > **Title/s**
-> `=this.title`
+> `City Ranger`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `The Slums`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `The Slums`
 
 > *"[[Golden Guards of Eryndor]]? More like Golden Pigs."*
 

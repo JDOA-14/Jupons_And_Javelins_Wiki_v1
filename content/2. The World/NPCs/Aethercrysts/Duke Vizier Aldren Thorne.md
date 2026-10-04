@@ -1,49 +1,39 @@
 ---
-type: npc
-name: Duke Vizier Aldren Thorne
-race: Human
-class: cleric
-title: Duke Vizier
-current-faction: Aethercrysts
-Base-of-operations: Shardhold Citadel
-status: alive
-last-seen: Shardhold Citadel
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Duke Vizier Aldren Thorne`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Duke Vizier Aldren Thorne`
 > 
 > **Race**
-> `=this.race`
+> `Human`
 > 
 > **Class**
-> `=this.class`
+> `cleric`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Aethercrysts`
 > 
 > **Title/s**
-> `=this.title`
+> `Duke Vizier`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Shardhold Citadel`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Shardhold Citadel`
 
 > *"There's no need to cause a hubbub about that." - Duke Vizier Aldren Thorne*
 

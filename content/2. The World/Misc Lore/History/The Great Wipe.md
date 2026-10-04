@@ -1,16 +1,7 @@
 ---
-type: lore
-name: The Great Wipe
-  - 
-lore-type: History
-PC-know-of: true
-fully-PC-known: false
-pre-campaign: true
-tags:
-  - lore
 aliases:
-  -
 ---
+
 A mind wipe done by [[God King|The God King]]
 
 Believed to be done: **(374 AGK)**

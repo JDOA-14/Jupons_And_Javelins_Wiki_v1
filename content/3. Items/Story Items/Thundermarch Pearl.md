@@ -1,23 +1,7 @@
 ---
-type: item
-name: Thundermarch Pearl
-item-type: Wondrous Item
-rarity: Very Rare
-story-item: true
-current-owner: King Selos Skysplitter
-previous-owners: 
-- King Selos Skysplitter
-- Gundrik Ashclaw
-current-location: Thundermarch
-status: Returned
-status-where: Thundermarch
-status-who: The Gang
-tags:
-  - magic-item
-  - story-item
 aliases:
-  - The Thundermarch Pearl
 ---
+
 **Owner:** [[Gundrik Ashclaw]]  (however The Gang is now in control of [[Gundrik Ashclaw]]'s life)
 
 **Description:**  

@@ -1,10 +1,7 @@
 ---
 aliases: Sally Smasher
-ac: "15"
-hp: 41
-level: 4
-modifier: 2
 ---
+
 
 Parents:
 - [[Grathor Stonefist]]

@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 02
 ---
+
 
 POST SESSION NOTES
 

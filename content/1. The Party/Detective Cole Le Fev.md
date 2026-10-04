@@ -1,12 +1,7 @@
 ---
 aliases:
-  - Cole
-  - Cole Le Fev
-ac: "18"
-hp: 48
-level: 4
-modifier: 4
 ---
+
 
 Detective Monk badass
 

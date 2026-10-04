@@ -1,53 +1,41 @@
 ---
-type: npc
-name: Borun Root
-race: Human
-class: unknown
-title: unknown
-current-faction: unknown
-Base-of-operations: unknown
-status: alive
-last-seen: Train to Nyserith
-tags:
-  - npc
 aliases:
-  - Human with a bowl cut
-  - Human with a bowl cut and mullet
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Borun Root`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Borun Root`
 > 
 > **Race**
-> `=this.race`
+> `Human`
 > 
 > **Class**
-> `=this.class`
+> `unknown`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> `unknown`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Train to Nyserith`
 
 > *"Insert a memorable quote by or about the character here."*
 

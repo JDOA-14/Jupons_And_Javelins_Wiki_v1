@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Bralgor FrostJaw
-race: Kodan
-class: sorcerer
-title: Maki Fyrri-Frostodian
-current-faction: The Nation of Nyvaldra
-Base-of-operations: Nyvaldra
-status: assumed dead
-last-seen: Nyvaldra
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Bralgor FrostJaw`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Bralgor FrostJaw`
 > 
 > **Race**
-> `=this.race`
+> `Kodan`
 > 
 > **Class**
-> `=this.class`
+> `sorcerer`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Nation of Nyvaldra`
 > 
 > **Title/s**
-> `=this.title`
+> `Maki Fyrri-Frostodian`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyvaldra`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `assumed dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Nyvaldra`
 
 > *"Insert a memorable quote by or about the character here."*
 

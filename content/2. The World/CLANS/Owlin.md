@@ -1,17 +1,7 @@
 ---
-type: faction
-name: Owlin
-faction-type: race
-active-in: All Valhyria
-majority-race: Owlin
-leader: unknown
-headquarters: Hootmoor
-status: Active
-tags:
-  - faction
-  - race
 aliases:
 ---
+
 # Owlin  
 
 **Type:** Race / Avian Humanoids (Owlfolk)  

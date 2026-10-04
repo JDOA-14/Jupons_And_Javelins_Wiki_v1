@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 16
 ---
+
 
 - Flashback / Lore dump recap
 - Sent off Leif and Paladin Shorun

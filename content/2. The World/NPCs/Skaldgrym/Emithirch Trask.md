@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Emithirch Trask
-race: Witch
-class: Druid
-title:
-current-faction: The Republic of Skaldgrym
-Base-of-operations: Skaldgrym
-status: alive
-last-seen: unknown
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Emithirch Trask`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Emithirch Trask`
 > 
 > **Race**
-> `=this.race`
+> `Witch`
 > 
 > **Class**
-> `=this.class`
+> `Druid`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Republic of Skaldgrym`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Skaldgrym`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

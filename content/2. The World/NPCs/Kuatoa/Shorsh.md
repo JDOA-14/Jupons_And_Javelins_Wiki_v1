@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Shorsh
-race: Kua-Toa
-class: Fish
-title:
-current-faction: Church of Stormrage
-Base-of-operations: Drippledown
-status: Dead
-last-seen: The Dried Fish
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Shorsh`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Shorsh`
 > 
 > **Race**
-> `=this.race`
+> `Kua-Toa`
 > 
 > **Class**
-> `=this.class`
+> `Fish`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Church of Stormrage`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Drippledown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `The Dried Fish`
 
 > *"Insert a memorable quote by or about the character here."*
 

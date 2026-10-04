@@ -1,18 +1,7 @@
 ---
-type: lore
-name: The Accords
-  - 
-lore-type: Things
-PC-know-of: true
-fully-PC-known: true
-pre-campaign: false
-tags:
-  - lore
 Aliases:
-  - The God King's Accords
-  - Continental Accords
-  - The Continental Accords
 ---
+
 
 The accords made by the [[God King]] to ensure peace in the realm.
 

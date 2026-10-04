@@ -1,16 +1,7 @@
 ---
-type: faction
-name: The Cult Of The Shark
-faction-type: Cult
-active-in: Eryndor
-majority-race: Shark Folk
-leader: unknown
-headquarters: Eryndor
-status: Dead
-tags:
-  - faction
 aliases:
 ---
+
 ## Overview
 The Cult of the Shark appeared during a confrontation at a sacrifice while the party was investigating and protecting civilians from potential cultist interference.
 

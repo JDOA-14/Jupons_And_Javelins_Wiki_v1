@@ -1,16 +1,7 @@
 ---
-type: faction
-name: The Reclaimers
-faction-type: Cult
-active-in: Wrethwood
-majority-race: Mallardfolk
-leader: unknown
-headquarters: unknown
-status: unknown
-tags:
-  - faction
 aliases:
 ---
+
 # The Reclaimers  
 
 **Type:** Group / Cult-like Movement  

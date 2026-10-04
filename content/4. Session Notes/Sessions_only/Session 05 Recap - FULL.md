@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 05
 ---
+
 (Originally called session 4)
 
 POST SESSION NOTES

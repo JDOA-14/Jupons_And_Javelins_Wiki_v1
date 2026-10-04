@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Sivara Frostjaw
-race: Kodan
-class: sorcerer
-title: Fyrri-Frostodian
-current-faction: The Nation of Nyvaldra
-Base-of-operations: Nyvaldra
-status: alive
-last-seen: Nyvaldra
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Sivara Frostjaw`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Sivara Frostjaw`
 > 
 > **Race**
-> `=this.race`
+> `Kodan`
 > 
 > **Class**
-> `=this.class`
+> `sorcerer`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Nation of Nyvaldra`
 > 
 > **Title/s**
-> `=this.title`
+> `Fyrri-Frostodian`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyvaldra`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Nyvaldra`
 
 > *"Insert a memorable quote by or about the character here."*
 

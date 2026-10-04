@@ -1,7 +1,3 @@
----
-statblock: inline
----
-
 ```statblock
 layout: Basic 5e Layout
 image: 

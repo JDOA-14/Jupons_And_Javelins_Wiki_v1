@@ -1,52 +1,41 @@
 ---
-type: npc
-name: Hiram Hobb
-race: Human
-class: Villager
-title:
-current-faction: unknown
-Base-of-operations: Nerton
-status: alive
-last-seen: Nerton
-tags:
-  - npc
-  - BountyGiver
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Hiram Hobb`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Hiram Hobb`
 > 
 > **Race**
-> `=this.race`
+> `Human`
 > 
 > **Class**
-> `=this.class`
+> `Villager`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nerton`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Nerton`
 
 > *"Insert a memorable quote by or about the character here."*
 

@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 09
 ---
+
 
 ### Post Session Notes
 

@@ -1,6 +1,3 @@
----
-type: statsheet
----
 ### Spellcaster
 Medium humanoid
 **Armor class:** 12

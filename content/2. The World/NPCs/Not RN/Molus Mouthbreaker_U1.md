@@ -1,49 +1,39 @@
 ---
-type: npc
-name: Molus Mouthbreaker
-race: unknown
-class: unknown
-title: unknown
-current-faction: unknown
-Base-of-operations: unknown
-status: alive
-last-seen: unknown
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Molus Mouthbreaker`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Molus Mouthbreaker`
 > 
 > **Race**
-> `=this.race`
+> `unknown`
 > 
 > **Class**
-> `=this.class`
+> `unknown`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> `unknown`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

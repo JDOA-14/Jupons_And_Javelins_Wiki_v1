@@ -1,54 +1,41 @@
 ---
-type: npc
-name: Jeremy
-race: Orc / Goblin
-class: Wizard
-title: Student
-current-faction: The Gang
-Base-of-operations: unknown
-status: alive
-last-seen: Runehell Lumbermill
-statblock: inline
-tags:
-  - npc
 aliases:
-  - Jeremy the Necromancy student
-  - The Necromancy student
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Jeremy`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Jeremy`
 > 
 > **Race**
-> `=this.race`
+> `Orc / Goblin`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Gang`
 > 
 > **Title/s**
-> `=this.title`
+> `Student`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Runehell Lumbermill`
 
 > *"Insert a memorable quote by or about the character here."*
 

@@ -1,28 +1,7 @@
 ---
-type: item
-name: Black Rain Vials
-item-type: unknown
-rarity: Legendary
-story-item: true
-current-owner: Aeryndor
-previous-owners: 
-- Peldo Satch
-- The Gang
-- Wystan Everbell
-current-location: 
-- Aeryndor
-- unknown
-- destroyed
-status: Stolen
-status-where: 
-- Highwatch Train
-- Shardhold Citadel
-status-who: The Gang
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 # Black Rain Vials
 
 **Creators:** [[Peldo Satch]] (in his lab, Session 6).  

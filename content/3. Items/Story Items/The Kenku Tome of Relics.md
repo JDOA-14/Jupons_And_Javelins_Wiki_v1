@@ -1,20 +1,7 @@
 ---
-type: item
-name: The Kenku Tome of Relics
-item-type: Tome
-rarity: Very Rare
-story-item: true
-current-owner: The Kenkus
-previous-owners: The Kenkus
-current-location: Wrethwood
-status: with original owner
-status-where: Wrethwood
-status-who: The Kenkus
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 - **[[The Kenku Tome of Relics]]**
     
     - Kenku log magical artifacts across Valhyria in a great tome.

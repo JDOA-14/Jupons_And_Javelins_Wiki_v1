@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Gorruk Anvilborn
-race: Orc
-class: Merchant
-title: Blacksmith
-current-faction: Merchant's Guild
-Base-of-operations: Thundermarch
-status: alive
-last-seen: Thundermarch
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Gorruk Anvilborn`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Gorruk Anvilborn`
 > 
 > **Race**
-> `=this.race`
+> `Orc`
 > 
 > **Class**
-> `=this.class`
+> `Merchant`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Merchant's Guild`
 > 
 > **Title/s**
-> `=this.title`
+> `Blacksmith`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Thundermarch`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Thundermarch`
 
 > *"Insert a memorable quote by or about the character here."*
 

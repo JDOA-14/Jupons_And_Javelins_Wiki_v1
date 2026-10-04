@@ -1,16 +1,7 @@
 ---
-type: location
-name: Skaldgrym
-location-type: Small City
-region: North
-population: "5500"
-majority-race: Goliath
-controlled-by: King Donan Stormpeak
-active-factions: unknown
-tags:
-  - location
 aliases:
 ---
+
 
 King: [[King Donan Stormpeak]]
 King's Son: [[Brynnor Stormpeak]]

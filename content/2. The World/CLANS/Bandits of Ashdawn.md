@@ -1,16 +1,7 @@
 ---
-type: faction
-name: Bandits of Ashdawn
-faction-type: Bandits
-active-in: Ashdawn
-majority-race: Human
-leader: Edmund Stief
-headquarters: Dampiner Forest
-status: Dead
-tags:
-  - faction
 aliases:
 ---
+
 # Bandits of Ashdawn  
 
 **Type:** Bandit Group  

@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 14
 ---
+
 
 - The gang wakes up in houses - not sure where they are
 	- Cole wakes up alone in a basement

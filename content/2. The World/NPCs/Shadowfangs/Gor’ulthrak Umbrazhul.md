@@ -1,52 +1,41 @@
 ---
-type: npc
-name: Gor’ulthrak Umbrazhul
-race: Undead / Goblin
-class: Fighter / Ranger / Warlock
-title: First of the Umbrazhul Line, Dreadhelm of the Thousand Screams, Tamer of The Wolrikkae, Erupter of the Ancestral Pyre, The Maw That Hungers Beyond Death
-current-faction: The Umbrazhul Line
-Base-of-operations: unknown
-status: unknown
-last-seen: Scry Vision
-tags:
-  - npc
 aliases:
-  - First of the Umbrazhul Line, Dreadhelm of the Thousand Screams, Tamer of The Wolrikkae, Erupter of the Ancestral Pyre, The Maw That Hungers Beyond Death
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Gor’ulthrak Umbrazhul`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Gor’ulthrak Umbrazhul`
 > 
 > **Race**
-> `=this.race`
+> `Undead / Goblin`
 > 
 > **Class**
-> `=this.class`
+> `Fighter / Ranger / Warlock`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Umbrazhul Line`
 > 
 > **Title/s**
-> `=this.title`
+> `First of the Umbrazhul Line, Dreadhelm of the Thousand Screams, Tamer of The Wolrikkae, Erupter of the Ancestral Pyre, The Maw That Hungers Beyond Death`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `unknown`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Scry Vision`
 
 > *"Insert a memorable quote by or about the character here."*
 

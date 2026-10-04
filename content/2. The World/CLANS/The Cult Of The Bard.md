@@ -1,16 +1,7 @@
 ---
-type: faction
-name: The Cult Of The Bard
-faction-type: Cult
-active-in: Eryndor
-majority-race: Human
-leader: unknown
-headquarters: Eryndor
-status: Dead
-tags:
-  - faction
 aliases:
 ---
+
 ## Description
 
 The Cult Of The Bard is a group involved in a planned disruption of a sacrifice ritual.

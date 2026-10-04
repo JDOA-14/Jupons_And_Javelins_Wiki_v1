@@ -1,10 +1,7 @@
 ---
 aliases: Cryos
-ac: "11"
-hp: 60
-level: 5
-modifier: 1
 ---
+
 
 
 

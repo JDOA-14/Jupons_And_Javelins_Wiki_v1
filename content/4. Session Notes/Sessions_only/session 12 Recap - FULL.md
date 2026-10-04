@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 12
 ---
+
 
 - Players present: Toby (May), Thomas (Cole), Sam (Gronk), Ethan (Cryos), Rhys (Kaelen)
 

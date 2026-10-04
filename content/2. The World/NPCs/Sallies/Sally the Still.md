@@ -1,52 +1,41 @@
 ---
-type: npc
-name: Sally the Still
-race: Sally
-class: Sally
-title: Sally The Still
-current-faction: The Sallies
-Base-of-operations: Runehell Lumbermill
-status: Gently Reposing
-last-seen: Runehell Lumbermill
-tags:
-  - npc
 aliases:
-  - Sally Still
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Sally the Still`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Sally the Still`
 > 
 > **Race**
-> `=this.race`
+> `Sally`
 > 
 > **Class**
-> `=this.class`
+> `Sally`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Sallies`
 > 
 > **Title/s**
-> `=this.title`
+> `Sally The Still`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Runehell Lumbermill`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Gently Reposing`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Runehell Lumbermill`
 
 > *"Insert a memorable quote by or about the character here."*
 

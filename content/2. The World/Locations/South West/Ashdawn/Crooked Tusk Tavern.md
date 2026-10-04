@@ -1,16 +1,7 @@
 ---
-type: location
-name: Crooked Tusk Tavern
-location-type: Tavern
-region: Ashdawn
-population: "20"
-majority-race: Goblin
-controlled-by: unknown
-active-factions: unknown
-tags:
-  - location
 aliases:
 ---
+
 ## Location
 - **Town:** [[Ashdawn]]
 

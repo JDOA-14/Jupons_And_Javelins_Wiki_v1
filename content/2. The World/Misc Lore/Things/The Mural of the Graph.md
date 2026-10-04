@@ -1,16 +1,7 @@
 ---
-type: lore
-name: The Mural of the Graph
-  - 
-lore-type: Things
-PC-know-of: true
-fully-PC-known: true
-pre-campaign: false
-tags:
-  - lore
 aliases:
-  -
 ---
+
 - A huge wall painting mural - of a graph that shows a slow rise, into a sharp rise, into a sharp sharp drop, into a slow rise
 - The story behind it:
 	- A headmaster of the city was found in his room gone mad with this graph everywhere - on notes, written on walls, etc

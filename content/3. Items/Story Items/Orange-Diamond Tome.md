@@ -1,24 +1,7 @@
 ---
-type: item
-name: Orange-Diamond Tome
-item-type: unknown
-rarity: Very Rare
-story-item: true
-current-owner: unknown
-previous-owners: 
-- Eyeches Writhal
-- Kaelen Stormrage
-- Edmund Stief
-- The Dragon-Aura-Faced Man
-current-location: unknown
-status: stolen
-status-where: Dampiner Forest
-status-who: The Dragon-Aura-Faced Man
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 # Orange-Diamond Tome
 
 **Former Owners:**  

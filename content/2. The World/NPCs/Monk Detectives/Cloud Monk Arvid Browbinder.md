@@ -1,51 +1,41 @@
 ---
-type: npc
-name: CloudMonk Arvid Browbinder
-race: Aarakocra
-class: monk
-title: Cloud Monk
-current-faction: Monk-Detectives of Aeryndor
-Base-of-operations: Aeryndor
-status: Dead
-last-seen: Aeryndor
-tags:
-  - npc
 aliases: CloudMonk Arvid Browbinder
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `CloudMonk Arvid Browbinder`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `CloudMonk Arvid Browbinder`
 > 
 > **Race**
-> `=this.race`
+> `Aarakocra`
 > 
 > **Class**
-> `=this.class`
+> `monk`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Monk-Detectives of Aeryndor`
 > 
 > **Title/s**
-> `=this.title`
+> `Cloud Monk`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Aeryndor`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Aeryndor`
 
 > *"Insert a memorable quote by or about the character here."*
 

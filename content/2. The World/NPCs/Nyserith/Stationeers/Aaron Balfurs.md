@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Aaron Balfurs
-race: Human
-class: Fighter
-title:
-current-faction: The Golden Guards
-Base-of-operations: Nyserith
-status: alive
-last-seen: Nyserith
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Aaron Balfurs`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Aaron Balfurs`
 > 
 > **Race**
-> `=this.race`
+> `Human`
 > 
 > **Class**
-> `=this.class`
+> `Fighter`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Golden Guards`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Nyserith`
 
 > *"Insert a memorable quote by or about the character here."*
 

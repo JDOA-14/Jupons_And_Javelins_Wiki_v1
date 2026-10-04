@@ -1,49 +1,39 @@
 ---
-type: npc
-name: johnclaw
-race: Wolf Werewolf
-class: unknown
-title:
-current-faction: unknown
-Base-of-operations: unknown
-status: unknown
-last-seen: unknown
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `johnclaw`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `johnclaw`
 > 
 > **Race**
-> `=this.race`
+> `Wolf Werewolf`
 > 
 > **Class**
-> `=this.class`
+> `unknown`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `unknown`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

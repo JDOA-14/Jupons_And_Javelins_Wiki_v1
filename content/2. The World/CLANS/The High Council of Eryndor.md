@@ -1,20 +1,7 @@
 ---
-type: faction
-name: The High Council of Eryndor
-faction-type: Council
-active-in: Eryndor
-majority-race: Human
-leader: none
-headquarters: Shardhold Citadel
-status: Active
-tags:
-  - faction
 aliases:
-  - The High Council
-  - High Council
-  - The High-Council
-  - High-Council
 ---
+
 
 While [[1. Eryndor]] maintains peace, its influence is pervasive and unavoidable. [[1. Eryndor]] operates as a central authority rather than a single-ruler monarchy.
 

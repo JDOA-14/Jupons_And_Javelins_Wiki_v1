@@ -1,49 +1,39 @@
 ---
-type: npc
-name: Falrus
-race: Greybear
-class: Warlock
-title: Lieutenant Shaman
-current-faction: Bearbandits
-Base-of-operations: unknown
-status: Dead
-last-seen: Pinetide
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Falrus`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Falrus`
 > 
 > **Race**
-> `=this.race`
+> `Greybear`
 > 
 > **Class**
-> `=this.class`
+> `Warlock`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Bearbandits`
 > 
 > **Title/s**
-> `=this.title`
+> `Lieutenant Shaman`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Pinetide`
 
 > *"Insert a memorable quote by or about the character here."*
 

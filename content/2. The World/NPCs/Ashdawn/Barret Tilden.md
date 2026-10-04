@@ -1,49 +1,39 @@
 ---
-type: npc
-name: Barret Tilden
-race: Human
-class: Villager
-title: Farmer
-current-faction: none
-Base-of-operations: Tilden Residence
-status: alive
-last-seen: Drippledown
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Barret Tilden`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Barret Tilden`
 > 
 > **Race**
-> `=this.race`
+> `Human`
 > 
 > **Class**
-> `=this.class`
+> `Villager`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `none`
 > 
 > **Title/s**
-> `=this.title`
+> `Farmer`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Tilden Residence`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Drippledown`
 
 > *"Honey, why is our house exploded?" - Barret Tilden*
 

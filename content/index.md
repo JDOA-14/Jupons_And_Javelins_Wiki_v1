@@ -1,447 +1,763 @@
----
-title: Home
----
 # Jupons & Javelins Wiki
 
-Welcome to the master campaign wiki index. Explore the directories below to dive into the lore, locations, and characters of Valhyria.
+Welcome to the master campaign wiki index. Click the folders below to expand and explore the lore, locations, and characters of Valhyria.
 
-## Vault Directory
+---
 
-- 📁 **1. The Party**
-  - [Cryos Frostjaw](1. The Party/Cryos Frostjaw.md)
-  - [Detective Cole Le Fev](1. The Party/Detective Cole Le Fev.md)
-  - [Gronk Shadowfang](1. The Party/Gronk Shadowfang.md)
-  - [Kaelen Stormrage](1. The Party/Kaelen Stormrage.md)
-  - [May Mistbrooke](1. The Party/May Mistbrooke.md)
-  - [Sally the Smasher](1. The Party/Sally the Smasher.md)
-  - [The Gang](1. The Party/The Gang.md)
-- 📁 **2. The World**
-  - 📁 **CLANS**
-    - [Aarakocra](2. The World/CLANS/Aarakocra.md)
-    - [Aethercrysts](2. The World/CLANS/Aethercrysts.md)
-    - [Bandits of Ashdawn](2. The World/CLANS/Bandits of Ashdawn.md)
-    - [Golden Guards of Eryndor](2. The World/CLANS/Golden Guards of Eryndor.md)
-    - [Kenku](2. The World/CLANS/Kenku.md)
-    - [Kodan](2. The World/CLANS/Kodan.md)
-    - [Kua-Toa](2. The World/CLANS/Kua-Toa.md)
-    - [Maesters in the citadel](2. The World/CLANS/Maesters in the citadel.md)
-    - [Mallardfolk](2. The World/CLANS/Mallardfolk.md)
-    - [Midnight Paladins](2. The World/CLANS/Midnight Paladins.md)
-    - [Monk-Detectives of Aeryndor](2. The World/CLANS/Monk-Detectives of Aeryndor.md)
-    - [Owlin](2. The World/CLANS/Owlin.md)
-    - [Penguinfolk](2. The World/CLANS/Penguinfolk.md)
-    - [Sally Syndicate](2. The World/CLANS/Sally Syndicate.md)
-    - [Student Cult Members](2. The World/CLANS/Student Cult Members.md)
-    - [Tabaxi Assassins](2. The World/CLANS/Tabaxi Assassins.md)
-    - [The Consecrators](2. The World/CLANS/The Consecrators.md)
-    - [The Cult Of The Bard](2. The World/CLANS/The Cult Of The Bard.md)
-    - [The Cult Of The Longest Cloak](2. The World/CLANS/The Cult Of The Longest Cloak.md)
-    - [The Cult Of The Shark](2. The World/CLANS/The Cult Of The Shark.md)
-    - [The High Council of Eryndor](2. The World/CLANS/The High Council of Eryndor.md)
-    - [The Highest Elves](2. The World/CLANS/The Highest Elves.md)
-    - [The Merchant's Guild](2. The World/CLANS/The Merchant's Guild.md)
-    - [The Nyvaldran Agglomerate](2. The World/CLANS/The Nyvaldran Agglomerate.md)
-    - [The Rebels](2. The World/CLANS/The Rebels.md)
-    - [The Reclaimers](2. The World/CLANS/The Reclaimers.md)
-    - [The Retributors](2. The World/CLANS/The Retributors.md)
-  - 📁 **Locations**
-    - 📁 **Central**
-      - 📁 **Eryndor**
-        - [1. Eryndor](2. The World/Locations/Central/Eryndor/1. Eryndor.md)
-        - [Drake's BeerLand](2. The World/Locations/Central/Eryndor/Drake's BeerLand.md)
-        - [Shardhold Citadel](2. The World/Locations/Central/Eryndor/Shardhold Citadel.md)
-      - [Fort NatureGuard](2. The World/Locations/Central/Fort NatureGuard.md)
-      - [Glenvaris](2. The World/Locations/Central/Glenvaris.md)
-      - [Mirelift](2. The World/Locations/Central/Mirelift.md)
-      - 📁 **Nyserith**
-        - [1. Nyserith](2. The World/Locations/Central/Nyserith/1. Nyserith.md)
-        - [Challenge Room](2. The World/Locations/Central/Nyserith/Challenge Room.md)
-        - [Magic Storeroom](2. The World/Locations/Central/Nyserith/Magic Storeroom.md)
-      - [Pinetide](2. The World/Locations/Central/Pinetide.md)
-    - 📁 **East**
-      - [Faldwyn](2. The World/Locations/East/Faldwyn.md)
-      - [Sarthmoor](2. The World/Locations/East/Sarthmoor.md)
-      - [Traminer Isle](2. The World/Locations/East/Traminer Isle.md)
-    - 📁 **North**
-      - [Skaldgrym](2. The World/Locations/North/Skaldgrym.md)
-      - [Taurakhan](2. The World/Locations/North/Taurakhan.md)
-    - 📁 **North East**
-      - [Aeryndor](2. The World/Locations/North East/Aeryndor.md)
-      - [Wrethwood](2. The World/Locations/North East/Wrethwood.md)
-    - 📁 **Region Unknown**
-      - [Sally Sanctum](2. The World/Locations/Region Unknown/Sally Sanctum.md)
-    - 📁 **South**
-      - 📁 **Elven Lands**
-        - [Arlewyn](2. The World/Locations/South/Elven Lands/Arlewyn.md)
-        - [Runehell Lumbermill](2. The World/Locations/South/Elven Lands/Runehell Lumbermill.md)
-        - [Rylvarn Forest](2. The World/Locations/South/Elven Lands/Rylvarn Forest.md)
-        - [Rylvarn](2. The World/Locations/South/Elven Lands/Rylvarn.md)
-        - [Sylvarael](2. The World/Locations/South/Elven Lands/Sylvarael.md)
-      - [Everviewed](2. The World/Locations/South/Everviewed.md)
-      - [Highwatch](2. The World/Locations/South/Highwatch.md)
-      - [Nerton](2. The World/Locations/South/Nerton.md)
-      - [Nyvaldra](2. The World/Locations/South/Nyvaldra.md)
-    - 📁 **South West**
-      - 📁 **Ashdawn**
-        - [Ashdawn](2. The World/Locations/South West/Ashdawn/Ashdawn.md)
-        - [Crooked Tusk Tavern](2. The World/Locations/South West/Ashdawn/Crooked Tusk Tavern.md)
-        - [Dampiner Forest](2. The World/Locations/South West/Ashdawn/Dampiner Forest.md)
-      - [Camp Bearblood](2. The World/Locations/South West/Camp Bearblood.md)
-      - 📁 **Drippledown**
-        - [1. Drippledown](2. The World/Locations/South West/Drippledown/1. Drippledown.md)
-        - [Dried Fish](2. The World/Locations/South West/Drippledown/Dried Fish.md)
-      - [Mistthrow](2. The World/Locations/South West/Mistthrow.md)
-      - [Thundermarch](2. The World/Locations/South West/Thundermarch.md)
-    - [Valhyria](2. The World/Locations/Valhyria.md)
-    - 📁 **West**
-      - [Drassith Cairn](2. The World/Locations/West/Drassith Cairn.md)
-      - [Urdakar](2. The World/Locations/West/Urdakar.md)
-      - [Wyrmshatter](2. The World/Locations/West/Wyrmshatter.md)
-  - 📁 **Misc Lore**
-    - 📁 **Happenings**
-      - [Highwatch Train VIP Meeting](2. The World/Misc Lore/Happenings/Highwatch Train VIP Meeting.md)
-      - [Nerton Incident](2. The World/Misc Lore/Happenings/Nerton Incident.md)
-      - [The Train Incident](2. The World/Misc Lore/Happenings/The Train Incident.md)
-    - 📁 **Hierarchy**
-      - [Aethercryst Hierarchy](2. The World/Misc Lore/Hierarchy/Aethercryst Hierarchy.md)
-      - [Golden Guards Hierarchy](2. The World/Misc Lore/Hierarchy/Golden Guards Hierarchy.md)
-      - [Monk-Detectives Hierarchy](2. The World/Misc Lore/Hierarchy/Monk-Detectives Hierarchy.md)
-      - [Sally Hierarchy](2. The World/Misc Lore/Hierarchy/Sally Hierarchy.md)
-      - [The Apotheosis of Aeryndor](2. The World/Misc Lore/Hierarchy/The Apotheosis of Aeryndor.md)
-      - [The King of Skaldgrym](2. The World/Misc Lore/Hierarchy/The King of Skaldgrym.md)
-      - [Witch Hierarchy](2. The World/Misc Lore/Hierarchy/Witch Hierarchy.md)
-    - 📁 **History**
-      - [Age of Thankfulness](2. The World/Misc Lore/History/Age of Thankfulness.md)
-      - [Age of the First Greed](2. The World/Misc Lore/History/Age of the First Greed.md)
-      - [Age of the Wing](2. The World/Misc Lore/History/Age of the Wing.md)
-      - [The Great Wipe](2. The World/Misc Lore/History/The Great Wipe.md)
-      - [The Greatest Sacrifice](2. The World/Misc Lore/History/The Greatest Sacrifice.md)
-    - 📁 **Intel**
-      - [Black Rain Mutation](2. The World/Misc Lore/Intel/Black Rain Mutation.md)
-      - [Greybear Trajectory](2. The World/Misc Lore/Intel/Greybear Trajectory.md)
-      - [Orc Bandit Trajectory](2. The World/Misc Lore/Intel/Orc Bandit Trajectory.md)
-      - [Project Divinatus Revivica](2. The World/Misc Lore/Intel/Project Divinatus Revivica.md)
-      - [Project Keen-Eye](2. The World/Misc Lore/Intel/Project Keen-Eye.md)
-    - 📁 **Things**
-      - [Black Rain](2. The World/Misc Lore/Things/Black Rain.md)
-      - [Sally Speak](2. The World/Misc Lore/Things/Sally Speak.md)
-      - [Stationeer](2. The World/Misc Lore/Things/Stationeer.md)
-      - [The Accords](2. The World/Misc Lore/Things/The Accords.md)
-      - [The Core Tree](2. The World/Misc Lore/Things/The Core Tree.md)
-      - [The Mural of the Graph](2. The World/Misc Lore/Things/The Mural of the Graph.md)
-  - 📁 **NPCs**
-    - 📁 **Aethercrysts**
-      - [Archbishop Alric Fenrik](2. The World/NPCs/Aethercrysts/Archbishop Alric Fenrik.md)
-      - [Archduke Terranus Listler](2. The World/NPCs/Aethercrysts/Archduke Terranus Listler.md)
-      - [Bishop O'Shaun Anklecrest](2. The World/NPCs/Aethercrysts/Bishop O'Shaun Anklecrest.md)
-      - [Duke Vizier Aldren Thorne](2. The World/NPCs/Aethercrysts/Duke Vizier Aldren Thorne.md)
-      - [Duke Vizier Wystan Everbell](2. The World/NPCs/Aethercrysts/Duke Vizier Wystan Everbell.md)
-      - [Maester Isen Kestrel](2. The World/NPCs/Aethercrysts/Maester Isen Kestrel.md)
-      - [The God King](2. The World/NPCs/Aethercrysts/The God King.md)
-    - 📁 **Ashdawn**
-      - [Barret Tilden](2. The World/NPCs/Ashdawn/Barret Tilden.md)
-      - [Edmund Stief](2. The World/NPCs/Ashdawn/Edmund Stief.md)
-      - [Eyeches Writhal](2. The World/NPCs/Ashdawn/Eyeches Writhal.md)
-      - [Maeve Tilden](2. The World/NPCs/Ashdawn/Maeve Tilden.md)
-      - [Mayor Grubwink Snaggletooth](2. The World/NPCs/Ashdawn/Mayor Grubwink Snaggletooth.md)
-      - [Virka Snapgut](2. The World/NPCs/Ashdawn/Virka Snapgut.md)
-    - 📁 **BBEG**
-      - [Dragon-Aura-Faced Man](2. The World/NPCs/BBEG/Dragon-Aura-Faced Man.md)
-    - 📁 **Bearbandits**
-      - [Biteclaw](2. The World/NPCs/Bearbandits/Biteclaw.md)
-      - [Falrus](2. The World/NPCs/Bearbandits/Falrus.md)
-      - [Gundrik Ashclaw](2. The World/NPCs/Bearbandits/Gundrik Ashclaw.md)
-    - [Brother Halem](2. The World/NPCs/Brother Halem.md)
-    - [Brother Halem_U1](2. The World/NPCs/Brother Halem_U1.md)
-    - 📁 **Elves**
-      - [Queen Riniya Xilxidor](2. The World/NPCs/Elves/Queen Riniya Xilxidor.md)
-    - 📁 **Eryndor Based**
-      - [Paphanael Stomp](2. The World/NPCs/Eryndor Based/Paphanael Stomp.md)
-      - [Rastrel Scurry](2. The World/NPCs/Eryndor Based/Rastrel Scurry.md)
-    - 📁 **Highwatch**
-      - [Caldus Quince](2. The World/NPCs/Highwatch/Caldus Quince.md)
-      - [Highwatch Train Driver](2. The World/NPCs/Highwatch/Highwatch Train Driver.md)
-      - [Peldo Satch](2. The World/NPCs/Highwatch/Peldo Satch.md)
-    - 📁 **Hush Hour Duo**
-      - [Borun Root](2. The World/NPCs/Hush Hour Duo/Borun Root.md)
-      - [Flatomir Chelf](2. The World/NPCs/Hush Hour Duo/Flatomir Chelf.md)
-    - 📁 **Kuatoa**
-      - [Sheosh](2. The World/NPCs/Kuatoa/Sheosh.md)
-      - [Shisha](2. The World/NPCs/Kuatoa/Shisha.md)
-      - [Shoawan](2. The World/NPCs/Kuatoa/Shoawan.md)
-      - [Shola](2. The World/NPCs/Kuatoa/Shola.md)
-      - [Shorsh](2. The World/NPCs/Kuatoa/Shorsh.md)
-      - [Shyle](2. The World/NPCs/Kuatoa/Shyle.md)
-    - 📁 **Mercenaries**
-      - [Chains](2. The World/NPCs/Mercenaries/Chains.md)
-      - [Fior](2. The World/NPCs/Mercenaries/Fior.md)
-      - [Johnny Smallerm](2. The World/NPCs/Mercenaries/Johnny Smallerm.md)
-      - [Myranda](2. The World/NPCs/Mercenaries/Myranda.md)
-      - [Ol Derek Yeller](2. The World/NPCs/Mercenaries/Ol Derek Yeller.md)
-      - [Sally the Sellout](2. The World/NPCs/Mercenaries/Sally the Sellout.md)
-      - [Silch](2. The World/NPCs/Mercenaries/Silch.md)
-      - [Sir Fradd](2. The World/NPCs/Mercenaries/Sir Fradd.md)
-    - 📁 **Monk Detectives**
-      - [Captain Verrik](2. The World/NPCs/Monk Detectives/Captain Verrik.md)
-      - [Click Whisperbeak](2. The World/NPCs/Monk Detectives/Click Whisperbeak.md)
-      - [Cloud Monk Arvid Browbinder](2. The World/NPCs/Monk Detectives/Cloud Monk Arvid Browbinder.md)
-      - [Darvok Duskrunner](2. The World/NPCs/Monk Detectives/Darvok Duskrunner.md)
-      - [Drekka Rukk](2. The World/NPCs/Monk Detectives/Drekka Rukk.md)
-      - [GrandWuseng-Cosmonk Tasheak MountainFeather](2. The World/NPCs/Monk Detectives/GrandWuseng-Cosmonk Tasheak MountainFeather.md)
-      - [Sky Marshal Herrace Heatsink](2. The World/NPCs/Monk Detectives/Sky Marshal Herrace Heatsink.md)
-      - [Tekka Glyde-Eye](2. The World/NPCs/Monk Detectives/Tekka Glyde-Eye.md)
-    - 📁 **Not RN**
-      - [Dun Chunkin](2. The World/NPCs/Not RN/Dun Chunkin.md)
-      - [Dun Chunkin_U1](2. The World/NPCs/Not RN/Dun Chunkin_U1.md)
-      - [Molus Mouthbreaker](2. The World/NPCs/Not RN/Molus Mouthbreaker.md)
-      - [Molus Mouthbreaker_U1](2. The World/NPCs/Not RN/Molus Mouthbreaker_U1.md)
-      - [Selwyn Thornbrook](2. The World/NPCs/Not RN/Selwyn Thornbrook.md)
-      - [Selwyn Thornbrook_U1](2. The World/NPCs/Not RN/Selwyn Thornbrook_U1.md)
-      - [johnclaw](2. The World/NPCs/Not RN/johnclaw.md)
-      - [johnclaw_U1](2. The World/NPCs/Not RN/johnclaw_U1.md)
-    - 📁 **Nyserith**
-      - 📁 **COTLC Members**
-        - [Alistair Mccant](2. The World/NPCs/Nyserith/COTLC Members/Alistair Mccant.md)
-        - [Darkle Charkle](2. The World/NPCs/Nyserith/COTLC Members/Darkle Charkle.md)
-        - [Gungus Bungus](2. The World/NPCs/Nyserith/COTLC Members/Gungus Bungus.md)
-        - [Lester Saffron](2. The World/NPCs/Nyserith/COTLC Members/Lester Saffron.md)
-        - [Moris Boris](2. The World/NPCs/Nyserith/COTLC Members/Moris Boris.md)
-        - [Sylak AppleTree](2. The World/NPCs/Nyserith/COTLC Members/Sylak AppleTree.md)
-        - [Twiggy Marshdust](2. The World/NPCs/Nyserith/COTLC Members/Twiggy Marshdust.md)
-        - [Wrench Bot 4000](2. The World/NPCs/Nyserith/COTLC Members/Wrench Bot 4000.md)
-      - [Galahad Guzzletome](2. The World/NPCs/Nyserith/Galahad Guzzletome.md)
-      - [Orvus Fillorvus](2. The World/NPCs/Nyserith/Orvus Fillorvus.md)
-      - 📁 **Other Heads of Houses**
-        - [Father O'Shaun Anklecrest](2. The World/NPCs/Nyserith/Other Heads of Houses/Father O'Shaun Anklecrest.md)
-        - [Gopher Drenk](2. The World/NPCs/Nyserith/Other Heads of Houses/Gopher Drenk.md)
-        - [Helix Zipper](2. The World/NPCs/Nyserith/Other Heads of Houses/Helix Zipper.md)
-        - [Oinx Spellwhisp](2. The World/NPCs/Nyserith/Other Heads of Houses/Oinx Spellwhisp.md)
-        - [Quentina Callum](2. The World/NPCs/Nyserith/Other Heads of Houses/Quentina Callum.md)
-        - [Rengar Fizzwhistle](2. The World/NPCs/Nyserith/Other Heads of Houses/Rengar Fizzwhistle.md)
-      - 📁 **Stationeers**
-        - [Aaron Balfurs](2. The World/NPCs/Nyserith/Stationeers/Aaron Balfurs.md)
-        - [Lerance Sootfeather](2. The World/NPCs/Nyserith/Stationeers/Lerance Sootfeather.md)
-        - [Michonne Flessle](2. The World/NPCs/Nyserith/Stationeers/Michonne Flessle.md)
-    - 📁 **Nyvaldra**
-      - [Bralgor Frostjaw](2. The World/NPCs/Nyvaldra/Bralgor Frostjaw.md)
-      - [King Osvrik](2. The World/NPCs/Nyvaldra/King Osvrik.md)
-      - [Rurik FrostJaw](2. The World/NPCs/Nyvaldra/Rurik FrostJaw.md)
-      - [Sivara Frostjaw](2. The World/NPCs/Nyvaldra/Sivara Frostjaw.md)
-    - 📁 **Off The Beaten Path**
-      - [Hermitage Traminer](2. The World/NPCs/Off The Beaten Path/Hermitage Traminer.md)
-      - [Hiram Hobb](2. The World/NPCs/Off The Beaten Path/Hiram Hobb.md)
-      - [Paladin Jayce](2. The World/NPCs/Off The Beaten Path/Paladin Jayce.md)
-      - 📁 **Runehells**
-        - [Garus Runehell](2. The World/NPCs/Off The Beaten Path/Runehells/Garus Runehell.md)
-        - [Mizzelda Runehell](2. The World/NPCs/Off The Beaten Path/Runehells/Mizzelda Runehell.md)
-      - [Tiffle Tattle](2. The World/NPCs/Off The Beaten Path/Tiffle Tattle.md)
-    - 📁 **Sallies**
-      - [Sally The Sovereign](2. The World/NPCs/Sallies/Sally The Sovereign.md)
-      - [Sally The Supreme](2. The World/NPCs/Sallies/Sally The Supreme.md)
-      - [Sally the Signaller](2. The World/NPCs/Sallies/Sally the Signaller.md)
-      - [Sally the Sniper](2. The World/NPCs/Sallies/Sally the Sniper.md)
-      - [Sally the Soldier](2. The World/NPCs/Sallies/Sally the Soldier.md)
-      - [Sally the Speaker](2. The World/NPCs/Sallies/Sally the Speaker.md)
-      - [Sally the Stabber](2. The World/NPCs/Sallies/Sally the Stabber.md)
-      - [Sally the Still](2. The World/NPCs/Sallies/Sally the Still.md)
-      - [Sally the Strategist](2. The World/NPCs/Sallies/Sally the Strategist.md)
-    - 📁 **Shadowfangs**
-      - [Botswana](2. The World/NPCs/Shadowfangs/Botswana.md)
-      - [Gor’ulthrak Umbrazhul](2. The World/NPCs/Shadowfangs/Gor’ulthrak Umbrazhul.md)
-      - [Grivella Shadowfang](2. The World/NPCs/Shadowfangs/Grivella Shadowfang.md)
-      - [Grotch Shadowfang](2. The World/NPCs/Shadowfangs/Grotch Shadowfang.md)
-    - 📁 **Skaldgrym**
-      - [Emithirch Trask](2. The World/NPCs/Skaldgrym/Emithirch Trask.md)
-      - 📁 **Royal Family**
-        - [Brynnor Stormpeak](2. The World/NPCs/Skaldgrym/Royal Family/Brynnor Stormpeak.md)
-        - [King Donan Stormpeak](2. The World/NPCs/Skaldgrym/Royal Family/King Donan Stormpeak.md)
-        - [King Pyros Stormpeak](2. The World/NPCs/Skaldgrym/Royal Family/King Pyros Stormpeak.md)
-        - [Kronar Stormrage](2. The World/NPCs/Skaldgrym/Royal Family/Kronar Stormrage.md)
-        - 📁 **Stormpeaks**
-          - [Brynnor Stormpeak](2. The World/NPCs/Skaldgrym/Royal Family/Stormpeaks/Brynnor Stormpeak.md)
-          - [Brynnor Stormpeak_U1](2. The World/NPCs/Skaldgrym/Royal Family/Stormpeaks/Brynnor Stormpeak_U1.md)
-          - [King Donan Stormpeak](2. The World/NPCs/Skaldgrym/Royal Family/Stormpeaks/King Donan Stormpeak.md)
-          - [King Donan Stormpeak_U1](2. The World/NPCs/Skaldgrym/Royal Family/Stormpeaks/King Donan Stormpeak_U1.md)
-          - [King Pyros Stormpeak](2. The World/NPCs/Skaldgrym/Royal Family/Stormpeaks/King Pyros Stormpeak.md)
-          - [King Pyros Stormpeak_U1](2. The World/NPCs/Skaldgrym/Royal Family/Stormpeaks/King Pyros Stormpeak_U1.md)
-      - 📁 **Stonefists**
-        - [Grathor Stonefist](2. The World/NPCs/Skaldgrym/Stonefists/Grathor Stonefist.md)
-        - [Kyrra Stonefist](2. The World/NPCs/Skaldgrym/Stonefists/Kyrra Stonefist.md)
-        - [Thalara Stonefist](2. The World/NPCs/Skaldgrym/Stonefists/Thalara Stonefist.md)
-    - 📁 **The Groupies**
-      - [BarterBot 5000](2. The World/NPCs/The Groupies/BarterBot 5000.md)
-      - [Jeremy](2. The World/NPCs/The Groupies/Jeremy.md)
-      - [Leif LúmëLóke](2. The World/NPCs/The Groupies/Leif LúmëLóke.md)
-      - [Little Shitty](2. The World/NPCs/The Groupies/Little Shitty.md)
-      - [Petra](2. The World/NPCs/The Groupies/Petra.md)
-      - [Shorun Forsh](2. The World/NPCs/The Groupies/Shorun Forsh.md)
-      - [Turbo](2. The World/NPCs/The Groupies/Turbo.md)
-    - 📁 **Thundermarch**
-      - [Crab Familiar](2. The World/NPCs/Thundermarch/Crab Familiar.md)
-      - [Helga Brightrun](2. The World/NPCs/Thundermarch/Helga Brightrun.md)
-      - [King Selos SkySplitter](2. The World/NPCs/Thundermarch/King Selos SkySplitter.md)
-      - 📁 **Merchants**
-        - [Gorruk Anvilborn](2. The World/NPCs/Thundermarch/Merchants/Gorruk Anvilborn.md)
-        - [Grindle Barrelbane](2. The World/NPCs/Thundermarch/Merchants/Grindle Barrelbane.md)
-        - [Jonas Blackmere](2. The World/NPCs/Thundermarch/Merchants/Jonas Blackmere.md)
-        - [Yibba Fizzwhistle](2. The World/NPCs/Thundermarch/Merchants/Yibba Fizzwhistle.md)
-      - [Prince Sier SkySplitter](2. The World/NPCs/Thundermarch/Prince Sier SkySplitter.md)
-      - [Stebonheath](2. The World/NPCs/Thundermarch/Stebonheath.md)
-  - 📁 **Timelines**
-    - 📁 **Campaign Timeline**
-      - [MASTER_TIMELINE](2. The World/Timelines/Campaign Timeline/MASTER_TIMELINE.md)
-      - [MASTER_TIMELINE_NoC-NoL](2. The World/Timelines/Campaign Timeline/MASTER_TIMELINE_NoC-NoL.md)
-      - [OBSIDIAN_VISUAL_TIMELINE_NoChars](2. The World/Timelines/Campaign Timeline/OBSIDIAN_VISUAL_TIMELINE_NoChars.md)
-    - 📁 **Pre-Campaign Timeline**
-      - [OBSIDIAN_PC_TIMELINE](2. The World/Timelines/Pre-Campaign Timeline/OBSIDIAN_PC_TIMELINE.md)
-      - [OBSIDIAN_VALHYRIA_TIMELINE](2. The World/Timelines/Pre-Campaign Timeline/OBSIDIAN_VALHYRIA_TIMELINE.md)
-      - [Pre-Campaign PC Timeline_v1](2. The World/Timelines/Pre-Campaign Timeline/Pre-Campaign PC Timeline_v1.md)
-      - [Pre-Campaign Valhyria Timeline_v1](2. The World/Timelines/Pre-Campaign Timeline/Pre-Campaign Valhyria Timeline_v1.md)
-    - 📁 **TimelinesForReview**
-      - [MASTER_TIMELINE_NoC-NoL](2. The World/Timelines/TimelinesForReview/MASTER_TIMELINE_NoC-NoL.md)
-      - [OBSIDIAN_PC_TIMELINE](2. The World/Timelines/TimelinesForReview/OBSIDIAN_PC_TIMELINE.md)
-      - [OBSIDIAN_VALHYRIA_TIMELINE](2. The World/Timelines/TimelinesForReview/OBSIDIAN_VALHYRIA_TIMELINE.md)
-- 📁 **3. Items**
-  - 📁 **Magic Items**
-    - [Bandle of Light Knicking](3. Items/Magic Items/Bandle of Light Knicking.md)
-    - [Oil of Slipperiness](3. Items/Magic Items/Oil of Slipperiness.md)
-    - [Potential Radiant Magic Items](3. Items/Magic Items/Potential Radiant Magic Items.md)
-    - [The Sword of Silliness](3. Items/Magic Items/The Sword of Silliness.md)
-  - 📁 **Non-Magical Loot Info**
-    - [Scale Mail](3. Items/Non-Magical Loot Info/Scale Mail.md)
-  - 📁 **Story Items**
-    - [Aeris Indagator](3. Items/Story Items/Aeris Indagator.md)
-    - [Amulet of the Ancestors](3. Items/Story Items/Amulet of the Ancestors.md)
-    - [Bandit Maps](3. Items/Story Items/Bandit Maps.md)
-    - [Black Rain Vials](3. Items/Story Items/Black Rain Vials.md)
-    - [Crown of Thundermarch](3. Items/Story Items/Crown of Thundermarch.md)
-    - [Everfrost Pearl](3. Items/Story Items/Everfrost Pearl.md)
-    - [Memoria Receptio](3. Items/Story Items/Memoria Receptio.md)
-    - [Necrolexicon Aeternum](3. Items/Story Items/Necrolexicon Aeternum.md)
-    - [Nota Magicae Ripped Notes](3. Items/Story Items/Nota Magicae Ripped Notes.md)
-    - [Orange-Diamond Tome](3. Items/Story Items/Orange-Diamond Tome.md)
-    - [Quince’s Quencher Ale (Corrupted)](3. Items/Story Items/Quince’s Quencher Ale (Corrupted).md)
-    - [Sally Syndicate Mission Orders](3. Items/Story Items/Sally Syndicate Mission Orders.md)
-    - [The Book of the Skip Ahead](3. Items/Story Items/The Book of the Skip Ahead.md)
-    - [The Kenku Tome of Relics](3. Items/Story Items/The Kenku Tome of Relics.md)
-    - [The Shard](3. Items/Story Items/The Shard.md)
-    - [Thundermarch Pearl](3. Items/Story Items/Thundermarch Pearl.md)
-    - [Tome of Nota Magicae](3. Items/Story Items/Tome of Nota Magicae.md)
-- 📁 **3. Mechanics**
-  - 📁 **Stat Blocks**
-    - 📁 **2025 MM Basics**
-      - 📁 **Bandits**
-        - [Bandit '25](3. Mechanics/Stat Blocks/2025 MM Basics/Bandits/Bandit '25.md)
-        - [Bandit Captain '25](3. Mechanics/Stat Blocks/2025 MM Basics/Bandits/Bandit Captain '25.md)
-      - [Berserker '25](3. Mechanics/Stat Blocks/2025 MM Basics/Berserker '25.md)
-      - 📁 **Cultists**
-        - [Cultist '25](3. Mechanics/Stat Blocks/2025 MM Basics/Cultists/Cultist '25.md)
-        - [Cultist Fanatic '25](3. Mechanics/Stat Blocks/2025 MM Basics/Cultists/Cultist Fanatic '25.md)
-      - 📁 **Guards_Knights**
-        - [Guard '25](3. Mechanics/Stat Blocks/2025 MM Basics/Guards_Knights/Guard '25.md)
-        - [Guard Captain '25](3. Mechanics/Stat Blocks/2025 MM Basics/Guards_Knights/Guard Captain '25.md)
-        - [Knight '25](3. Mechanics/Stat Blocks/2025 MM Basics/Guards_Knights/Knight '25.md)
-      - 📁 **Mages**
-        - [Mage 25'](3. Mechanics/Stat Blocks/2025 MM Basics/Mages/Mage 25'.md)
-        - [Mage Apprentice '25](3. Mechanics/Stat Blocks/2025 MM Basics/Mages/Mage Apprentice '25.md)
-      - 📁 **Priests**
-        - [Priest '25](3. Mechanics/Stat Blocks/2025 MM Basics/Priests/Priest '25.md)
-        - [Priest Acolyte '25](3. Mechanics/Stat Blocks/2025 MM Basics/Priests/Priest Acolyte '25.md)
-      - 📁 **Scout**
-        - [Scout '25](3. Mechanics/Stat Blocks/2025 MM Basics/Scout/Scout '25.md)
-        - [Scout Captain '25](3. Mechanics/Stat Blocks/2025 MM Basics/Scout/Scout Captain '25.md)
-      - [Spy '25](3. Mechanics/Stat Blocks/2025 MM Basics/Spy '25.md)
-      - 📁 **Tough**
-        - [Tough '25](3. Mechanics/Stat Blocks/2025 MM Basics/Tough/Tough '25.md)
-        - [Tough Boss '25](3. Mechanics/Stat Blocks/2025 MM Basics/Tough/Tough Boss '25.md)
-      - 📁 **Warriors**
-        - [Warrior Infantry '25](3. Mechanics/Stat Blocks/2025 MM Basics/Warriors/Warrior Infantry '25.md)
-        - [Warrior Veteran '25](3. Mechanics/Stat Blocks/2025 MM Basics/Warriors/Warrior Veteran '25.md)
-    - [Aarakocra Monk Guard](3. Mechanics/Stat Blocks/Aarakocra Monk Guard.md)
-    - 📁 **Aethercrysts**
-      - [Shardbound Penitent](3. Mechanics/Stat Blocks/Aethercrysts/Shardbound Penitent.md)
-    - 📁 **BearBandits**
-      - [Bear Bandit](3. Mechanics/Stat Blocks/BearBandits/Bear Bandit.md)
-      - [BearBandit Lieutenant](3. Mechanics/Stat Blocks/BearBandits/BearBandit Lieutenant.md)
-      - [Greybear Warlock](3. Mechanics/Stat Blocks/BearBandits/Greybear Warlock.md)
-    - 📁 **Beasts**
-      - [Displacer Beast '25](3. Mechanics/Stat Blocks/Beasts/Displacer Beast '25.md)
-      - [Giant Rat '25](3. Mechanics/Stat Blocks/Beasts/Giant Rat '25.md)
-      - [Hook Horror '25](3. Mechanics/Stat Blocks/Beasts/Hook Horror '25.md)
-      - [Mimic '25](3. Mechanics/Stat Blocks/Beasts/Mimic '25.md)
-      - [Owlbear](3. Mechanics/Stat Blocks/Beasts/Owlbear.md)
-    - [Borun Root_Statblock](3. Mechanics/Stat Blocks/Borun Root_Statblock.md)
-    - [Cuddleclaw](3. Mechanics/Stat Blocks/Cuddleclaw.md)
-    - 📁 **Cult Alts**
-      - [Cult Bards](3. Mechanics/Stat Blocks/Cult Alts/Cult Bards.md)
-      - [Cult Sharks](3. Mechanics/Stat Blocks/Cult Alts/Cult Sharks.md)
-    - [Flatomir Chelf_Statblock](3. Mechanics/Stat Blocks/Flatomir Chelf_Statblock.md)
-    - 📁 **Freaks**
-      - [Farm Freak](3. Mechanics/Stat Blocks/Freaks/Farm Freak.md)
-      - [Freakfish](3. Mechanics/Stat Blocks/Freaks/Freakfish.md)
-      - [Freaktopus](3. Mechanics/Stat Blocks/Freaks/Freaktopus.md)
-    - 📁 **Goblins**
-      - [Goblin Boss '25](3. Mechanics/Stat Blocks/Goblins/Goblin Boss '25.md)
-      - [Goblin Hexer '25](3. Mechanics/Stat Blocks/Goblins/Goblin Hexer '25.md)
-      - [Goblin Minion '25](3. Mechanics/Stat Blocks/Goblins/Goblin Minion '25.md)
-      - [Goblin Warrior '25](3. Mechanics/Stat Blocks/Goblins/Goblin Warrior '25.md)
-    - 📁 **Kaelen Summons**
-      - [Skelly Archer](3. Mechanics/Stat Blocks/Kaelen Summons/Skelly Archer.md)
-      - [Skellyman](3. Mechanics/Stat Blocks/Kaelen Summons/Skellyman.md)
-      - [Tink Skelly](3. Mechanics/Stat Blocks/Kaelen Summons/Tink Skelly.md)
-    - 📁 **Mutants**
-      - [Mutant Goliath](3. Mechanics/Stat Blocks/Mutants/Mutant Goliath.md)
-      - [Mutant Kobold](3. Mechanics/Stat Blocks/Mutants/Mutant Kobold.md)
-      - [Mutant Villager Stats](3. Mechanics/Stat Blocks/Mutants/Mutant Villager Stats.md)
-      - [Mutated Brute Stats](3. Mechanics/Stat Blocks/Mutants/Mutated Brute Stats.md)
-      - [Mutated Enforcer Guardian](3. Mechanics/Stat Blocks/Mutants/Mutated Enforcer Guardian.md)
-      - [Mutated Goblins](3. Mechanics/Stat Blocks/Mutants/Mutated Goblins.md)
-      - [Mutated Guardian Juggernaut](3. Mechanics/Stat Blocks/Mutants/Mutated Guardian Juggernaut.md)
-      - [Mutated Juggernaut Guardian](3. Mechanics/Stat Blocks/Mutants/Mutated Juggernaut Guardian.md)
-      - [Mutated Kuo-toa](3. Mechanics/Stat Blocks/Mutants/Mutated Kuo-toa.md)
-      - [OLD Mutated Guard Guardian](3. Mechanics/Stat Blocks/Mutants/OLD Mutated Guard Guardian.md)
-    - [NPC Spellcaster stats](3. Mechanics/Stat Blocks/NPC Spellcaster stats.md)
-    - 📁 **Orcs**
-      - [Orc 2025 HB](3. Mechanics/Stat Blocks/Orcs/Orc 2025 HB.md)
-      - [Orc Bloodrunner](3. Mechanics/Stat Blocks/Orcs/Orc Bloodrunner.md)
-      - [Orc Raider](3. Mechanics/Stat Blocks/Orcs/Orc Raider.md)
-    - [Petra_Statblock](3. Mechanics/Stat Blocks/Petra_Statblock.md)
-    - [Rastrel Scurry_Statblock](3. Mechanics/Stat Blocks/Rastrel Scurry_Statblock.md)
-    - [Sky Marshal Herrace Heatsink_Statblock](3. Mechanics/Stat Blocks/Sky Marshal Herrace Heatsink_Statblock.md)
-    - [Student Spellcasters](3. Mechanics/Stat Blocks/Student Spellcasters.md)
-    - 📁 **Troll**
-      - [Troll '25](3. Mechanics/Stat Blocks/Troll/Troll '25.md)
-      - [Troll Limb '25](3. Mechanics/Stat Blocks/Troll/Troll Limb '25.md)
-    - [Undead Spirit](3. Mechanics/Stat Blocks/Undead Spirit.md)
-    - [Wererat '25](3. Mechanics/Stat Blocks/Wererat '25.md)
-- 📁 **4. Session Notes**
-  - 📁 **Sessions_only**
-    - [Session 01 Recap - FULL](4. Session Notes/Sessions_only/Session 01 Recap - FULL.md)
-    - [Session 01 Recap - Flashbacks](4. Session Notes/Sessions_only/Session 01 Recap - Flashbacks.md)
-    - [Session 01 Recap - Present](4. Session Notes/Sessions_only/Session 01 Recap - Present.md)
-    - [Session 02 Recap - FULL](4. Session Notes/Sessions_only/Session 02 Recap - FULL.md)
-    - [Session 02 Recap](4. Session Notes/Sessions_only/Session 02 Recap.md)
-    - [Session 03 Recap - FULL](4. Session Notes/Sessions_only/Session 03 Recap - FULL.md)
-    - [Session 03 Recap](4. Session Notes/Sessions_only/Session 03 Recap.md)
-    - [Session 04 Recap - FULL](4. Session Notes/Sessions_only/Session 04 Recap - FULL.md)
-    - [Session 04 Recap](4. Session Notes/Sessions_only/Session 04 Recap.md)
-    - [Session 05 Recap - FULL](4. Session Notes/Sessions_only/Session 05 Recap - FULL.md)
-    - [Session 05 Recap - Flashback](4. Session Notes/Sessions_only/Session 05 Recap - Flashback.md)
-    - [Session 05 Recap - Present](4. Session Notes/Sessions_only/Session 05 Recap - Present.md)
-    - [Session 06 Recap - FULL](4. Session Notes/Sessions_only/Session 06 Recap - FULL.md)
-    - [Session 06 Recap](4. Session Notes/Sessions_only/Session 06 Recap.md)
-    - [Session 07 Recap - FULL](4. Session Notes/Sessions_only/Session 07 Recap - FULL.md)
-    - [Session 07 Recap](4. Session Notes/Sessions_only/Session 07 Recap.md)
-    - [Session 08 Recap - FULL](4. Session Notes/Sessions_only/Session 08 Recap - FULL.md)
-    - [Session 08 Recap](4. Session Notes/Sessions_only/Session 08 Recap.md)
-    - [Session 09 Recap - FULL](4. Session Notes/Sessions_only/Session 09 Recap - FULL.md)
-    - [Session 09 Recap](4. Session Notes/Sessions_only/Session 09 Recap.md)
-    - [Session 10 Recap - FULL](4. Session Notes/Sessions_only/Session 10 Recap - FULL.md)
-    - [Session 11 Recap - FULL](4. Session Notes/Sessions_only/Session 11 Recap - FULL.md)
-    - [Session 13 Recap - FULL](4. Session Notes/Sessions_only/Session 13 Recap - FULL.md)
-    - [Session 14 recap - Full](4. Session Notes/Sessions_only/Session 14 recap - Full.md)
-    - [Session 15 Recap](4. Session Notes/Sessions_only/Session 15 Recap.md)
-    - [Session 16 recap - FULL](4. Session Notes/Sessions_only/Session 16 recap - FULL.md)
-    - [Session 4 Recap – Flashback](4. Session Notes/Sessions_only/Session 4 Recap – Flashback.md)
-    - [session 12 Recap - FULL](4. Session Notes/Sessions_only/session 12 Recap - FULL.md)
-    - [session 17 recap - FULL](4. Session Notes/Sessions_only/session 17 recap - FULL.md)
+<details>
+<summary>📁 <b>1. The Party</b></summary>
+
+  - [[Cryos Frostjaw]]
+  - [[Detective Cole Le Fev]]
+  - [[Gronk Shadowfang]]
+  - [[Kaelen Stormrage]]
+  - [[May Mistbrooke]]
+  - [[Sally the Smasher]]
+  - [[The Gang]]
+</details>
+
+<details>
+<summary>📁 <b>2. The World</b></summary>
+
+  <details>
+  <summary>📁 <b>CLANS</b></summary>
+
+    - [[Aarakocra]]
+    - [[Aethercrysts]]
+    - [[Bandits of Ashdawn]]
+    - [[Golden Guards of Eryndor]]
+    - [[Kenku]]
+    - [[Kodan]]
+    - [[Kua-Toa]]
+    - [[Maesters in the citadel]]
+    - [[Mallardfolk]]
+    - [[Midnight Paladins]]
+    - [[Monk-Detectives of Aeryndor]]
+    - [[Owlin]]
+    - [[Penguinfolk]]
+    - [[Sally Syndicate]]
+    - [[Student Cult Members]]
+    - [[Tabaxi Assassins]]
+    - [[The Consecrators]]
+    - [[The Cult Of The Bard]]
+    - [[The Cult Of The Longest Cloak]]
+    - [[The Cult Of The Shark]]
+    - [[The High Council of Eryndor]]
+    - [[The Highest Elves]]
+    - [[The Merchant's Guild]]
+    - [[The Nyvaldran Agglomerate]]
+    - [[The Rebels]]
+    - [[The Reclaimers]]
+    - [[The Retributors]]
+  </details>
+
+  <details>
+  <summary>📁 <b>Locations</b></summary>
+
+    <details>
+    <summary>📁 <b>Central</b></summary>
+
+      <details>
+      <summary>📁 <b>Eryndor</b></summary>
+
+        - [[1. Eryndor]]
+        - [[Drake's BeerLand]]
+        - [[Shardhold Citadel]]
+      </details>
+
+      - [[Fort NatureGuard]]
+      - [[Glenvaris]]
+      - [[Mirelift]]
+      <details>
+      <summary>📁 <b>Nyserith</b></summary>
+
+        - [[1. Nyserith]]
+        - [[Challenge Room]]
+        - [[Magic Storeroom]]
+      </details>
+
+      - [[Pinetide]]
+    </details>
+
+    <details>
+    <summary>📁 <b>East</b></summary>
+
+      - [[Faldwyn]]
+      - [[Sarthmoor]]
+      - [[Traminer Isle]]
+    </details>
+
+    <details>
+    <summary>📁 <b>North</b></summary>
+
+      - [[Skaldgrym]]
+      - [[Taurakhan]]
+    </details>
+
+    <details>
+    <summary>📁 <b>North East</b></summary>
+
+      - [[Aeryndor]]
+      - [[Wrethwood]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Region Unknown</b></summary>
+
+      - [[Sally Sanctum]]
+    </details>
+
+    <details>
+    <summary>📁 <b>South</b></summary>
+
+      <details>
+      <summary>📁 <b>Elven Lands</b></summary>
+
+        - [[Arlewyn]]
+        - [[Runehell Lumbermill]]
+        - [[Rylvarn Forest]]
+        - [[Rylvarn]]
+        - [[Sylvarael]]
+      </details>
+
+      - [[Everviewed]]
+      - [[Highwatch]]
+      - [[Nerton]]
+      - [[Nyvaldra]]
+    </details>
+
+    <details>
+    <summary>📁 <b>South West</b></summary>
+
+      <details>
+      <summary>📁 <b>Ashdawn</b></summary>
+
+        - [[Ashdawn]]
+        - [[Crooked Tusk Tavern]]
+        - [[Dampiner Forest]]
+      </details>
+
+      - [[Camp Bearblood]]
+      <details>
+      <summary>📁 <b>Drippledown</b></summary>
+
+        - [[1. Drippledown]]
+        - [[Dried Fish]]
+      </details>
+
+      - [[Mistthrow]]
+      - [[Thundermarch]]
+    </details>
+
+    - [[Valhyria]]
+    <details>
+    <summary>📁 <b>West</b></summary>
+
+      - [[Drassith Cairn]]
+      - [[Urdakar]]
+      - [[Wyrmshatter]]
+    </details>
+
+  </details>
+
+  <details>
+  <summary>📁 <b>Misc Lore</b></summary>
+
+    <details>
+    <summary>📁 <b>Happenings</b></summary>
+
+      - [[Highwatch Train VIP Meeting]]
+      - [[Nerton Incident]]
+      - [[The Train Incident]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Hierarchy</b></summary>
+
+      - [[Aethercryst Hierarchy]]
+      - [[Golden Guards Hierarchy]]
+      - [[Monk-Detectives Hierarchy]]
+      - [[Sally Hierarchy]]
+      - [[The Apotheosis of Aeryndor]]
+      - [[The King of Skaldgrym]]
+      - [[Witch Hierarchy]]
+    </details>
+
+    <details>
+    <summary>📁 <b>History</b></summary>
+
+      - [[Age of Thankfulness]]
+      - [[Age of the First Greed]]
+      - [[Age of the Wing]]
+      - [[The Great Wipe]]
+      - [[The Greatest Sacrifice]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Intel</b></summary>
+
+      - [[Black Rain Mutation]]
+      - [[Greybear Trajectory]]
+      - [[Orc Bandit Trajectory]]
+      - [[Project Divinatus Revivica]]
+      - [[Project Keen-Eye]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Things</b></summary>
+
+      - [[Black Rain]]
+      - [[Sally Speak]]
+      - [[Stationeer]]
+      - [[The Accords]]
+      - [[The Core Tree]]
+      - [[The Mural of the Graph]]
+    </details>
+
+  </details>
+
+  <details>
+  <summary>📁 <b>NPCs</b></summary>
+
+    <details>
+    <summary>📁 <b>Aethercrysts</b></summary>
+
+      - [[Archbishop Alric Fenrik]]
+      - [[Archduke Terranus Listler]]
+      - [[Bishop O'Shaun Anklecrest]]
+      - [[Duke Vizier Aldren Thorne]]
+      - [[Duke Vizier Wystan Everbell]]
+      - [[Maester Isen Kestrel]]
+      - [[The God King]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Ashdawn</b></summary>
+
+      - [[Barret Tilden]]
+      - [[Edmund Stief]]
+      - [[Eyeches Writhal]]
+      - [[Maeve Tilden]]
+      - [[Mayor Grubwink Snaggletooth]]
+      - [[Virka Snapgut]]
+    </details>
+
+    <details>
+    <summary>📁 <b>BBEG</b></summary>
+
+      - [[Dragon-Aura-Faced Man]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Bearbandits</b></summary>
+
+      - [[Biteclaw]]
+      - [[Falrus]]
+      - [[Gundrik Ashclaw]]
+    </details>
+
+    - [[Brother Halem]]
+    - [[Brother Halem_U1]]
+    <details>
+    <summary>📁 <b>Elves</b></summary>
+
+      - [[Queen Riniya Xilxidor]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Eryndor Based</b></summary>
+
+      - [[Paphanael Stomp]]
+      - [[Rastrel Scurry]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Highwatch</b></summary>
+
+      - [[Caldus Quince]]
+      - [[Highwatch Train Driver]]
+      - [[Peldo Satch]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Hush Hour Duo</b></summary>
+
+      - [[Borun Root]]
+      - [[Flatomir Chelf]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Kuatoa</b></summary>
+
+      - [[Sheosh]]
+      - [[Shisha]]
+      - [[Shoawan]]
+      - [[Shola]]
+      - [[Shorsh]]
+      - [[Shyle]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Mercenaries</b></summary>
+
+      - [[Chains]]
+      - [[Fior]]
+      - [[Johnny Smallerm]]
+      - [[Myranda]]
+      - [[Ol Derek Yeller]]
+      - [[Sally the Sellout]]
+      - [[Silch]]
+      - [[Sir Fradd]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Monk Detectives</b></summary>
+
+      - [[Captain Verrik]]
+      - [[Click Whisperbeak]]
+      - [[Cloud Monk Arvid Browbinder]]
+      - [[Darvok Duskrunner]]
+      - [[Drekka Rukk]]
+      - [[GrandWuseng-Cosmonk Tasheak MountainFeather]]
+      - [[Sky Marshal Herrace Heatsink]]
+      - [[Tekka Glyde-Eye]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Not RN</b></summary>
+
+      - [[Dun Chunkin]]
+      - [[Dun Chunkin_U1]]
+      - [[Molus Mouthbreaker]]
+      - [[Molus Mouthbreaker_U1]]
+      - [[Selwyn Thornbrook]]
+      - [[Selwyn Thornbrook_U1]]
+      - [[johnclaw]]
+      - [[johnclaw_U1]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Nyserith</b></summary>
+
+      <details>
+      <summary>📁 <b>COTLC Members</b></summary>
+
+        - [[Alistair Mccant]]
+        - [[Darkle Charkle]]
+        - [[Gungus Bungus]]
+        - [[Lester Saffron]]
+        - [[Moris Boris]]
+        - [[Sylak AppleTree]]
+        - [[Twiggy Marshdust]]
+        - [[Wrench Bot 4000]]
+      </details>
+
+      - [[Galahad Guzzletome]]
+      - [[Orvus Fillorvus]]
+      <details>
+      <summary>📁 <b>Other Heads of Houses</b></summary>
+
+        - [[Father O'Shaun Anklecrest]]
+        - [[Gopher Drenk]]
+        - [[Helix Zipper]]
+        - [[Oinx Spellwhisp]]
+        - [[Quentina Callum]]
+        - [[Rengar Fizzwhistle]]
+      </details>
+
+      <details>
+      <summary>📁 <b>Stationeers</b></summary>
+
+        - [[Aaron Balfurs]]
+        - [[Lerance Sootfeather]]
+        - [[Michonne Flessle]]
+      </details>
+
+    </details>
+
+    <details>
+    <summary>📁 <b>Nyvaldra</b></summary>
+
+      - [[Bralgor Frostjaw]]
+      - [[King Osvrik]]
+      - [[Rurik FrostJaw]]
+      - [[Sivara Frostjaw]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Off The Beaten Path</b></summary>
+
+      - [[Hermitage Traminer]]
+      - [[Hiram Hobb]]
+      - [[Paladin Jayce]]
+      <details>
+      <summary>📁 <b>Runehells</b></summary>
+
+        - [[Garus Runehell]]
+        - [[Mizzelda Runehell]]
+      </details>
+
+      - [[Tiffle Tattle]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Sallies</b></summary>
+
+      - [[Sally The Sovereign]]
+      - [[Sally The Supreme]]
+      - [[Sally the Signaller]]
+      - [[Sally the Sniper]]
+      - [[Sally the Soldier]]
+      - [[Sally the Speaker]]
+      - [[Sally the Stabber]]
+      - [[Sally the Still]]
+      - [[Sally the Strategist]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Shadowfangs</b></summary>
+
+      - [[Botswana]]
+      - [[Gor’ulthrak Umbrazhul]]
+      - [[Grivella Shadowfang]]
+      - [[Grotch Shadowfang]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Skaldgrym</b></summary>
+
+      - [[Emithirch Trask]]
+      <details>
+      <summary>📁 <b>Royal Family</b></summary>
+
+        - [[Brynnor Stormpeak]]
+        - [[King Donan Stormpeak]]
+        - [[King Pyros Stormpeak]]
+        - [[Kronar Stormrage]]
+        <details>
+        <summary>📁 <b>Stormpeaks</b></summary>
+
+          - [[Brynnor Stormpeak]]
+          - [[Brynnor Stormpeak_U1]]
+          - [[King Donan Stormpeak]]
+          - [[King Donan Stormpeak_U1]]
+          - [[King Pyros Stormpeak]]
+          - [[King Pyros Stormpeak_U1]]
+        </details>
+
+      </details>
+
+      <details>
+      <summary>📁 <b>Stonefists</b></summary>
+
+        - [[Grathor Stonefist]]
+        - [[Kyrra Stonefist]]
+        - [[Thalara Stonefist]]
+      </details>
+
+    </details>
+
+    <details>
+    <summary>📁 <b>The Groupies</b></summary>
+
+      - [[BarterBot 5000]]
+      - [[Jeremy]]
+      - [[Leif LúmëLóke]]
+      - [[Little Shitty]]
+      - [[Petra]]
+      - [[Shorun Forsh]]
+      - [[Turbo]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Thundermarch</b></summary>
+
+      - [[Crab Familiar]]
+      - [[Helga Brightrun]]
+      - [[King Selos SkySplitter]]
+      <details>
+      <summary>📁 <b>Merchants</b></summary>
+
+        - [[Gorruk Anvilborn]]
+        - [[Grindle Barrelbane]]
+        - [[Jonas Blackmere]]
+        - [[Yibba Fizzwhistle]]
+      </details>
+
+      - [[Prince Sier SkySplitter]]
+      - [[Stebonheath]]
+    </details>
+
+  </details>
+
+  <details>
+  <summary>📁 <b>Timelines</b></summary>
+
+    <details>
+    <summary>📁 <b>Campaign Timeline</b></summary>
+
+      - [[MASTER_TIMELINE_NoC-NoL]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Pre-Campaign Timeline</b></summary>
+
+      - [[Pre-Campaign PC Timeline_v1]]
+      - [[Pre-Campaign Valhyria Timeline_v1]]
+    </details>
+
+  </details>
+
+</details>
+
+<details>
+<summary>📁 <b>3. Items</b></summary>
+
+  <details>
+  <summary>📁 <b>Magic Items</b></summary>
+
+    - [[Bandle of Light Knicking]]
+    - [[Oil of Slipperiness]]
+    - [[Potential Radiant Magic Items]]
+    - [[The Sword of Silliness]]
+  </details>
+
+  <details>
+  <summary>📁 <b>Non-Magical Loot Info</b></summary>
+
+    - [[Scale Mail]]
+  </details>
+
+  <details>
+  <summary>📁 <b>Story Items</b></summary>
+
+    - [[Aeris Indagator]]
+    - [[Amulet of the Ancestors]]
+    - [[Bandit Maps]]
+    - [[Black Rain Vials]]
+    - [[Crown of Thundermarch]]
+    - [[Everfrost Pearl]]
+    - [[Memoria Receptio]]
+    - [[Necrolexicon Aeternum]]
+    - [[Nota Magicae Ripped Notes]]
+    - [[Orange-Diamond Tome]]
+    - [[Quince’s Quencher Ale (Corrupted)]]
+    - [[Sally Syndicate Mission Orders]]
+    - [[The Book of the Skip Ahead]]
+    - [[The Kenku Tome of Relics]]
+    - [[The Shard]]
+    - [[Thundermarch Pearl]]
+    - [[Tome of Nota Magicae]]
+  </details>
+
+</details>
+
+<details>
+<summary>📁 <b>3. Mechanics</b></summary>
+
+  <details>
+  <summary>📁 <b>Stat Blocks</b></summary>
+
+    <details>
+    <summary>📁 <b>2025 MM Basics</b></summary>
+
+      <details>
+      <summary>📁 <b>Bandits</b></summary>
+
+        - [[Bandit '25]]
+        - [[Bandit Captain '25]]
+      </details>
+
+      - [[Berserker '25]]
+      <details>
+      <summary>📁 <b>Cultists</b></summary>
+
+        - [[Cultist '25]]
+        - [[Cultist Fanatic '25]]
+      </details>
+
+      <details>
+      <summary>📁 <b>Guards_Knights</b></summary>
+
+        - [[Guard '25]]
+        - [[Guard Captain '25]]
+        - [[Knight '25]]
+      </details>
+
+      <details>
+      <summary>📁 <b>Mages</b></summary>
+
+        - [[Mage 25']]
+        - [[Mage Apprentice '25]]
+      </details>
+
+      <details>
+      <summary>📁 <b>Priests</b></summary>
+
+        - [[Priest '25]]
+        - [[Priest Acolyte '25]]
+      </details>
+
+      <details>
+      <summary>📁 <b>Scout</b></summary>
+
+        - [[Scout '25]]
+        - [[Scout Captain '25]]
+      </details>
+
+      - [[Spy '25]]
+      <details>
+      <summary>📁 <b>Tough</b></summary>
+
+        - [[Tough '25]]
+        - [[Tough Boss '25]]
+      </details>
+
+      <details>
+      <summary>📁 <b>Warriors</b></summary>
+
+        - [[Warrior Infantry '25]]
+        - [[Warrior Veteran '25]]
+      </details>
+
+    </details>
+
+    - [[Aarakocra Monk Guard]]
+    <details>
+    <summary>📁 <b>Aethercrysts</b></summary>
+
+      - [[Shardbound Penitent]]
+    </details>
+
+    <details>
+    <summary>📁 <b>BearBandits</b></summary>
+
+      - [[Bear Bandit]]
+      - [[BearBandit Lieutenant]]
+      - [[Greybear Warlock]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Beasts</b></summary>
+
+      - [[Displacer Beast '25]]
+      - [[Giant Rat '25]]
+      - [[Hook Horror '25]]
+      - [[Mimic '25]]
+      - [[Owlbear]]
+    </details>
+
+    - [[Borun Root_Statblock]]
+    - [[Cuddleclaw]]
+    <details>
+    <summary>📁 <b>Cult Alts</b></summary>
+
+      - [[Cult Bards]]
+      - [[Cult Sharks]]
+    </details>
+
+    - [[Flatomir Chelf_Statblock]]
+    <details>
+    <summary>📁 <b>Freaks</b></summary>
+
+      - [[Farm Freak]]
+      - [[Freakfish]]
+      - [[Freaktopus]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Goblins</b></summary>
+
+      - [[Goblin Boss '25]]
+      - [[Goblin Hexer '25]]
+      - [[Goblin Minion '25]]
+      - [[Goblin Warrior '25]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Kaelen Summons</b></summary>
+
+      - [[Skelly Archer]]
+      - [[Skellyman]]
+      - [[Tink Skelly]]
+    </details>
+
+    <details>
+    <summary>📁 <b>Mutants</b></summary>
+
+      - [[Mutant Goliath]]
+      - [[Mutant Kobold]]
+      - [[Mutant Villager Stats]]
+      - [[Mutated Brute Stats]]
+      - [[Mutated Enforcer Guardian]]
+      - [[Mutated Goblins]]
+      - [[Mutated Guardian Juggernaut]]
+      - [[Mutated Juggernaut Guardian]]
+      - [[Mutated Kuo-toa]]
+      - [[OLD Mutated Guard Guardian]]
+    </details>
+
+    - [[NPC Spellcaster stats]]
+    <details>
+    <summary>📁 <b>Orcs</b></summary>
+
+      - [[Orc 2025 HB]]
+      - [[Orc Bloodrunner]]
+      - [[Orc Raider]]
+    </details>
+
+    - [[Petra_Statblock]]
+    - [[Rastrel Scurry_Statblock]]
+    - [[Sky Marshal Herrace Heatsink_Statblock]]
+    - [[Student Spellcasters]]
+    <details>
+    <summary>📁 <b>Troll</b></summary>
+
+      - [[Troll '25]]
+      - [[Troll Limb '25]]
+    </details>
+
+    - [[Undead Spirit]]
+    - [[Wererat '25]]
+  </details>
+
+</details>
+
+<details>
+<summary>📁 <b>4. Session Notes</b></summary>
+
+  <details>
+  <summary>📁 <b>Sessions_only</b></summary>
+
+    - [[Session 01 Recap - FULL]]
+    - [[Session 01 Recap - Flashbacks]]
+    - [[Session 01 Recap - Present]]
+    - [[Session 02 Recap - FULL]]
+    - [[Session 02 Recap]]
+    - [[Session 03 Recap - FULL]]
+    - [[Session 03 Recap]]
+    - [[Session 04 Recap - FULL]]
+    - [[Session 04 Recap]]
+    - [[Session 05 Recap - FULL]]
+    - [[Session 05 Recap - Flashback]]
+    - [[Session 05 Recap - Present]]
+    - [[Session 06 Recap - FULL]]
+    - [[Session 06 Recap]]
+    - [[Session 07 Recap - FULL]]
+    - [[Session 07 Recap]]
+    - [[Session 08 Recap - FULL]]
+    - [[Session 08 Recap]]
+    - [[Session 09 Recap - FULL]]
+    - [[Session 09 Recap]]
+    - [[Session 10 Recap - FULL]]
+    - [[Session 11 Recap - FULL]]
+    - [[Session 13 Recap - FULL]]
+    - [[Session 14 recap - Full]]
+    - [[Session 15 Recap]]
+    - [[Session 16 recap - FULL]]
+    - [[Session 4 Recap – Flashback]]
+    - [[session 12 Recap - FULL]]
+    - [[session 17 recap - FULL]]
+  </details>
+
+</details>

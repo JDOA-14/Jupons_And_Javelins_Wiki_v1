@@ -1,16 +1,7 @@
 ---
-type: location
-name: Thundermarch
-location-type: Large Town
-region: South West
-population: "4000"
-majority-race: unknown
-controlled-by: King Selos Skysplitter
-active-factions: unknown
-tags:
-  - location
 aliases:
 ---
+
 # Thundermarch
 
 Thundermarch is a city that has been struck by the [[Black Rain]]. Scientists are studying the rain. The city is understaffed, leading to a need for help with bounties. A local farm north of the city was raided by two Orc brothers and their worgs. The [[Black Rain]] has appeared at sites of stolen magical items and is moving from the north of Thundermarch toward [[Ashdawn]].

@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Sally the Sellout
-race: Sally
-class: Ranger / Rogue
-title:
-current-faction: Mercenary
-Base-of-operations: unknown
-status: alive
-last-seen: unknown
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Sally the Sellout`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Sally the Sellout`
 > 
 > **Race**
-> `=this.race`
+> `Sally`
 > 
 > **Class**
-> `=this.class`
+> `Ranger / Rogue`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Mercenary`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Hermitage Traminer
-race: unknown
-class: Wizard
-title: The Banished One
-current-faction: unknown
-Base-of-operations: Traminer Isle
-status: assumed dead
-last-seen: Traminer Isle
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Hermitage Traminer`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Hermitage Traminer`
 > 
 > **Race**
-> `=this.race`
+> `unknown`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> `The Banished One`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Traminer Isle`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `assumed dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Traminer Isle`
 
 > *"Insert a memorable quote by or about the character here."*
 

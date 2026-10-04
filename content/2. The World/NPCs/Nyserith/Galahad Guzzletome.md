@@ -1,53 +1,41 @@
 ---
-type: npc
-name: Galahad Guzzletome
-race: Half Human / Half Half-Aarakocra
-class: Wizard
-title: Headmaster of Nyserith
-current-faction: Wizards of Nyserith
-Base-of-operations: Nyserith
-status: Unknown
-last-seen: Flying towards the sun
-tags:
-  - npc
 aliases:
-  - Headmaster Guzzletome
-  - Headmaster Galahad
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Galahad Guzzletome`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Galahad Guzzletome`
 > 
 > **Race**
-> `=this.race`
+> `Half Human / Half Half-Aarakocra`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Wizards of Nyserith`
 > 
 > **Title/s**
-> `=this.title`
+> `Headmaster of Nyserith`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Unknown`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Flying towards the sun`
 
 > *"Insert a memorable quote by or about the character here."*
 

@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Garus Runehell
-race: Elf
-class: Villager
-title:
-current-faction: unknown
-Base-of-operations: Runehell Lumbermill
-status: Dead
-last-seen: Runehell Lumbermill
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Garus Runehell`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Garus Runehell`
 > 
 > **Race**
-> `=this.race`
+> `Elf`
 > 
 > **Class**
-> `=this.class`
+> `Villager`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Runehell Lumbermill`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Runehell Lumbermill`
 
 > *"Insert a memorable quote by or about the character here."*
 

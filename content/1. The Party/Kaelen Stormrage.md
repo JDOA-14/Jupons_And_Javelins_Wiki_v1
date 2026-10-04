@@ -1,11 +1,7 @@
 ---
 aliases:
-  - Kaelen
-ac: "12"
-hp: 33
-level: 5
-modifier: 1
 ---
+
 
 
 

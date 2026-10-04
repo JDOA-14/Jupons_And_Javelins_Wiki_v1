@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Gungus Bungus
-race: Human
-class: Wizard
-title: Student
-current-faction: Cult of the Longest Cloak
-Base-of-operations: Nyserith
-status: alive
-last-seen: Nyserith
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Gungus Bungus`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Gungus Bungus`
 > 
 > **Race**
-> `=this.race`
+> `Human`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Cult of the Longest Cloak`
 > 
 > **Title/s**
-> `=this.title`
+> `Student`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Nyserith`
 
 > *"Insert a memorable quote by or about the character here."*
 

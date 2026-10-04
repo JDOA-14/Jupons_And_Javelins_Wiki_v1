@@ -1,20 +1,7 @@
 ---
-type: item
-name: The Book of the Skip Ahead
-item-type: Tome
-rarity: Rare
-story-item: true
-current-owner: The Gang
-previous-owners: unknown
-current-location: With The Gang
-status: Looted
-status-where: Nyserith
-status-who: The Gang
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 A book summoned by wizards of Nyserith to help cheat in their studies.
 
 This book helps give low-level knowledge to students and is said to be a myth. 

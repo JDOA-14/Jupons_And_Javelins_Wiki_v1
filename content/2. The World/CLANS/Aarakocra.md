@@ -1,19 +1,7 @@
 ---
-type: faction
-name: Aarakocra
-faction-type: race
-active-in: All Valhyria
-majority-race: Aarakocra
-leader: GrandWuseng-Cosmonk Tasheak MountainFeather
-headquarters: Aeryndor
-status: Active
-tags:
-  - faction
 aliases:
-  - Aaracocra
-  - arakocra
-  - aarakokra
 ---
+
 # Aarakocra  
 
 **Type:** Race / Avian Humanoids  

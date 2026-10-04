@@ -1,21 +1,7 @@
 ---
-type: item
-name: Memoria Receptio
-item-type: Device
-rarity: Artifact
-story-item: true
-current-owner: Galahad Guzzletome
-previous-owners: Nyserith Headmasters
-current-location: Drakes Beerland
-status: Looted
-status-where: Nyserith
-status-who: Galahad Guzzletome
-tags:
-  - magic-item
-  - story-item
 aliases:
-  - The Memoria Receptio
 ---
+
 
 
 Device located in [[Nyserith]] that records magic levels of Valhyria through time periods.

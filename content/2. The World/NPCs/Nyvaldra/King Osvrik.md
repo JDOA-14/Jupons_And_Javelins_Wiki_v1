@@ -1,51 +1,41 @@
 ---
-type: npc
-name: King Osvrik
-race: Kodan
-class: sorcerer
-title: King of Nyvaldra
-current-faction: The Nation of Nyvaldra
-Base-of-operations: Nyvaldra
-status: alive
-last-seen: Nyvaldra
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `King Osvrik`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `King Osvrik`
 > 
 > **Race**
-> `=this.race`
+> `Kodan`
 > 
 > **Class**
-> `=this.class`
+> `sorcerer`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Nation of Nyvaldra`
 > 
 > **Title/s**
-> `=this.title`
+> `King of Nyvaldra`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyvaldra`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Nyvaldra`
 
 > *"Insert a memorable quote by or about the character here."*
 

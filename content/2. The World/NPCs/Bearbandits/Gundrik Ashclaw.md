@@ -1,50 +1,39 @@
 ---
-type: npc
-name: Gundrik Ashclaw
-race: Greybear
-class: Barbarian
-title: Greybear Leader
-current-faction: Bearbandits
-Base-of-operations: unknown
-status: Gently Reposing
-last-seen: Runehell Lumbermill
-statblock: inline
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Gundrik Ashclaw`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Gundrik Ashclaw`
 > 
 > **Race**
-> `=this.race`
+> `Greybear`
 > 
 > **Class**
-> `=this.class`
+> `Barbarian`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Bearbandits`
 > 
 > **Title/s**
-> `=this.title`
+> `Greybear Leader`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Gently Reposing`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Runehell Lumbermill`
 
 > *"Insert a memorable quote by or about the character here."*
 

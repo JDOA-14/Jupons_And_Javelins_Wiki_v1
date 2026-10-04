@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Queen Riniya Xilxidor
-race: High Elf
-class: Ranger / Bard
-title: Queen of the Elves
-current-faction: The Highest Elves
-Base-of-operations: Sylvarael
-status: unknown
-last-seen: unknown
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Queen Riniya Xilxidor`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Queen Riniya Xilxidor`
 > 
 > **Race**
-> `=this.race`
+> `High Elf`
 > 
 > **Class**
-> `=this.class`
+> `Ranger / Bard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Highest Elves`
 > 
 > **Title/s**
-> `=this.title`
+> `Queen of the Elves`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Sylvarael`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `unknown`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Fetch my crown."*
 

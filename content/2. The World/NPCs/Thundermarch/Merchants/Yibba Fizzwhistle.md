@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Yibba Fizzwhistle
-race: Goblin
-class: Merchant
-title: Alchemist
-current-faction: unknown
-Base-of-operations: Thundermarch
-status: alive
-last-seen: Thundermarch
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Yibba Fizzwhistle`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Yibba Fizzwhistle`
 > 
 > **Race**
-> `=this.race`
+> `Goblin`
 > 
 > **Class**
-> `=this.class`
+> `Merchant`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> `Alchemist`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Thundermarch`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Thundermarch`
 
 > *"Insert a memorable quote by or about the character here."*
 

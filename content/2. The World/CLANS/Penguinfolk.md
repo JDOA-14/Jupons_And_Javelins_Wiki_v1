@@ -1,17 +1,7 @@
 ---
-type: faction
-name: Penguinfolk
-faction-type: race
-active-in: All Valhyria
-majority-race: Penguinfolk
-leader: unknown
-headquarters: Nyvaldra
-status: Active
-tags:
-  - faction
-  - race
 aliases:
 ---
+
 # Penguinfolk
 
 ## Known Information

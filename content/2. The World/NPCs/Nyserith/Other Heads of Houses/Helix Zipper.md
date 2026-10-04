@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Helix Zipper
-race: Human
-class: Wizard
-title: Head of Conjuration
-current-faction: Wizards of Nyserith
-Base-of-operations: Nyserith
-status: alive
-last-seen: unknown
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Helix Zipper`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Helix Zipper`
 > 
 > **Race**
-> `=this.race`
+> `Human`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Wizards of Nyserith`
 > 
 > **Title/s**
-> `=this.title`
+> `Head of Conjuration`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

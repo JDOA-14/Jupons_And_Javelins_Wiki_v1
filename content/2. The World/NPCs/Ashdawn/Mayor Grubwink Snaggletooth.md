@@ -1,49 +1,39 @@
 ---
-type: npc
-name: Mayor Grubwink Snaggletooth
-race: Goblin
-class: Villager
-title: Mayor of Ashdawn
-current-faction: unknown
-Base-of-operations: Ashdawn
-status: Unknown
-last-seen: Ashdawn
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Mayor Grubwink Snaggletooth`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Mayor Grubwink Snaggletooth`
 > 
 > **Race**
-> `=this.race`
+> `Goblin`
 > 
 > **Class**
-> `=this.class`
+> `Villager`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> `Mayor of Ashdawn`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Ashdawn`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Unknown`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Ashdawn`
 
 > *"I'm the Mayor, and no, I won't build more protection from rain -- why's that?." - Mayor Grubwink Snaggletooth, 2 weeks before [[Black Rain]] Incident in [[Ashdawn]]*
 

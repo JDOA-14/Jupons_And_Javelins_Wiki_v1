@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Lerance Sootfeather
-race: Aarakocra
-class: Monk
-title:
-current-faction: Monk-Detectives of Aeryndor
-Base-of-operations: Nyserith
-status: alive
-last-seen: Nyserith
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Lerance Sootfeather`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Lerance Sootfeather`
 > 
 > **Race**
-> `=this.race`
+> `Aarakocra`
 > 
 > **Class**
-> `=this.class`
+> `Monk`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Monk-Detectives of Aeryndor`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Nyserith`
 
 > *"Insert a memorable quote by or about the character here."*
 

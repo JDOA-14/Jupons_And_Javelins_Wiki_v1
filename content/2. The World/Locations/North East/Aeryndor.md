@@ -1,16 +1,7 @@
 ---
-type: location
-name: Aeryndor
-location-type: Small City
-region: North East
-population: "5200"
-majority-race: Aarakocra
-controlled-by: GrandWuseng-Cosmonk Tasheak MountainFeather
-active-factions: unknown
-tags:
-  - location
 aliases:
 ---
+
 ## Aeryndor & the Monastic Schism
 During **The [[Age of the Wing]]**, an [[Aarakocra]] monk rejected [[1. Eryndor]]’s aggressive, conquest-driven ideology.
 

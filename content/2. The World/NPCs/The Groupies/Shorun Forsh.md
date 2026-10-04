@@ -1,54 +1,41 @@
 ---
-type: npc
-name: Shorun Forsh
-race: Human / Kua-Toa
-class: Paladin
-title: Bishop Brigadier
-current-faction: The Gang
-Base-of-operations: Pinetide
-status: alive
-last-seen: Runehell Lumbermill
-tags:
-  - npc
 aliases:
-  - Paladin Shorun Forsh
-  - Paladin Shorun
-  - Paladin Forsh
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Shorun Forsh`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Shorun Forsh`
 > 
 > **Race**
-> `=this.race`
+> `Human / Kua-Toa`
 > 
 > **Class**
-> `=this.class`
+> `Paladin`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Gang`
 > 
 > **Title/s**
-> `=this.title`
+> `Bishop Brigadier`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Pinetide`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Runehell Lumbermill`
 
 > *"Insert a memorable quote by or about the character here."*
 

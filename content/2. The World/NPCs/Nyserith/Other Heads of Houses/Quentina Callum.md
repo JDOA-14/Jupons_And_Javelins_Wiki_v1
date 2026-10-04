@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Quentina Callum
-race: Half Orc
-class: Wizard
-title: Head of Abjuration
-current-faction: Wizards of Nyserith
-Base-of-operations: Nyserith
-status: alive
-last-seen: unknown
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Quentina Callum`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Quentina Callum`
 > 
 > **Race**
-> `=this.race`
+> `Half Orc`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Wizards of Nyserith`
 > 
 > **Title/s**
-> `=this.title`
+> `Head of Abjuration`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

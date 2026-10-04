@@ -1,16 +1,7 @@
 ---
-type: lore
-name: Sally Hierarchy
-  - 
-lore-type: Hierarchy
-PC-know-of: true
-fully-PC-known: false
-pre-campaign: false
-tags:
-  - lore
 aliases:
-  -
 ---
+
 ## Militants
 
 - [[Sally the Stabber]] (from [[Sally Syndicate]]'s Flashback)

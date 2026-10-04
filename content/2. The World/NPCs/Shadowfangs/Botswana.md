@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Botswana
-race: Undead / Llamafolk
-class: Bard / Fighter / Warlock
-title: First Umbrazhul Squire
-current-faction: The Umbrazhul Line
-Base-of-operations: unknown
-status: unknown
-last-seen: Ancestral Time Portal
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Botswana`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Botswana`
 > 
 > **Race**
-> `=this.race`
+> `Undead / Llamafolk`
 > 
 > **Class**
-> `=this.class`
+> `Bard / Fighter / Warlock`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Umbrazhul Line`
 > 
 > **Title/s**
-> `=this.title`
+> `First Umbrazhul Squire`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `unknown`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Ancestral Time Portal`
 
 > *"Insert a memorable quote by or about the character here."*
 

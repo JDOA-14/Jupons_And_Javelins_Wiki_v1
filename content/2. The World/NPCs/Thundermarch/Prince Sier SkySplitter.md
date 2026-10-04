@@ -1,53 +1,41 @@
 ---
-type: npc
-name: Prince Sier SkySplitter
-race: Thunder and Lighting Genasi / Human
-class: Sorcerer
-title: Prince of Thundermarch
-current-faction: Thundermarch
-Base-of-operations: Thundermarch
-status: alive
-last-seen: Thundermarch
-tags:
-  - npc
 aliases:
-  - Prince SkySplitter
-  - Sier SkySplitter
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Prince Sier SkySplitter`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Prince Sier SkySplitter`
 > 
 > **Race**
-> `=this.race`
+> `Thunder and Lighting Genasi / Human`
 > 
 > **Class**
-> `=this.class`
+> `Sorcerer`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Thundermarch`
 > 
 > **Title/s**
-> `=this.title`
+> `Prince of Thundermarch`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Thundermarch`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Thundermarch`
 
 > *"Insert a memorable quote by or about the character here."*
 

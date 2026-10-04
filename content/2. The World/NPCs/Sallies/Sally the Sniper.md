@@ -1,53 +1,41 @@
 ---
-type: npc
-name: Sally the Sniper
-race: Sally
-class: Sally
-title: Sally The Sniper
-current-faction: The Sallies
-Base-of-operations: unknown
-status: alive
-last-seen: Highwatch
-tags:
-  - npc
 aliases:
-  - Helga Brightrun
-  - Helga
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Sally the Sniper`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Sally the Sniper`
 > 
 > **Race**
-> `=this.race`
+> `Sally`
 > 
 > **Class**
-> `=this.class`
+> `Sally`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Sallies`
 > 
 > **Title/s**
-> `=this.title`
+> `Sally The Sniper`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Highwatch`
 
 > *"Insert a memorable quote by or about the character here."*
 

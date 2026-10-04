@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Caldus Quince
-race: Half-Elf
-class: Villager
-title: Mayor of Highwatch
-current-faction: unknown
-Base-of-operations: Highwatch
-status: alive
-last-seen: Highwatch
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Caldus Quince`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Caldus Quince`
 > 
 > **Race**
-> `=this.race`
+> `Half-Elf`
 > 
 > **Class**
-> `=this.class`
+> `Villager`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> `Mayor of Highwatch`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Highwatch`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Highwatch`
 
 > *"Insert a memorable quote by or about the character here."*
 

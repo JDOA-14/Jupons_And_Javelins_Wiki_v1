@@ -1,16 +1,7 @@
 ---
-type: lore
-name: Sally Speak
-  - 
-lore-type: Things
-PC-know-of: true
-fully-PC-known: true
-pre-campaign: false
-tags:
-  - lore
 aliases:
-  -
 ---
+
 # Sally Speak
 
 ## Description

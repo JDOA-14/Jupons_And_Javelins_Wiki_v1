@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 07
 ---
+
 
 **SESSION 7** ✅ **(Was 5)**
   

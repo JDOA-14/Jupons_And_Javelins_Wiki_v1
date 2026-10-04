@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Rurik FrostJaw
-race: Kodan
-class: sorcerer
-title: Sonur Fyrri-Frostodian
-current-faction: The Nation of Nyvaldra
-Base-of-operations: Nyvaldra
-status: assumed dead
-last-seen: Nyvaldra
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Rurik FrostJaw`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Rurik FrostJaw`
 > 
 > **Race**
-> `=this.race`
+> `Kodan`
 > 
 > **Class**
-> `=this.class`
+> `sorcerer`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Nation of Nyvaldra`
 > 
 > **Title/s**
-> `=this.title`
+> `Sonur Fyrri-Frostodian`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyvaldra`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `assumed dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Nyvaldra`
 
 > *"Insert a memorable quote by or about the character here."*
 

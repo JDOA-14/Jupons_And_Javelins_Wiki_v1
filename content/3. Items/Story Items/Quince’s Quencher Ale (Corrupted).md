@@ -1,20 +1,7 @@
 ---
-type: item
-name: Quince’s Quencher Ale (Corrupted)
-item-type: potion
-rarity: Legendary
-story-item: true
-current-owner: "-"
-previous-owners: Peldo Satch
-current-location: "-"
-status: drunk
-status-where: Highwatch Train
-status-who: The villagers on the Highwatch Train
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 # Quince’s Quencher Ale (Corrupted)
 
 **Inventor:** [[Caldus Quince]]  

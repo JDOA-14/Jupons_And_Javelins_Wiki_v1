@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 17
 ---
+
 Went to Eryndor instead of Skaldgrym (small retcon)
 "Kaelen's witch said it too dangerous"
 

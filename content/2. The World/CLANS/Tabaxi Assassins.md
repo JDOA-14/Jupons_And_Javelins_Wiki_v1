@@ -1,16 +1,7 @@
 ---
-type: faction
-name: Tabaxi Assassins
-faction-type: Mercenary
-active-in: All Valhyria
-majority-race: Tabaxi
-leader: unknown
-headquarters: unknown
-status: unknown
-tags:
-  - faction
 aliases:
 ---
+
 # Tabaxi Assassins  
 
 **Type:** Mercenary Assassins (Tabaxi)  

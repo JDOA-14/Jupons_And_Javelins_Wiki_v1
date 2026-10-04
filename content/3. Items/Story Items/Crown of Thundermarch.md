@@ -1,22 +1,7 @@
 ---
-type: item
-name: Crown of Thundermarch
-item-type: Headpiece
-rarity: Legendary
-story-item: true
-current-owner: King Selos Skysplitter
-previous-owners: 
-- King Selos Skysplitter
-- The Dragon-Aura Faced Man
-current-location: Thundermarch
-status: Destroyed
-status-where: Somewhere between Thundermarch and Glenvaris
-status-who: The Dragon-Aura-Faced Man
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 The Crown of Thundermarch
 
 **Owner:** [[Gundrik Ashclaw]]  

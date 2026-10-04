@@ -1,52 +1,41 @@
 ---
-type: npc
-name: Tekka Glyde-Eye
-race: Aarakocra
-class: monk
-title: Hollow-Eye
-current-faction: Monk-Detectives of Aeryndor
-Base-of-operations: Aeryndor
-status: alive
-last-seen: Wrethwood
-tags:
-  - npc
 aliases:
-  - Tekka Glyde Eye
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Tekka Glyde-Eye`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Tekka Glyde-Eye`
 > 
 > **Race**
-> `=this.race`
+> `Aarakocra`
 > 
 > **Class**
-> `=this.class`
+> `monk`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Monk-Detectives of Aeryndor`
 > 
 > **Title/s**
-> `=this.title`
+> `Hollow-Eye`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Aeryndor`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Wrethwood`
 
 > *"Insert a memorable quote by or about the character here."*
 

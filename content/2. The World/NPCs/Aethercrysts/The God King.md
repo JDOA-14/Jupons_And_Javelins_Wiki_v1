@@ -1,53 +1,39 @@
 ---
-type: npc
-name: The God King
-race: Human
-class: Fighter
-title: God King
-current-faction: Aethercrysts
-Base-of-operations: Shardhold Citadel
-status: Powering The Shard
-last-seen: Shardhold Citadel
-tags:
-  - npc
 aliases:
-  - The God King
-  - God King
-  - God-King
-  - The God-King
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `The God King`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `The God King`
 > 
 > **Race**
-> `=this.race`
+> `Human`
 > 
 > **Class**
-> `=this.class`
+> `Fighter`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Aethercrysts`
 > 
 > **Title/s**
-> `=this.title`
+> `God King`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Shardhold Citadel`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Powering The Shard`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Shardhold Citadel`
 
 > *"My ancestors passed down stories about how nice he was, and also how jacked he was." - Elder Villager in [[1. Eryndor]]*
 

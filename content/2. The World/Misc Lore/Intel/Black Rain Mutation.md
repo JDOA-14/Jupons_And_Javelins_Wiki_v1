@@ -1,17 +1,7 @@
 ---
-type: lore
-name: Black Rain Mutation
-lore-type: Intel
-PC-know-of: true
-fully-PC-known: false
-pre-campaign: false
-tags:
-  - lore
 aliases:
-  - The Black Rain Mutation
-  - Mutants
-  - Mutation
 ---
+
 #### Cause
 
 - [[Black Rain]] Mutation happens when a living organism comes into contact with [[Black Rain|The Black Rain]].

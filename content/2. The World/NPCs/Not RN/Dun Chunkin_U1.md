@@ -1,49 +1,39 @@
 ---
-type: npc
-name: Dun Chunkin - unused but funny name
-race: unknown
-class: unknown
-title: 
-current-faction: unknown
-Base-of-operations: unknown
-status: alive
-last-seen: unknown
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Dun Chunkin - unused but funny name`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Dun Chunkin - unused but funny name`
 > 
 > **Race**
-> `=this.race`
+> `unknown`
 > 
 > **Class**
-> `=this.class`
+> `unknown`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

@@ -1,16 +1,7 @@
 ---
-type: faction
-name: Kenku
-faction-type: race
-active-in: Wrethwood
-majority-race: Kenku
-leader: unknown
-headquarters: Wrethwood
-status: Active
-tags:
-  - faction
 aliases:
 ---
+
 # Kenku  
 
 **Type:** Race / Avian Humanoids  

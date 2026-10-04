@@ -1,18 +1,7 @@
 ---
-type: item
-name: The Sword of Silliness
-item-type: Weapon
-rarity: Rare
-story-item: false
-current-owner: Cole
-previous-owners: unknown
-current-location: With The Gang
-bls: unknown
-bls-location: unknown
-tags:
-  - magic-item
 aliases:
 ---
+
 iMagic item that is a sword that acts like the wand of wonder
 
 When swung at something, the sword will produce a random effect. Player will roll a D100 and the sword acts according to this table:

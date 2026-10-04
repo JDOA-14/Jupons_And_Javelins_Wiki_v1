@@ -1,52 +1,41 @@
 ---
-type: npc
-name: Petra
-race: Sally
-class: Rogue / Fighter / Sally
-title: Co-Leader of the Rebels
-current-faction: The Rebels / The Gang
-Base-of-operations: Eryndor
-status: alive
-last-seen: Runehell Lumbermill
-tags:
-  - npc
 aliases:
-  - Thalara Stonefist
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Petra`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Petra`
 > 
 > **Race**
-> `=this.race`
+> `Sally`
 > 
 > **Class**
-> `=this.class`
+> `Rogue / Fighter / Sally`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Rebels / The Gang`
 > 
 > **Title/s**
-> `=this.title`
+> `Co-Leader of the Rebels`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Eryndor`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Runehell Lumbermill`
 
 > *"Insert a memorable quote by or about the character here."*
 

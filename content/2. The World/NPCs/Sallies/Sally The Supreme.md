@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Sally The Supreme
-race: Sally
-class: Sally
-title: Sally The Supreme
-current-faction: The Sallies
-Base-of-operations: The Sally Sanctum
-status: alive
-last-seen: The Sally Sanctum
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Sally The Supreme`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Sally The Supreme`
 > 
 > **Race**
-> `=this.race`
+> `Sally`
 > 
 > **Class**
-> `=this.class`
+> `Sally`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Sallies`
 > 
 > **Title/s**
-> `=this.title`
+> `Sally The Supreme`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `The Sally Sanctum`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `The Sally Sanctum`
 
 > *"Insert a memorable quote by or about the character here."*
 

@@ -1,55 +1,41 @@
 ---
-type: npc
-name: BarterBot 5000
-race: Warforged
-class: Bard / Artificer
-title: The Merciless One
-current-faction: The Gang
-Base-of-operations: unknown
-status: alive
-last-seen: Eryndor
-tags:
-  - npc
 aliases:
-  - Barterbot
-  - BarterBot
-  - Barter Bot 5000
-  - Barter Bot
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `BarterBot 5000`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `BarterBot 5000`
 > 
 > **Race**
-> `=this.race`
+> `Warforged`
 > 
 > **Class**
-> `=this.class`
+> `Bard / Artificer`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Gang`
 > 
 > **Title/s**
-> `=this.title`
+> `The Merciless One`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Eryndor`
 
 > *"Insert a memorable quote by or about the character here."*
 

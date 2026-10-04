@@ -1,16 +1,7 @@
 ---
-type: location
-name: Camp Bearblood
-location-type: Campsite
-region: South West
-population: "20"
-majority-race: Orc
-controlled-by: Vacant
-active-factions: unknown
-tags:
-  - location
 aliases:
 ---
+
 ## Description
 Camp Bearblood is a small campsite and makeshift orc prison located South of [[Nerton]] and at the beginnings of the mountains SouthEast of [[Thundermarch]]. 
 

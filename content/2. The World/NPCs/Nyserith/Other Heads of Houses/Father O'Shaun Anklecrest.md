@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Father O'Shaun Anklecrest
-race: Human
-class: Cleric
-title: Head of Divine-nation
-current-faction: Aethercrysts
-Base-of-operations: Nyserith
-status: alive
-last-seen: unknown
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Father O'Shaun Anklecrest`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Father O'Shaun Anklecrest`
 > 
 > **Race**
-> `=this.race`
+> `Human`
 > 
 > **Class**
-> `=this.class`
+> `Cleric`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Aethercrysts`
 > 
 > **Title/s**
-> `=this.title`
+> `Head of Divine-nation`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 11
 ---
+
 
 
 - The Magic Storeroom

@@ -1,54 +1,41 @@
 ---
-type: npc
-name: Darvok Duskrunner
-race: Aarakocra
-class: monk
-title: Hollow-Eye
-current-faction: Monk-Detectives of Aeryndor
-Base-of-operations: Aeryndor
-status: Dead
-last-seen: Aeryndor
-tags:
-  - npc
 aliases:
-  - Detective Darvok Duskrunner
-  - Detective Duskrunner
-  - Detective Darvok
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Darvok Duskrunner`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Darvok Duskrunner`
 > 
 > **Race**
-> `=this.race`
+> `Aarakocra`
 > 
 > **Class**
-> `=this.class`
+> `monk`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Monk-Detectives of Aeryndor`
 > 
 > **Title/s**
-> `=this.title`
+> `Hollow-Eye`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Aeryndor`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Aeryndor`
 
 > *"Insert a memorable quote by or about the character here."*
 

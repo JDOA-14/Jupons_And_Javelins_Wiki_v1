@@ -1,52 +1,41 @@
 ---
-type: npc
-name: Flatomir Chelf
-race: Elf
-class: unknown
-title:
-current-faction: unknown
-Base-of-operations: unknown
-status: alive
-last-seen: Train to Nyserith
-tags:
-  - npc
 aliases:
-  - Elf with tips of ears cut off
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Flatomir Chelf`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Flatomir Chelf`
 > 
 > **Race**
-> `=this.race`
+> `Elf`
 > 
 > **Class**
-> `=this.class`
+> `unknown`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Train to Nyserith`
 
 > *"Insert a memorable quote by or about the character here."*
 

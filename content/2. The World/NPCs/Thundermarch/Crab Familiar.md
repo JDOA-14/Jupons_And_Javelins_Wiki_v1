@@ -1,53 +1,41 @@
 ---
-type: npc
-name: Crab Familiar
-race: Crab
-class: Familiar
-title:
-current-faction: BBEGF
-Base-of-operations: Thundermarch
-status: alive
-last-seen: unknown
-tags:
-  - npc
 aliases:
-  - Stebonheath's Crab
-  - Stebonheath's Familiar
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Crab Familiar`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Crab Familiar`
 > 
 > **Race**
-> `=this.race`
+> `Crab`
 > 
 > **Class**
-> `=this.class`
+> `Familiar`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `BBEGF`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Thundermarch`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

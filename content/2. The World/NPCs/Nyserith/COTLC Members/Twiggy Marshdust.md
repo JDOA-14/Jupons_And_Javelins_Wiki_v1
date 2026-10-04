@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Twiggy Marshdust
-race: Human / Owlin / Tabaxi
-class: Wizard
-title: Head of Transmutation
-current-faction: Cult of the Longest Cloak
-Base-of-operations: Nyserith
-status: Dead
-last-seen: Nyserith
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Twiggy Marshdust`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Twiggy Marshdust`
 > 
 > **Race**
-> `=this.race`
+> `Human / Owlin / Tabaxi`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Cult of the Longest Cloak`
 > 
 > **Title/s**
-> `=this.title`
+> `Head of Transmutation`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Nyserith`
 
 > *"Insert a memorable quote by or about the character here."*
 

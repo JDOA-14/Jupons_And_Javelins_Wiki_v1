@@ -1,51 +1,39 @@
 ---
-type: npc
-name: Bishop O'Shaun Anklecrest
-race: Half-Elf
-class: cleric
-title: Bishop
-current-faction: Aethercrysts
-Base-of-operations: Nyserith
-status: alive
-last-seen: unknown
-tags:
-  - npc
 aliases:
-  - Sister O'Shaun Anklecrest
-  - Sister Anklecrest
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Bishop O'Shaun Anklecrest`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Bishop O'Shaun Anklecrest`
 > 
 > **Race**
-> `=this.race`
+> `Half-Elf`
 > 
 > **Class**
-> `=this.class`
+> `cleric`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Aethercrysts`
 > 
 > **Title/s**
-> `=this.title`
+> `Bishop`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Divine-nation is the truest form of Shard-Magic, all other schools are merely abstracts." - Sister O'Shaun Anklecrest*
 

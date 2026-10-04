@@ -1,18 +1,7 @@
 ---
-type: faction
-name: Monk-Detectives of Aeryndor
-faction-type: religion
-active-in: All Valhyria
-majority-race: Aarakocra
-leader: GrandWuseng-Cosmonk Tasheak MountainFeather
-headquarters: Aeryndor
-status: Active
-tags:
-  - faction
 aliases:
-  - Monk-Detectives
-  - Monk Detectives
 ---
+
 
 # Monk-Detectives of Aeryndor  
 

@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Highwatch Train Driver
-race: Halfing
-class: Villager
-title: Train Driver
-current-faction: unknown
-Base-of-operations: Highwatch
-status: unknown
-last-seen: Nyserith
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Highwatch Train Driver`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Highwatch Train Driver`
 > 
 > **Race**
-> `=this.race`
+> `Halfing`
 > 
 > **Class**
-> `=this.class`
+> `Villager`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> `Train Driver`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Highwatch`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `unknown`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Nyserith`
 
 > *"Insert a memorable quote by or about the character here."*
 

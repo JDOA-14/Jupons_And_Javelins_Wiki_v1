@@ -1,52 +1,41 @@
 ---
-type: npc
-name: Sally The Sovereign
-race: Sally
-class: Sally
-title: Sally The Sovereign
-current-faction: The Sallies
-Base-of-operations: The Sally Sanctum
-status: M.I.A
-last-seen: unknown
-tags:
-  - npc
 aliases:
-  - Sally Sovereign
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Sally The Sovereign`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Sally The Sovereign`
 > 
 > **Race**
-> `=this.race`
+> `Sally`
 > 
 > **Class**
-> `=this.class`
+> `Sally`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Sallies`
 > 
 > **Title/s**
-> `=this.title`
+> `Sally The Sovereign`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `The Sally Sanctum`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `M.I.A`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

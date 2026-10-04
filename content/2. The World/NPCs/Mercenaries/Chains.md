@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Chains
-race: Chains
-class: Chains
-title:
-current-faction: Mercenary
-Base-of-operations: unknown
-status: alive
-last-seen: Mistthrow
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Chains`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Chains`
 > 
 > **Race**
-> `=this.race`
+> `Chains`
 > 
 > **Class**
-> `=this.class`
+> `Chains`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Mercenary`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Mistthrow`
 
 > *"Insert a memorable quote by or about the character here."*
 

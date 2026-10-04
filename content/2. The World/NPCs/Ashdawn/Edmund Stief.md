@@ -1,49 +1,39 @@
 ---
-type: npc
-name: Edmund Stief
-race: Human
-class: Fighter
-title:
-current-faction: Bandits of Ashdawn
-Base-of-operations: Dampiner Forest
-status: Dead
-last-seen: Dampiner Forest
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Edmund Stief`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Edmund Stief`
 > 
 > **Race**
-> `=this.race`
+> `Human`
 > 
 > **Class**
-> `=this.class`
+> `Fighter`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Bandits of Ashdawn`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Dampiner Forest`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Dampiner Forest`
 
 > *"You look a lot more jacked then you did earlier today..." - Edmund Steif*
 

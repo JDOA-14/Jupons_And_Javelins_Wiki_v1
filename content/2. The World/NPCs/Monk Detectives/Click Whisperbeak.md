@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Click Whisperbeak
-race: Aarakocra
-class: monk
-title: unknown
-current-faction: Monk-Detectives of Aeryndor
-Base-of-operations: Aeryndor
-status: unknown
-last-seen: unknown
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Click Whisperbeak`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Click Whisperbeak`
 > 
 > **Race**
-> `=this.race`
+> `Aarakocra`
 > 
 > **Class**
-> `=this.class`
+> `monk`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Monk-Detectives of Aeryndor`
 > 
 > **Title/s**
-> `=this.title`
+> `unknown`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Aeryndor`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `unknown`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

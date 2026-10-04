@@ -1,20 +1,7 @@
 ---
-type: faction
-name: Sally Syndicate
-faction-type: Syndicate
-active-in: All Valhyria
-majority-race: Sallies
-leader: Sally The Supreme
-headquarters: unknown
-status: Active
-tags:
-  - faction
 aliases:
-  - The Sally Syndicate
-  - Sallies
-  - The Sallies
-  - Sally
 ---
+
 # Sally Syndicate  
 
 **Type:** Criminal Syndicate  

@@ -1,52 +1,41 @@
 ---
-type: npc
-name: Brynnor Stormpeak
-race: Goliath
-class: unknown
-title: 
-current-faction: The Republic of Skaldgrym
-Base-of-operations: Skaldgrym
-status: alive
-last-seen: unknown
-statblock: inline
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Brynnor Stormpeak`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Brynnor Stormpeak`
 > 
 > **Race**
-> `=this.race`
+> `Goliath`
 > 
 > **Class**
-> `=this.class`
+> `unknown`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Republic of Skaldgrym`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Skaldgrym`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

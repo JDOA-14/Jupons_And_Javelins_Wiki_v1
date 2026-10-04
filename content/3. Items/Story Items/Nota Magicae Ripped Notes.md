@@ -1,20 +1,7 @@
 ---
-type: item
-name: Nota Magicae Ripped Notes
-item-type: Writing
-rarity: Very Rare
-story-item: true
-current-owner: Kaelen Stormrage
-previous-owners: Nyserith Headmasters
-current-location: With The Gang
-status: Stolen
-status-where: Nyserith
-status-who: Kaelen Stormrage
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 After viewing the Tome of Nota Magicae in Nyserith, they noticed some unsolved formula for some new spells.
 
 - A)

@@ -1,53 +1,41 @@
 ---
-type: npc
-name: Stebonheath
-race: Human
-class: Wizard
-title:
-current-faction: BBEGF
-Base-of-operations: Thundermarch
-status: alive
-last-seen: Everviewed
-tags:
-  - npc
 aliases:
-  - Stebby Heaf
-  - Stebby
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Stebonheath`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Stebonheath`
 > 
 > **Race**
-> `=this.race`
+> `Human`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `BBEGF`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Thundermarch`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Everviewed`
 
 > *"Insert a memorable quote by or about the character here."*
 

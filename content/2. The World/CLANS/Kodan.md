@@ -1,17 +1,7 @@
 ---
-type: faction
-name: Kodan
-faction-type: race
-active-in: Nyvaldra
-majority-race: Kodan
-leader: King Osvrik
-headquarters: Nyvaldra
-status: Active
-tags:
-  - faction
 aliases:
-  - Polar Bear Folk
 ---
+
 # Kodan  
 
 **Type:** Clan / Polar Bearfolk (Ice Sorcerers)  

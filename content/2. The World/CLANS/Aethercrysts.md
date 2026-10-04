@@ -1,19 +1,7 @@
 ---
-type: faction
-name: Aethercrysts
-faction-type: religion
-active-in: All Valhyria
-majority-race: Human
-leader: Archduke Terranus Listler
-headquarters: Shardhold Citadel
-status: Active
-tags:
-  - faction
 aliases:
-  - The Aethercrysts
-  - Aethercryst
-  - Aethercrysm
 ---
+
 
 # Aethercrysts  
 

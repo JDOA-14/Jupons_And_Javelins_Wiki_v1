@@ -1,16 +1,7 @@
 ---
-type: location
-name: Challenge Room
-location-type: Room
-region: Nyserith
-population: "0"
-majority-race: unknown
-controlled-by: unknown
-active-factions: unknown
-tags:
-  - location
 aliases:
 ---
+
 The **Challenge Room** is a specialized facility within the university city of [[1. Nyserith]], specifically located near the Transmutation and Necromancy sections of the city. It is designed for teachers to administer massive challenges to students for their studies.
 
 ## General Features

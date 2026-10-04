@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 06
 ---
+
 
  **(Was called 4.5)**
 

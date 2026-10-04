@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Gopher Drenk
-race: Half Dragonborn / Half Kobold
-class: Wizard
-title: Head of Divination
-current-faction: Wizards of Nyserith
-Base-of-operations: Nyserith
-status: alive
-last-seen: unknown
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Gopher Drenk`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Gopher Drenk`
 > 
 > **Race**
-> `=this.race`
+> `Half Dragonborn / Half Kobold`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Wizards of Nyserith`
 > 
 > **Title/s**
-> `=this.title`
+> `Head of Divination`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

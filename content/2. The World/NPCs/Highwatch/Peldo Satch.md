@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Peldo Satch
-race: Water Genasi
-class: Alchemist, Artificer
-title: Lead Alchemist of Highwatch
-current-faction: unknown
-Base-of-operations: Highwatch
-status: unknown
-last-seen: Nyserith
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Peldo Satch`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Peldo Satch`
 > 
 > **Race**
-> `=this.race`
+> `Water Genasi`
 > 
 > **Class**
-> `=this.class`
+> `Alchemist, Artificer`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> `Lead Alchemist of Highwatch`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Highwatch`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `unknown`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Nyserith`
 
 > *"Insert a memorable quote by or about the character here."*
 

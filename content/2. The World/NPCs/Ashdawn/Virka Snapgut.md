@@ -1,49 +1,39 @@
 ---
-type: npc
-name: Virka Snapgut
-race: Goblin
-class: Ranger
-title:
-current-faction: none
-Base-of-operations: Ashdawn
-status: alive
-last-seen: Drippledown
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Virka Snapgut`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Virka Snapgut`
 > 
 > **Race**
-> `=this.race`
+> `Goblin`
 > 
 > **Class**
-> `=this.class`
+> `Ranger`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `none`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Ashdawn`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Drippledown`
 
 > *"Nice shot, shorty ;)" - Virka Snapgut*
 

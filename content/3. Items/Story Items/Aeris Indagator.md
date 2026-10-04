@@ -1,20 +1,7 @@
 ---
-type: item
-name: Aeris Indagator
-item-type: Device
-rarity: Artifact
-story-item: true
-current-owner: The Gang
-previous-owners: Aethercrysts
-current-location: With The Gang
-status: Stolen
-status-where: Fort NatureGuard
-status-who: The Gang
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 Magical item that can locate other magical items
 
 [[Big Magic item locations and reasonings]]

@@ -1,52 +1,39 @@
 ---
-type: npc
-name: Wystan Everbell
-race: Halfling
-class: cleric
-title: Duke Vizier
-current-faction: Aethercrysts
-Base-of-operations: Shardhold Citadel
-status: alive
-last-seen: Shardhold Citadel
-tags:
-  - npc
 aliases:
-  - Wystan Everbell
-  - Duke Vizier Everbell
-  - Duke Vizier Wystan
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Wystan Everbell`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Wystan Everbell`
 > 
 > **Race**
-> `=this.race`
+> `Halfling`
 > 
 > **Class**
-> `=this.class`
+> `cleric`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Aethercrysts`
 > 
 > **Title/s**
-> `=this.title`
+> `Duke Vizier`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Shardhold Citadel`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Shardhold Citadel`
 
 > *"Insert a memorable quote by or about the character here."*
 

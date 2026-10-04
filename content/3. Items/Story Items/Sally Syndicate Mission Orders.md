@@ -1,20 +1,7 @@
 ---
-type: item
-name: Sally Syndicate Mission Orders
-item-type: Writing
-rarity: Rare
-story-item: true
-current-owner: Sally The Smasher
-previous-owners: Sallies
-current-location: With The Gang
-status: given
-status-where: various
-status-who: Sally The Soldier
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 # Sally Syndicate Mission Orders
 
 **Owner:** [[Sally the Smasher]]  

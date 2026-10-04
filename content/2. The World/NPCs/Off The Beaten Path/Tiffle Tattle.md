@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Tiffle Tattle
-race: Halfing
-class: Villager
-title:
-current-faction: unknown
-Base-of-operations: unknown
-status: alive
-last-seen: Dampiner Forest
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Tiffle Tattle`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Tiffle Tattle`
 > 
 > **Race**
-> `=this.race`
+> `Halfing`
 > 
 > **Class**
-> `=this.class`
+> `Villager`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `unknown`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Dampiner Forest`
 
 > *"Insert a memorable quote by or about the character here."*
 

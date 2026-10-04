@@ -1,8 +1,7 @@
 ---
 aliases:
-  - Flashbacks
-  - Session 01 Flashbacks
 ---
+
 
 **Players Present:** Alex, Thomas, Rhys, Sam  
 **PCs Present:** [[Sally the Smasher]], [[Detective Cole Le Fev|Cole Le Fev]], [[Kaelen Stormrage|Kaelen Stormrage]], [[Gronk Shadowfang]]

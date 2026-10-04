@@ -1,49 +1,39 @@
 ---
-type: npc
-name: Maester Isen Kestrel
-race: Human
-class: cleric
-title: Archbishop Emeritus
-current-faction: Aethercrysts
-Base-of-operations: Shardhold Citadel
-status: alive
-last-seen: Gleamside, Eryndor
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Maester Isen Kestrel`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Maester Isen Kestrel`
 > 
 > **Race**
-> `=this.race`
+> `Human`
 > 
 > **Class**
-> `=this.class`
+> `cleric`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Aethercrysts`
 > 
 > **Title/s**
-> `=this.title`
+> `Archbishop Emeritus`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Shardhold Citadel`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Gleamside, Eryndor`
 
 > *"You have everything you need. You always have." - Maester Isen Kestrel*
 

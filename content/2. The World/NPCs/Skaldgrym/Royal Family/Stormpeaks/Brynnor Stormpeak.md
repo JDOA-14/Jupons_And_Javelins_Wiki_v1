@@ -1,18 +1,7 @@
 ---
-type: npc
-name: Brynnor Stormpeak
-race: Goliath
-class: unknown
-title: 
-current-faction: The Republic of Skaldgrym
-Base-of-operations: Skaldgrym
-status: alive
-last-seen: unknown
-statblock: inline
-tags:
-  - npc
 aliases:
 ---
+
 
 ```statblock
 layout: Basic 5e Layout

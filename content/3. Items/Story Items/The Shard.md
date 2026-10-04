@@ -1,20 +1,7 @@
 ---
-type: item
-name: The Shard
-item-type: THE SHARD
-rarity: Artifact
-story-item: true
-current-owner: Valhyria
-previous-owners: Valhyria
-current-location: Shardhold Citadel
-status: with original owner
-status-where: Shardhold Citadel
-status-who: Valhyria
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 Followers of the Religion of the Shard are known as:
 Aethercrysts - Practising **Aethercrysm**.
 

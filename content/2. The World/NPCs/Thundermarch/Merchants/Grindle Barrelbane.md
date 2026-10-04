@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Grindle Barrelbane
-race: Octopusfolk
-class: Merchant
-title: Mercenary Guild Concierge
-current-faction: Mercenary's Guild
-Base-of-operations: Thundermarch
-status: alive
-last-seen: Thundermarch
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Grindle Barrelbane`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Grindle Barrelbane`
 > 
 > **Race**
-> `=this.race`
+> `Octopusfolk`
 > 
 > **Class**
-> `=this.class`
+> `Merchant`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Mercenary's Guild`
 > 
 > **Title/s**
-> `=this.title`
+> `Mercenary Guild Concierge`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Thundermarch`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Thundermarch`
 
 > *"Insert a memorable quote by or about the character here."*
 

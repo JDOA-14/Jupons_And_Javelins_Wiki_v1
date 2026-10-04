@@ -1,16 +1,7 @@
 ---
-type: faction
-name: Mallardfolk
-faction-type: race
-active-in: Wrethwood
-majority-race: Mallardfolk
-leader: unknown
-headquarters: unknown
-status: Active
-tags:
-  - faction
 aliases:
 ---
+
 # Mallardfolk  
 
 **Type:** Race / Avian Humanoids (Duck People)  

@@ -1,49 +1,39 @@
 ---
-type: npc
-name: Biteclaw
-race: Bearfolk
-class: Barbarian
-title: Clawporal
-current-faction: Bearbandits
-Base-of-operations: Eryndor
-status: Dead
-last-seen: Pinetide
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Biteclaw`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Biteclaw`
 > 
 > **Race**
-> `=this.race`
+> `Bearfolk`
 > 
 > **Class**
-> `=this.class`
+> `Barbarian`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Bearbandits`
 > 
 > **Title/s**
-> `=this.title`
+> `Clawporal`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Eryndor`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Pinetide`
 
 > *"It's me, then [[Falrus]], then Gundrik. I'm right at the bloody top when you think about it." - Biteclaw*
 

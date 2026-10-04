@@ -1,52 +1,41 @@
 ---
-type: npc
-name: Little Shitty
-race: Raven
-class: Crow
-title:
-current-faction: The Gang
-Base-of-operations: unknown
-status: alive
-last-seen: Runehell Lumbermill
-statblock: inline
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Little Shitty`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Little Shitty`
 > 
 > **Race**
-> `=this.race`
+> `Raven`
 > 
 > **Class**
-> `=this.class`
+> `Crow`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Gang`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Runehell Lumbermill`
 
 > *"Insert a memorable quote by or about the character here."*
 

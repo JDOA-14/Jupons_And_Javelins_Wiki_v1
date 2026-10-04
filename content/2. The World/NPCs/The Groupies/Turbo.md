@@ -1,52 +1,41 @@
 ---
-type: npc
-name: Turbo
-race: Ghastly Skull
-class: Familiar
-title:
-current-faction: The Gang
-Base-of-operations: unknown
-status: alive
-last-seen: Runehell Lumbermill
-statblock: inline
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Turbo`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Turbo`
 > 
 > **Race**
-> `=this.race`
+> `Ghastly Skull`
 > 
 > **Class**
-> `=this.class`
+> `Familiar`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Gang`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `unknown`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Runehell Lumbermill`
 
 > *"Put that up your pipe and fuckin' smoke it ya dog."*
 

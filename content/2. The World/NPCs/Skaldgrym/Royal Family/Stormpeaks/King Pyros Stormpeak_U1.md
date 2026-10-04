@@ -1,49 +1,39 @@
 ---
-type: npc
-name: King Pyros Stormpeak
-race: Goliath
-class: unknown
-title: 
-current-faction: The Republic of Skaldgrym
-Base-of-operations: Skaldgrym
-status: alive
-last-seen: unknown
-tags:
-  - npc
 aliases:
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `King Pyros Stormpeak`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `King Pyros Stormpeak`
 > 
 > **Race**
-> `=this.race`
+> `Goliath`
 > 
 > **Class**
-> `=this.class`
+> `unknown`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Republic of Skaldgrym`
 > 
 > **Title/s**
-> `=this.title`
+> ``
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Skaldgrym`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `unknown`
 
 > *"Insert a memorable quote by or about the character here."*
 

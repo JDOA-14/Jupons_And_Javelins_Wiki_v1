@@ -1,15 +1,7 @@
 ---
-type: lore
-name: Witch Hierarchy
-lore-type: Hierarchy
-PC-know-of: true
-fully-PC-known: false
-pre-campaign: false
-tags:
-  - lore
 aliases:
-  -
 ---
+
 # Covens
 
 As we know it, there are many different groups of witche across [[Valhyria]], each with their own motives and outlooks. 

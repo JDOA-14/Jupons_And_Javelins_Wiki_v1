@@ -1,27 +1,7 @@
 ---
-type: item
-name: Bandit Maps
-item-type: unknown
-rarity: Artifact
-story-item: true
-current-owner: The Gang
-previous-owners: 
-- BearBandits
-- Bandits of Ashdawn
-- Orc Bandits
-- Stebonheath
-current-location: With The Gang
-status: Looted
-status-where: 
-- Dampiner Forest
-- Nerton
-- Mistthrow
-status-who: The Gang
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 Maps found on bandits, showing trajectories of certain bands.
 
 - [[Greybear Trajectory]]

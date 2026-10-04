@@ -1,23 +1,10 @@
 ---
-type: npc
-name: Archduke Terranus Listler
-race: unknown
-class: unknown
-title: Archduke
-current-faction: Aethercrysts
-Base-of-operations: Shardhold Citadel
-status: alive
-last-seen:
-tags:
-  - npc
 aliases:
-  - Archduke Listler
-  - Archduke Terranus
-  - Terranus Listler
 ---
 
+
 > [!infobox]
-> # `=this.name`
+> # `Archduke Terranus Listler`
 > 
 > ![[`=this.image`]]
 > 

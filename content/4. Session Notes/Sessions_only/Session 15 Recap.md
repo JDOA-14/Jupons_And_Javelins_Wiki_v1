@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Session 15
 ---
+
 
 recap notes
 

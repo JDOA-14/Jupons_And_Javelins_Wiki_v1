@@ -1,55 +1,41 @@
 ---
-type: npc
-name: Sky Marshal Herrace Heatsink
-race: Aarakocra
-class: monk
-title: Sky Marshal
-current-faction: Monk-Detectives of Aeryndor
-Base-of-operations: Aeryndor
-status: alive
-last-seen: Eryndor
-tags:
-  - npc
 aliases:
-  - Herrace Heatsink
-  - Sky Marshal Herrace
-  - Sky Marshal Heatsink
-  - Marshal Heatsink
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Sky Marshal Herrace Heatsink`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Sky Marshal Herrace Heatsink`
 > 
 > **Race**
-> `=this.race`
+> `Aarakocra`
 > 
 > **Class**
-> `=this.class`
+> `monk`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Monk-Detectives of Aeryndor`
 > 
 > **Title/s**
-> `=this.title`
+> `Sky Marshal`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Aeryndor`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Eryndor`
 
 > *"Insert a memorable quote by or about the character here."*
 

@@ -1,19 +1,7 @@
 ---
-type: npc
-name: King Donan Stormpeak
-race: Goliath
-class: unknown
-title:
-current-faction: The Republic of Skaldgrym
-Base-of-operations: Skaldgrym
-status: alive
-last-seen: unknown
-tags:
-  - npc
 aliases:
-  - Donan Stormpeak
-  - King Donan
 ---
+
 
 King of [[Skaldgrym]] 
 Kaelen's Uncle

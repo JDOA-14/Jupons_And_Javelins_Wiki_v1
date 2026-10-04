@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Sylak AppleTree
-race: Minotaurfolk
-class: Wizard
-title: Acting Headmaster of Nyserith
-current-faction: Cult of the Longest Cloak
-Base-of-operations: Nyserith
-status: Dead
-last-seen: Challenge Room, Nyserith
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Sylak AppleTree`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Sylak AppleTree`
 > 
 > **Race**
-> `=this.race`
+> `Minotaurfolk`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Cult of the Longest Cloak`
 > 
 > **Title/s**
-> `=this.title`
+> `Acting Headmaster of Nyserith`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Challenge Room, Nyserith`
 
 > *"Insert a memorable quote by or about the character here."*
 

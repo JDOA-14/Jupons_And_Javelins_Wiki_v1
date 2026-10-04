@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Rengar Fizzwhistle
-race: Goblin
-class: Wizard
-title: Head of Abjuration
-current-faction: Wizards of Nyserith
-Base-of-operations: Nyserith
-status: alive
-last-seen: Nyserith
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Rengar Fizzwhistle`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Rengar Fizzwhistle`
 > 
 > **Race**
-> `=this.race`
+> `Goblin`
 > 
 > **Class**
-> `=this.class`
+> `Wizard`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `Wizards of Nyserith`
 > 
 > **Title/s**
-> `=this.title`
+> `Head of Abjuration`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Nyserith`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `alive`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Nyserith`
 
 > *"Insert a memorable quote by or about the character here."*
 

@@ -1,51 +1,41 @@
 ---
-type: npc
-name: Paladin Jayce
-race: Half Elf
-class: Paladin
-title: Bishop Colonel
-current-faction: The Consecrators
-Base-of-operations: Mistthrow
-status: Dead
-last-seen: Mistthrow
-tags:
-  - npc
 aliases:
 ---
+
 
 > [!warning] THIS IS A WORK IN PROGRESS FILE
 
 > [!infobox]
-> # `=this.name`
+> # `Paladin Jayce`
 > 
 > ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
-> `=this.name`
+> `Paladin Jayce`
 > 
 > **Race**
-> `=this.race`
+> `Half Elf`
 > 
 > **Class**
-> `=this.class`
+> `Paladin`
 > 
 > ---
 > **Faction**
-> `=this.current-faction`
+> `The Consecrators`
 > 
 > **Title/s**
-> `=this.title`
+> `Bishop Colonel`
 > 
 > **Base of Operations**
-> `=this.Base-of-operations`
+> `Mistthrow`
 > 
 > ---
 > **Status**
-> `=this.status`
+> `Dead`
 > 
 > **Last seen**
-> `=this.last-seen`
+> `Mistthrow`
 
 > *"Insert a memorable quote by or about the character here."*
 

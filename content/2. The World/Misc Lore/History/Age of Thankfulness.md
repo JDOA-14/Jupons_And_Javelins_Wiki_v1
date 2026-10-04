@@ -1,16 +1,7 @@
 ---
-type: lore
-name: Age of Thankfulness
-  - 
-lore-type: History
-PC-know-of: true
-fully-PC-known: true
-pre-campaign: true
-tags:
-  - lore
 aliases:
-  -
 ---
+
 **Time Period:** 374 AGK – Present (614 AGK)
 
 ## Overview

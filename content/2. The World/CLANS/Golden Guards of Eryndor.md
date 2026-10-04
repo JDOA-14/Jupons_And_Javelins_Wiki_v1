@@ -1,20 +1,7 @@
 ---
-type: faction
-name: Golden Guards of Eryndor
-faction-type: Military
-active-in: All Valhyria
-majority-race: Human
-leader: Paphanael Stomp
-headquarters: Shardhold Citadel
-status: Active
-statblock: inline
-tags:
-  - faction
 aliases:
-  - The Golden Guards of Eryndor
-  - The Golden Guards
-  - Golden Guards
 ---
+
 
 # Golden Guards of Eryndor  
 

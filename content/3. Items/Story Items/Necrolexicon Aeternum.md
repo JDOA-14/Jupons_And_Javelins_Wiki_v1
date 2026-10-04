@@ -1,27 +1,7 @@
 ---
-type: item
-name: Necrolexicon Aeternum
-item-type: unknown
-rarity: Artifact
-story-item: true
-current-owner: unknown
-previous-owners: 
-- Chain of Monk Detectives
-- Cloud Monk Arvid Browbinder
-- The Dragon-Aura-Faced Man
-- Molus Mouthbreaker
-- Eyeches Writhal
-- Kaelen Stormrage
-- Edmund Stief
-current-location: Sylvarael
-status: Stolen
-status-where: Dampiner Forest
-status-who: The Dragon-Aura-Faced Man
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 # The Necrolexicon Aeternum
 
 **Former Owners:**  

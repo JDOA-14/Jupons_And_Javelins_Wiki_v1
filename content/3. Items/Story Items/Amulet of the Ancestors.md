@@ -1,22 +1,7 @@
 ---
-type: item
-name: Amulet of the Ancestors
-item-type: Amulet
-rarity: Artifact
-story-item: true
-current-owner: unknown
-previous-owners: 
-- Many of Gronk's Ancestors
-- The Dragon-Aura-Faced Man
-current-location: Skaldgrym
-status: Stolen
-status-where: Dampiner Forest
-status-who: The Dragon-Aura-Faced Man
-tags:
-  - magic-item
-  - story-item
 aliases:
 ---
+
 # The Amulet of Ancestors
 
 # Amulet of the Ancestors
