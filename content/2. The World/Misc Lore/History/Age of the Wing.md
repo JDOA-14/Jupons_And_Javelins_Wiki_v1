@@ -9,5 +9,5 @@ pre-campaign: true
 tags:
   - lore
 aliases:
-  -
+  "-"
 ---

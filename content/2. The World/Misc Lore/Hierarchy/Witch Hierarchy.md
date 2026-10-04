@@ -8,7 +8,7 @@ pre-campaign: false
 tags:
   - lore
 aliases:
-  -
+  "-"
 ---
 # Covens
 

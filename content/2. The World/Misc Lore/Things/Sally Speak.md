@@ -9,7 +9,7 @@ pre-campaign: false
 tags:
   - lore
 aliases:
-  -
+  "-"
 ---
 # [[Sally Syndicate|Sally]] Speak
 

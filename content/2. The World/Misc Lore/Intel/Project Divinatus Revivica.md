@@ -9,7 +9,7 @@ pre-campaign: false
 tags:
   - lore
 aliases:
-  -
+  "-"
 ---
 An [[Aethercrysts|Aethercryst]] secret project - involving finding ways to revive [[God King|The God King]] and [[The Shard]].
 

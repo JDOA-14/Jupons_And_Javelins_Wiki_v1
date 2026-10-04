@@ -9,7 +9,7 @@ pre-campaign: false
 tags:
   - lore
 aliases:
-  -
+  "-"
 ---
 Grey bear bandits seem to be moving:
 

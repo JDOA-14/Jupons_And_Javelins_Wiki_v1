@@ -1,16 +1,16 @@
 ---
 type: faction
-name: -
-faction-type: -
+name: "-"
+faction-type: "-"
 active-in: All Valhyria
-majority-race: -
-leader: -
-headquarters: -
-status: -
+majority-race: "-"
+leader: "-"
+headquarters: "-"
+status: "-"
 tags:
   - faction
 aliases:
-  - 
+  "-"
 ---
 
 > [!infobox]

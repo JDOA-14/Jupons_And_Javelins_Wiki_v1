@@ -9,7 +9,7 @@ pre-campaign: true
 tags:
   - lore
 aliases:
-  -
+  "-"
 ---
 A mind wipe done by [[God King|The God King]]
 

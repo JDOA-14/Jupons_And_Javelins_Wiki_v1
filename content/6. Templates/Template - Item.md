@@ -1,13 +1,12 @@
 ---
 type: item
 name:
-  - 
+  "-"
 item-type: unknown
 rarity: unknown
 story-item: false
 curnt-owner: unknown
-prev-owners: 
--
+prev-owners: "-"
 curnt-location: unknown
 bls: unknown
 bls-location: unknown

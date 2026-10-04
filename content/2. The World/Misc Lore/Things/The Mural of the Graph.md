@@ -9,7 +9,7 @@ pre-campaign: false
 tags:
   - lore
 aliases:
-  -
+  "-"
 ---
 - A huge wall painting mural - of a graph that shows a slow rise, into a sharp rise, into a sharp sharp drop, into a slow rise
 - The story behind it:

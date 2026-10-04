@@ -12,7 +12,7 @@ image: ""
 tags:
   - npc
 aliases:
-  -
+  "-"
 ---
 > [!infobox]
 > # NAME
