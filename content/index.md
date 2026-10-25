@@ -8,7 +8,7 @@ Welcome to the master campaign wiki index for Valhyria. Expand the folders below
 ---
 
 <details>
-<summary>📁 [[1. The Party/|1. The Party]]</summary>
+##<summary>📁 [[1. The Party/]]</summary>
 
   - [[Cryos Frostjaw]]
   - [[Detective Cole Le Fev]]
@@ -19,11 +19,13 @@ Welcome to the master campaign wiki index for Valhyria. Expand the folders below
   - [[The Gang]]
 </details>
 
+
 <details>
-<summary>📁 [[2. The World/|2. The World]]</summary>
+##<summary>📁 [[2. The World/]]</summary>
+
 
   <details>
-  <summary>📁 [[2. The World/CLANS/|CLANS]]</summary>
+  ###<summary>📁 [[2. The World/CLANS/]]</summary>
 
     - [[Aarakocra]]
     - [[Aethercrysts]]
