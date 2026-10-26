@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Highwatch Train Driver`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

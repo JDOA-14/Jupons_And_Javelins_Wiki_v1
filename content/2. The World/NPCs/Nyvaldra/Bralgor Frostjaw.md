@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Bralgor FrostJaw`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

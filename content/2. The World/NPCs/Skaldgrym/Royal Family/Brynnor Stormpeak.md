@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Brynnor Stormpeak`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

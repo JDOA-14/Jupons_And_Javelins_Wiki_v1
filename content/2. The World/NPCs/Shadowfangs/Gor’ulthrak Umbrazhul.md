@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Gor’ulthrak Umbrazhul`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

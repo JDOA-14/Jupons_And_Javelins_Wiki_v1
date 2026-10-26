@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Archduke Terranus Listler`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

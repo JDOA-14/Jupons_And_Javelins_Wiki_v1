@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Flatomir Chelf`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
@@ -49,5 +48,5 @@ More recently, Flatomir was present at a meeting held aboard a train departing f
 
 ## 🤝 Relationships & Loyalties
 
-- **Allies:** [[Borun Root]], [[Dragon-Aura-Faced Man_U1|The Dragon-Aura-Faced Man]]
+- **Allies:** [[Borun Root]], [[Dragon-Aura-Faced Man|The Dragon-Aura-Faced Man]]
 - **Enemies:** [[Gronk Shadowfang|Gronk]] (probably)

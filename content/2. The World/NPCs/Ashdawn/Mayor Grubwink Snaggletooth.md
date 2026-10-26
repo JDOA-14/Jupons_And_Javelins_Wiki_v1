@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Mayor Grubwink Snaggletooth`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

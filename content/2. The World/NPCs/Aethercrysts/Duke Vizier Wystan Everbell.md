@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Wystan Everbell`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
@@ -41,13 +40,13 @@ Duke Vizier Wystan Everbell is a halfling maester at [[Shardhold Citadel]] who w
 
 ## 📜 Biography
 
-### [[session 12 Recap - FULL]]
-  - [[Duke Vizier Wystan Everbell]] is the name given to [[May Mistbrooke]] and [[Leif LúmëLóke]] during their visit with [[Maester Isen Kestrel_F1]]. The Maester mentioned someone working on things that even they didn't have access to.
+### session 12
+ - [[Duke Vizier Wystan Everbell]] is the name given to [[May Mistbrooke]] and [[Leif LúmëLóke]] during their visit with [[Maester Isen Kestrel]]. The Maester mentioned someone working on things that even they didn't have access to.
 
-### [[session 17 recap - FULL]]
-  - [[The Gang]] infiltrated Duke Vizier Wystan Everbell's secret laboratory in [[Shardhold Citadel]]. The party interrogated him, and seized research on [[Project Keen-Eye]] and [[Project Divinatus Revivica]]. 
-  - The Duke Vizier tries to sound any of his 12 under-table-alarms, but fails.
-  - He is escorted out of [[Shardhold Citadel|The Shardhold Citadel]] as a hostage -- and is given to [[The Rebels]] for questioning.
+### session 17
+ - [[The Gang]] infiltrated Duke Vizier Wystan Everbell's secret laboratory in [[Shardhold Citadel]]. The party interrogated him, and seized research on [[Project Keen-Eye]] and [[Project Divinatus Revivica]]. 
+ - The Duke Vizier tries to sound any of his 12 under-table-alarms, but fails.
+ - He is escorted out of [[Shardhold Citadel|The Shardhold Citadel]] as a hostage -- and is given to [[The Rebels]] for questioning.
 
 ## 🤝 Relationships & Loyalties
 - **Allies:** [[2. The World/CLANS/Aethercrysts|The Aethercrysts]]

@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Sally the Soldier`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

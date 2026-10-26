@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Borun Root`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
@@ -51,7 +50,7 @@ During a meeting held on a train departing from Highwatch, Borun Root was presen
 
 ## 🤝 Relationships & Loyalties
 
-- **Allies:** [[Flatomir Chelf]], [[Dragon-Aura-Faced Man_U1|The Dragon-Aura-Faced Man]]
+- **Allies:** [[Flatomir Chelf]], [[Dragon-Aura-Faced Man|The Dragon-Aura-Faced Man]]
 - **Enemies:** [[Gronk Shadowfang|Gronk]] (probably)
 
 ---

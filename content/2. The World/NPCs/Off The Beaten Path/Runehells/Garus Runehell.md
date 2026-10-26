@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Garus Runehell`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

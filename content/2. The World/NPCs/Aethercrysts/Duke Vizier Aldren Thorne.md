@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Duke Vizier Aldren Thorne`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
@@ -43,14 +42,14 @@ He provides bounties to the gang and appears disinterested in the potential tamp
 
 ## 📜 Biography
 
-### [[session 12 Recap - FULL]]
-  - A day after arriving in [[1. Eryndor]], [[The Gang]] is invited into [[Shardhold Citadel]] to meet [[Duke Vizier Aldren Thorne]]. He offers the city's apologies for their wrongful stint as fugitives -- but claims he cannot pay them directly. However, he does kindly offer them some bounties which he can "juice up" the rewards for.
+### session 12
+ - A day after arriving in [[1. Eryndor]], [[The Gang]] is invited into [[Shardhold Citadel]] to meet [[Duke Vizier Aldren Thorne]]. He offers the city's apologies for their wrongful stint as fugitives -- but claims he cannot pay them directly. However, he does kindly offer them some bounties which he can "juice up" the rewards for.
 
-### [[Session 13 Recap - FULL]]
-  - May and Kaelen received the juiced up bounty payment from the Duke Vizier. However, when Kaelen alerted him to potential tampering of the Great Sacrifice (after [[The Cult Of The Bard]] and [[The Cult Of The Shark]] were thwarted) he claims there is no need for it to be investigated. 
+### Session 13
+ - May and Kaelen received the juiced up bounty payment from the Duke Vizier. However, when Kaelen alerted him to potential tampering of the Great Sacrifice (after [[The Cult Of The Bard]] and [[The Cult Of The Shark]] were thwarted) he claims there is no need for it to be investigated. 
 
-### [[session 17 recap - FULL]]
-  - The Gang find in the notes for [[Project Divinatus Revivica]], that many of the orders have come from [[Duke Vizier Aldren Thorne]].
+### session 17
+ - The Gang find in the notes for [[Project Divinatus Revivica]], that many of the orders have come from [[Duke Vizier Aldren Thorne]].
 
 ## 🤝 Relationships & Loyalties
 - **Allies:** [[2. The World/CLANS/Aethercrysts|Aethercrysts]]

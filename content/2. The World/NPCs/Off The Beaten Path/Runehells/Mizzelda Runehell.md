@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Mizzelda Runehell`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

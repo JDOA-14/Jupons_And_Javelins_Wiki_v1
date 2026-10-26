@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Hermitage Traminer`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

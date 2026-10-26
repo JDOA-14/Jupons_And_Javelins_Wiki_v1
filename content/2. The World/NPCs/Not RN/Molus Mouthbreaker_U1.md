@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Molus Mouthbreaker`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

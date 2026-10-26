@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Biteclaw`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
@@ -37,11 +36,11 @@ aliases:
 
 > *"It's me, then [[Falrus]], then Gundrik. I'm right at the bloody top when you think about it." - Biteclaw*
 
-Biteclaw is a bearbandit who served under [[Falrus_F1]] (a leiutenant for [[Gundrik Ashclaw_F1]]). He invited [[Kaelen Stormrage]] and his battle friends to join them on a raid of [[Pinetide]] to find some high-value booty. He was killed during the large-scale assault in [[Pinetide]].
+Biteclaw is a bearbandit who served under [[Falrus]] (a leiutenant for [[Gundrik Ashclaw]]). He invited [[Kaelen Stormrage]] and his battle friends to join them on a raid of [[Pinetide]] to find some high-value booty. He was killed during the large-scale assault in [[Pinetide]].
 
 ## 📜 Biography
 
-### [[Session 13 Recap - FULL]]
+### Session 13
 Biteclaw is kicked out of a pub in the Fleabottom suburb of [[1. Eryndor|Eryndor]]. Kaelen hits him up for info and offers to buy him more mead at another pub.
 Although initially hesitant of Kaelen's allies, they hit it off, and Biteclaw invites Kaelen and his non-Cole allies to join him in the raid on [[Pinetide]].
 

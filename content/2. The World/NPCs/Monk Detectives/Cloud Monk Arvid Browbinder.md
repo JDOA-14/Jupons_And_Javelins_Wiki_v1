@@ -8,7 +8,6 @@ aliases: CloudMonk Arvid Browbinder
 > [!infobox]
 > # `CloudMonk Arvid Browbinder`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

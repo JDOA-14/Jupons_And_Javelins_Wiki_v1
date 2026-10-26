@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Twiggy Marshdust`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

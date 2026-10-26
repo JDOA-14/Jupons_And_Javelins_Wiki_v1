@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Rastrel Scurry`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Maester Isen Kestrel`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
@@ -46,8 +45,8 @@ Maester Isen Kestrel was a high ranking [[Aethercrysts]] -- achieving the rank o
 
  Throughout their time as an Archbishop, they were a great mentor to [[May Mistbrooke]], helping her attempt to understand and control her innate powers.
 
-### [[session 12 Recap - FULL]]
-  - May and [[Leif LúmëLóke]] visit [[Maester Isen Kestrel]] (They/Them) in their home in [[1. Eryndor#Current Structure|Gleamside]]. The Maester is worried about giving away info -- fearing they are being watched. Once they know they're safe, they mention that "[[Duke Vizier Wystan Everbell]]" has been working on secret projects.
+### session 12
+ - May and [[Leif LúmëLóke]] visit [[Maester Isen Kestrel]] (They/Them) in their home in [[1. Eryndor#Current Structure|Gleamside]]. The Maester is worried about giving away info -- fearing they are being watched. Once they know they're safe, they mention that "[[Duke Vizier Wystan Everbell]]" has been working on secret projects.
 
 ## 🤝 Relationships & Loyalties
 - **Allies:** [[2. The World/CLANS/Aethercrysts|Aethercrysts]], [[May Mistbrooke]]

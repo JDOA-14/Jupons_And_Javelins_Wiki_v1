@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Father Alric Fenrik`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
@@ -42,7 +41,7 @@ Father Alric Fenrik is a religious figure associated with the religion of The Sh
 ## 📜 Biography
 
 ### [[Session 05 Recap - Flashback]]
-  - During [[May Mistbrooke]]'s flashback -- we see that after the plague outbreak in [[Mirelift]] was unable to be stopped by many [[Aethercrysts]] clerics' magic, May sought comforting words from the Archbishop overseeing the operation. After her questioning the deaths of so many innocents, [[Archbishop Alric Fenrik]] claimed the event to be “the Shard’s will.”
+ - During [[May Mistbrooke]]'s flashback -- we see that after the plague outbreak in [[Mirelift]] was unable to be stopped by many [[Aethercrysts]] clerics' magic, May sought comforting words from the Archbishop overseeing the operation. After her questioning the deaths of so many innocents, [[Archbishop Alric Fenrik]] claimed the event to be “the Shard’s will.”
 
 ## 🤝 Relationships & Loyalties
 - **Allies:** [[2. The World/CLANS/Aethercrysts|Aethercrysts]]

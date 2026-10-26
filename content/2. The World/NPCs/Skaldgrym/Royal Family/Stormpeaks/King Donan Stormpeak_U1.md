@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `King Donan Stormpeak`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

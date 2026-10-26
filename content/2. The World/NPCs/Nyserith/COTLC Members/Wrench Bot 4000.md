@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Wrench Bot 4000`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

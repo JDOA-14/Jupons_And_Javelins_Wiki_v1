@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Virka Snapgut`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
@@ -46,7 +45,7 @@ In the morning after [[Black Rain|the Black Rain]] incident in [[Ashdawn]], Virk
 
 They had no luck, but they did find the casing of what seemed like a magic pearl.
 
-She accompanies the gang as they investigate, and is there for the raid on the [[Maeve Tilden_F1|Tilden Farmhouse]].
+She accompanies the gang as they investigate, and is there for the raid on the [[Maeve Tilden|Tilden Farmhouse]].
 
 A skilled archer, she helped The Gang defeat the bandits by shooting arrows from the top floor. She was impressed by [[Gronk Shadowfang|Gronk]]'s prowess.
 

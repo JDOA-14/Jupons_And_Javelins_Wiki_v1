@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Falrus`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
@@ -45,8 +44,8 @@ Falrus was a high-ranking Bearbandit warlock and a mage grey bear who served as 
 Falrus was a mage grey bear and a high-ranking Bearbandit warlock. He served as a lieutenant to Gundrik Ashclaws.
 
 
-### [[Session 13 Recap - FULL]]
-Falrus is mentioned by [[Biteclaw_F1]] to [[Kaelen Stormrage]] at a tavern in [[1. Eryndor|Eryndor]].
+### Session 13
+Falrus is mentioned by [[Biteclaw]] to [[Kaelen Stormrage]] at a tavern in [[1. Eryndor|Eryndor]].
 
 During the raid on [[Pinetide]], Falrus uses his warlock magic to supercharge bearbandits and orcs. 
 

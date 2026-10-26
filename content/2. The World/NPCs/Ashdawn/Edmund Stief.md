@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Edmund Stief`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
@@ -37,7 +36,7 @@ aliases:
 
 > *"You look a lot more jacked then you did earlier today..." - Edmund Steif*
 
-Edmund Steif is the leader of the [[Bandits of Ashdawn]]. He received information directly from [[Dragon-Aura-Faced Man_U1|The Dragon-Aura-Faced Man]] on when to do a heist on the [[Crooked Tusk Tavern]] to steal [[The Gang]]'s magical items.
+Edmund Steif is the leader of the [[Bandits of Ashdawn]]. He received information directly from [[Dragon-Aura-Faced Man|The Dragon-Aura-Faced Man]] on when to do a heist on the [[Crooked Tusk Tavern]] to steal [[The Gang]]'s magical items.
 
 He fled the fight on the road, to his hideout in [[Dampiner Forest]], and was killed by several sneaky sneaksters.
 
@@ -54,10 +53,10 @@ He escorts Sally and the items out of the hideout, and is unceremoniously killed
 
 ### [[Session 07]]
 Edmund is mentioned in the [[The Kenku Tome of Relics]]
-	"Chain of monk detectives → [[Cloud Monk Arvid Browbinder_U1|CloudMonk Arvid Browbinder]]→ _stolen by undetermined_ → [[Molus Mouthbreaker]] → [[Eyeches Writhal]] → [[Kaelen Stormrage]] → stolen by [[Edmund Stief]] → _stolen by undetermined."
+	"Chain of monk detectives → [[Cloud Monk Arvid Browbinder|CloudMonk Arvid Browbinder]]→ _stolen by undetermined_ → [[Molus Mouthbreaker]] → [[Eyeches Writhal]] → [[Kaelen Stormrage]] → stolen by [[Edmund Stief]] → _stolen by undetermined."
 
 ## 🤝 Relationships & Loyalties
-- **Allies:** [[Bandits of Ashdawn]], [[Dragon-Aura-Faced Man_U1|The Dragon-Aura-Faced Man]]
+- **Allies:** [[Bandits of Ashdawn]], [[Dragon-Aura-Faced Man|The Dragon-Aura-Faced Man]]
 - **Enemies:** [[The Gang]]
 
 ---

@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Queen Riniya Xilxidor`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

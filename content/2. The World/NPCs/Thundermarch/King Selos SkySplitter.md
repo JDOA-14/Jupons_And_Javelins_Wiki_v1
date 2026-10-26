@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `King Selos SkySplitter`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

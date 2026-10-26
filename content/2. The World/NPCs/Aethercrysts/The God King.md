@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `The God King`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
@@ -89,7 +88,7 @@ They view the council arguing things like:
 After seemingly fed up with the conversation, The God King waved his hand and completely filled the room with white light. 
 
 ## 🤝 Relationships & Loyalties
-- **Allies:** [[2. The World/CLANS/Aethercrysts|Aethercrysts]], [[King Selos SkySplitter]], [[King Pyros Stormpeak_U1]], Goromire Runehell, Wise dragons and all other good-leaning races.
+- **Allies:** [[2. The World/CLANS/Aethercrysts|Aethercrysts]], [[King Selos SkySplitter]], [[King Pyros Stormpeak]], Goromire Runehell, Wise dragons and all other good-leaning races.
 - **Enemies:** Chaotic dragons, wrong-doers.
 
 ## ⏳ Current Status & The Ledger

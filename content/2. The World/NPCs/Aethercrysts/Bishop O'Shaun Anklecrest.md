@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Bishop O'Shaun Anklecrest`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

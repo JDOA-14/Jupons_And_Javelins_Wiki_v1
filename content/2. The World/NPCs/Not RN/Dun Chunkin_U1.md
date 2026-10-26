@@ -6,7 +6,6 @@ aliases:
 > [!infobox]
 > # `Dun Chunkin - unused but funny name`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

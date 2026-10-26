@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Sky Marshal Herrace Heatsink`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

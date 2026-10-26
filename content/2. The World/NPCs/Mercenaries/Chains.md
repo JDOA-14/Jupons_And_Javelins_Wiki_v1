@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Chains`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

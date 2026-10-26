@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Click Whisperbeak`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

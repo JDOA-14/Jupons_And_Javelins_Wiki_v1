@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Sylak AppleTree`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

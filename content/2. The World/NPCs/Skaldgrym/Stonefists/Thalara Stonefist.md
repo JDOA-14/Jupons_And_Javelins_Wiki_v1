@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Thalara Stonefist`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

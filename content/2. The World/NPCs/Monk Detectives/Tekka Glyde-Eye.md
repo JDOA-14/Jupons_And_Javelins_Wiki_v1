@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Tekka Glyde-Eye`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**

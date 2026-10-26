@@ -8,7 +8,6 @@ aliases:
 > [!infobox]
 > # `Kronar Stormrage`
 > 
-> ![[`=this.image`]]
 > 
 > ---
 > **Full Name**
