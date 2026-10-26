@@ -11,13 +11,13 @@ Welcome to the master campaign wiki for **Valhyria**. Use the **Explorer sidebar
 
 ## 📁 [[2. The World/]]
 
-		- ### 📁 [[CLANS/]]
-		- ### 📁 [[Locations/]]
-		- ### 📁 [[Misc Lore/]]
-		- ### 📁 [[NPCs/]]
-		- ### 📁 [[Timelines/]]
+- ### 📁 [[CLANS/]]
+- ### 📁 [[Locations/]]
+- ### 📁 [[Misc Lore/]]
+- ### 📁 [[NPCs/]]
+- ### 📁 [[Timelines/]]
 
 ## 📁 [[3. Items/]]
-		- ### 📁 [[Story Items/]]
-		- ### 📁 [[Magic Items/]]
-		- ### 📁 [[Non-Magical Loot Info/]]
+- ### 📁 [[Story Items/]]
+- ### 📁 [[Magic Items/]]
+- ### 📁 [[Non-Magical Loot Info/]]
