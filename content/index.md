@@ -18,6 +18,7 @@ Welcome to the master campaign wiki for **Valhyria**. Use the **Explorer sidebar
 - ### 📁 [[Timelines/]]
 
 ## 📁 [[3. Items/]]
-- ### 📁 [[Story Items/]]
-- ### 📁 [[Magic Items/]]
-- ### 📁 [[Non-Magical Loot Info/]]
+- ### 📁 [[3. Items/Story Items/]]
+- ### 📁 [[3.-Items/Magic Items/]]
+- ### 📁 [[3. Items/Non-Magical Loot Info/|Non-Magical Loot Info/]]
+- ### 📁 [[3. Items/Non-Magical Loot Info/|Non-Magical Loot Info]]
